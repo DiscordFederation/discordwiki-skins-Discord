@@ -6,17 +6,17 @@
 			"GeekEmad"
 		]
 	},
-	"vector-skin-desc": "طبعة جديدة تاع مونوبوك، ب شبحة جديدة و تحسانات فل إستعماليّة",
-	"vector-action-addsection": "زيد موضوع",
-	"vector-action-delete": "امحي",
-	"vector-action-move": "حول",
-	"vector-action-protect": "بروجي",
-	"vector-action-undelete": "ردّ كيما كان",
-	"vector-action-unprotect": "بدّل الـحماية",
-	"vector-view-create": "أصنع",
-	"vector-view-edit": "بدّل",
-	"vector-view-history": "شوف التاريخ",
-	"vector-view-view": "اقرى",
-	"vector-view-viewsource": "شوف المصدر",
-	"vector-more-actions": "اكثر"
+	"discord-skin-desc": "طبعة جديدة تاع مونوبوك، ب شبحة جديدة و تحسانات فل إستعماليّة",
+	"discord-action-addsection": "زيد موضوع",
+	"discord-action-delete": "امحي",
+	"discord-action-move": "حول",
+	"discord-action-protect": "بروجي",
+	"discord-action-undelete": "ردّ كيما كان",
+	"discord-action-unprotect": "بدّل الـحماية",
+	"discord-view-create": "أصنع",
+	"discord-view-edit": "بدّل",
+	"discord-view-history": "شوف التاريخ",
+	"discord-view-view": "اقرى",
+	"discord-view-viewsource": "شوف المصدر",
+	"discord-more-actions": "اكثر"
 }

@@ -6,15 +6,15 @@
 			"Muddyb"
 		]
 	},
-	"vector-action-addsection": "Weka mada",
-	"vector-action-delete": "Futa",
-	"vector-action-move": "Hamisha",
-	"vector-action-protect": "Linda",
-	"vector-action-undelete": "Rudisha",
-	"vector-action-unprotect": "Badilisha ulinzi",
-	"vector-view-create": "Anzisha",
-	"vector-view-edit": "Hariri",
-	"vector-view-history": "Fungua historia",
-	"vector-view-view": "Soma",
-	"vector-view-viewsource": "Tazama msimbo"
+	"discord-action-addsection": "Weka mada",
+	"discord-action-delete": "Futa",
+	"discord-action-move": "Hamisha",
+	"discord-action-protect": "Linda",
+	"discord-action-undelete": "Rudisha",
+	"discord-action-unprotect": "Badilisha ulinzi",
+	"discord-view-create": "Anzisha",
+	"discord-view-edit": "Hariri",
+	"discord-view-history": "Fungua historia",
+	"discord-view-view": "Soma",
+	"discord-view-viewsource": "Tazama msimbo"
 }

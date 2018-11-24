@@ -1,5 +1,5 @@
 /**
- * Collapsible Tabs for the Vector skin.
+ * Collapsible Tabs for the Discord skin.
  *
  * @class jQuery.plugin.collapsibleTabs
  */

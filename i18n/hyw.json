@@ -5,10 +5,10 @@
 			"ArmenBakkalian"
 		]
 	},
-	"vector-action-addsection": "Աւելցնել քննարկում",
-	"vector-view-create": "Ստեղծել",
-	"vector-view-edit": "Խմբագրել",
-	"vector-view-history": "Դիտել պատմութիւնը",
-	"vector-view-view": "Կարդալ",
-	"vector-more-actions": "Աւելին"
+	"discord-action-addsection": "Աւելցնել քննարկում",
+	"discord-view-create": "Ստեղծել",
+	"discord-view-edit": "Խմբագրել",
+	"discord-view-history": "Դիտել պատմութիւնը",
+	"discord-view-view": "Կարդալ",
+	"discord-more-actions": "Աւելին"
 }

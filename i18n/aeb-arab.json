@@ -5,16 +5,16 @@
 			"Csisc"
 		]
 	},
-	"vector-action-addsection": "أضف موضوعاً",
-	"vector-action-delete": "احذف",
-	"vector-action-move": "حوّل",
-	"vector-action-protect": "احم",
-	"vector-action-undelete": "استرجع الحذف",
-	"vector-action-unprotect": "غير الحماية",
-	"vector-view-create": "أنشئ",
-	"vector-view-edit": "بدّل",
-	"vector-view-history": "ورّي الپاج",
-	"vector-view-view": "أقرا",
-	"vector-view-viewsource": "اعرض المصدر",
-	"vector-more-actions": "زادة"
+	"discord-action-addsection": "أضف موضوعاً",
+	"discord-action-delete": "احذف",
+	"discord-action-move": "حوّل",
+	"discord-action-protect": "احم",
+	"discord-action-undelete": "استرجع الحذف",
+	"discord-action-unprotect": "غير الحماية",
+	"discord-view-create": "أنشئ",
+	"discord-view-edit": "بدّل",
+	"discord-view-history": "ورّي الپاج",
+	"discord-view-view": "أقرا",
+	"discord-view-viewsource": "اعرض المصدر",
+	"discord-more-actions": "زادة"
 }

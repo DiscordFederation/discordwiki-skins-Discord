@@ -4,15 +4,15 @@
 			"Geoleplubo"
 		]
 	},
-	"vector-action-addsection": "Rajouter un sujeut",
-	"vector-action-delete": "Défacer",
-	"vector-action-move": "Canger ch'nom",
-	"vector-action-protect": "Garantir",
-	"vector-action-undelete": "N'poin défacher",
-	"vector-action-unprotect": "Canger l'garantie",
-	"vector-view-create": "Créer",
-	"vector-view-edit": "Éditer",
-	"vector-view-history": "Vir l'histoère",
-	"vector-view-view": "Lire",
-	"vector-view-viewsource": "Vir l'source"
+	"discord-action-addsection": "Rajouter un sujeut",
+	"discord-action-delete": "Défacer",
+	"discord-action-move": "Canger ch'nom",
+	"discord-action-protect": "Garantir",
+	"discord-action-undelete": "N'poin défacher",
+	"discord-action-unprotect": "Canger l'garantie",
+	"discord-view-create": "Créer",
+	"discord-view-edit": "Éditer",
+	"discord-view-history": "Vir l'histoère",
+	"discord-view-view": "Lire",
+	"discord-view-viewsource": "Vir l'source"
 }

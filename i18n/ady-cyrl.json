@@ -12,16 +12,16 @@
 			"Highlander45temp"
 		]
 	},
-	"vector-action-addsection": "Ӏофтхьабз",
-	"vector-action-delete": "ТегъэкӀ",
-	"vector-action-move": "Хьы",
-	"vector-action-protect": "Иухъумэ",
-	"vector-action-undelete": "УмылъэкӀ",
-	"vector-action-unprotect": "Умыухъумэ",
-	"vector-view-create": "КъэшӀ",
-	"vector-view-edit": "ХэӀэзыхь",
-	"vector-view-history": "Тарихъым eплъ",
-	"vector-view-view": "Едж",
-	"vector-view-viewsource": "Еплъ лъапсэм",
-	"vector-more-actions": "Джыри"
+	"discord-action-addsection": "Ӏофтхьабз",
+	"discord-action-delete": "ТегъэкӀ",
+	"discord-action-move": "Хьы",
+	"discord-action-protect": "Иухъумэ",
+	"discord-action-undelete": "УмылъэкӀ",
+	"discord-action-unprotect": "Умыухъумэ",
+	"discord-view-create": "КъэшӀ",
+	"discord-view-edit": "ХэӀэзыхь",
+	"discord-view-history": "Тарихъым eплъ",
+	"discord-view-view": "Едж",
+	"discord-view-viewsource": "Еплъ лъапсэм",
+	"discord-more-actions": "Джыри"
 }

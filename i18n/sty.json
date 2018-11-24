@@ -4,13 +4,13 @@
 			"Khanmarat"
 		]
 	},
-	"vector-action-addsection": "Тема өстәгәле",
-	"vector-action-delete": "Йуҡ иткәле",
-	"vector-action-move": "Исемне алмаштырғалы",
-	"vector-action-protect": "Йаҡлағалы",
-	"vector-view-create": "Ҡылғалы",
-	"vector-view-edit": "Төсәткәле",
-	"vector-view-history": "Тариҡны ҡарағалы",
-	"vector-view-view": "Уғығалы",
-	"vector-more-actions": "Тағын"
+	"discord-action-addsection": "Тема өстәгәле",
+	"discord-action-delete": "Йуҡ иткәле",
+	"discord-action-move": "Исемне алмаштырғалы",
+	"discord-action-protect": "Йаҡлағалы",
+	"discord-view-create": "Ҡылғалы",
+	"discord-view-edit": "Төсәткәле",
+	"discord-view-history": "Тариҡны ҡарағалы",
+	"discord-view-view": "Уғығалы",
+	"discord-more-actions": "Тағын"
 }

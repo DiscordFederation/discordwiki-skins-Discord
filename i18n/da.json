@@ -6,17 +6,17 @@
 			"Peter Alberti"
 		]
 	},
-	"vector-skin-desc": "Moderne version af MonoBook med frisk udseende og mange forbedringer af brugervenligheden",
-	"vector-action-addsection": "Nyt emne",
-	"vector-action-delete": "Slet",
-	"vector-action-move": "Flyt",
-	"vector-action-protect": "Beskyt",
-	"vector-action-undelete": "Gendan",
-	"vector-action-unprotect": "Ændr beskyttelse",
-	"vector-view-create": "Opret",
-	"vector-view-edit": "Redigér",
-	"vector-view-history": "Se historik",
-	"vector-view-view": "Læs",
-	"vector-view-viewsource": "Se kilden",
-	"vector-more-actions": "Mere"
+	"discord-skin-desc": "Moderne version af MonoBook med frisk udseende og mange forbedringer af brugervenligheden",
+	"discord-action-addsection": "Nyt emne",
+	"discord-action-delete": "Slet",
+	"discord-action-move": "Flyt",
+	"discord-action-protect": "Beskyt",
+	"discord-action-undelete": "Gendan",
+	"discord-action-unprotect": "Ændr beskyttelse",
+	"discord-view-create": "Opret",
+	"discord-view-edit": "Redigér",
+	"discord-view-history": "Se historik",
+	"discord-view-view": "Læs",
+	"discord-view-viewsource": "Se kilden",
+	"discord-more-actions": "Mere"
 }

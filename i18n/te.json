@@ -8,17 +8,17 @@
 			"Veeven"
 		]
 	},
-	"skinname-vector": "వెక్టర్",
-	"vector-action-addsection": "విషయాన్ని చేర్చు",
-	"vector-action-delete": "తొలగించు",
-	"vector-action-move": "తరలించు",
-	"vector-action-protect": "సంరక్షించు",
-	"vector-action-undelete": "తొలగింపును రద్దుచెయ్యి",
-	"vector-action-unprotect": "సంరక్షణను మార్చు",
-	"vector-view-create": "సృష్టించు",
-	"vector-view-edit": "సవరించు",
-	"vector-view-history": "చరిత్రను చూడండి",
-	"vector-view-view": "చదువు",
-	"vector-view-viewsource": "మూలాన్ని చూపించు",
-	"vector-more-actions": "మరిన్ని"
+	"skinname-discord": "వెక్టర్",
+	"discord-action-addsection": "విషయాన్ని చేర్చు",
+	"discord-action-delete": "తొలగించు",
+	"discord-action-move": "తరలించు",
+	"discord-action-protect": "సంరక్షించు",
+	"discord-action-undelete": "తొలగింపును రద్దుచెయ్యి",
+	"discord-action-unprotect": "సంరక్షణను మార్చు",
+	"discord-view-create": "సృష్టించు",
+	"discord-view-edit": "సవరించు",
+	"discord-view-history": "చరిత్రను చూడండి",
+	"discord-view-view": "చదువు",
+	"discord-view-viewsource": "మూలాన్ని చూపించు",
+	"discord-more-actions": "మరిన్ని"
 }

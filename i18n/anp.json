@@ -4,13 +4,13 @@
 			"Angpradesh"
 		]
 	},
-	"vector-action-addsection": "विषय जोड़ऽ",
-	"vector-action-delete": "मेटाबऽ",
-	"vector-action-move": "चलऽ",
-	"vector-action-protect": "सुरक्षित करऽ",
-	"vector-view-create": "सृजन करऽ",
-	"vector-view-edit": "संपादन करऽ",
-	"vector-view-history": "इतिहास देखऽ",
-	"vector-view-view": "पढ़ऽ",
-	"vector-more-actions": "आरू जादा"
+	"discord-action-addsection": "विषय जोड़ऽ",
+	"discord-action-delete": "मेटाबऽ",
+	"discord-action-move": "चलऽ",
+	"discord-action-protect": "सुरक्षित करऽ",
+	"discord-view-create": "सृजन करऽ",
+	"discord-view-edit": "संपादन करऽ",
+	"discord-view-history": "इतिहास देखऽ",
+	"discord-view-view": "पढ़ऽ",
+	"discord-more-actions": "आरू जादा"
 }

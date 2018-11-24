@@ -4,14 +4,14 @@
 			"Imdadb"
 		]
 	},
-	"vector-action-addsection": "Púskun sarhál",
-	"vector-action-delete": "Mesa",
-	"vector-action-move": "Surif",
-	"vector-action-protect": "Rakk",
-	"vector-view-create": "Biná",
-	"vector-view-edit": "Radbadal",
-	"vector-view-history": "Lekav e ur",
-	"vector-view-view": "Xuán",
-	"vector-view-viewsource": "Bumpad e ur",
-	"vector-more-actions": "Pen"
+	"discord-action-addsection": "Púskun sarhál",
+	"discord-action-delete": "Mesa",
+	"discord-action-move": "Surif",
+	"discord-action-protect": "Rakk",
+	"discord-view-create": "Biná",
+	"discord-view-edit": "Radbadal",
+	"discord-view-history": "Lekav e ur",
+	"discord-view-view": "Xuán",
+	"discord-view-viewsource": "Bumpad e ur",
+	"discord-more-actions": "Pen"
 }

@@ -6,16 +6,16 @@
 			"Joao Xavier"
 		]
 	},
-	"vector-action-addsection": "Adjuntar topiko",
-	"vector-action-delete": "Efacar",
-	"vector-action-move": "Movar",
-	"vector-action-protect": "Protektar",
-	"vector-action-undelete": "Rekuperar",
-	"vector-action-unprotect": "Chanjar protektado",
-	"vector-view-create": "Krear",
-	"vector-view-edit": "Redaktar",
-	"vector-view-history": "Vidar versionaro",
-	"vector-view-view": "Lektar",
-	"vector-view-viewsource": "Vidar fonto",
-	"vector-more-actions": "Pluse"
+	"discord-action-addsection": "Adjuntar topiko",
+	"discord-action-delete": "Efacar",
+	"discord-action-move": "Movar",
+	"discord-action-protect": "Protektar",
+	"discord-action-undelete": "Rekuperar",
+	"discord-action-unprotect": "Chanjar protektado",
+	"discord-view-create": "Krear",
+	"discord-view-edit": "Redaktar",
+	"discord-view-history": "Vidar versionaro",
+	"discord-view-view": "Lektar",
+	"discord-view-viewsource": "Vidar fonto",
+	"discord-more-actions": "Pluse"
 }

@@ -7,16 +7,16 @@
 			"Teferra"
 		]
 	},
-	"vector-action-addsection": "ርዕስ ጨምር",
-	"vector-action-delete": "አጥፋ",
-	"vector-action-move": "ለማዛወር",
-	"vector-action-protect": "ለመቆለፍ",
-	"vector-action-undelete": "አታጥፋ",
-	"vector-action-unprotect": "አለመቆለፍ",
-	"vector-view-create": "አዲስ ፍጠር",
-	"vector-view-edit": "አርም",
-	"vector-view-history": "ታሪኩን አሳይ",
-	"vector-view-view": "ለማንበብ",
-	"vector-view-viewsource": "ጥሬ ኮድ ለመመልከት",
-	"vector-more-actions": "ተጨማሪ"
+	"discord-action-addsection": "ርዕስ ጨምር",
+	"discord-action-delete": "አጥፋ",
+	"discord-action-move": "ለማዛወር",
+	"discord-action-protect": "ለመቆለፍ",
+	"discord-action-undelete": "አታጥፋ",
+	"discord-action-unprotect": "አለመቆለፍ",
+	"discord-view-create": "አዲስ ፍጠር",
+	"discord-view-edit": "አርም",
+	"discord-view-history": "ታሪኩን አሳይ",
+	"discord-view-view": "ለማንበብ",
+	"discord-view-viewsource": "ጥሬ ኮድ ለመመልከት",
+	"discord-more-actions": "ተጨማሪ"
 }

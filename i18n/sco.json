@@ -8,17 +8,17 @@
 			"Macofe"
 		]
 	},
-	"vector-skin-desc": "Modern version o MonoBook wi ae fresh luik n monie uisabeelitie impruivments",
-	"vector-action-addsection": "Eik topic",
-	"vector-action-delete": "Delyte",
-	"vector-action-move": "Muiv",
-	"vector-action-protect": "Fend",
-	"vector-action-undelete": "Ondelyte",
-	"vector-action-unprotect": "Chynge protection",
-	"vector-view-create": "Ceaut",
-	"vector-view-edit": "Eedit",
-	"vector-view-history": "See histerie",
-	"vector-view-view": "Read",
-	"vector-view-viewsource": "See Soorce",
-	"vector-more-actions": "Mair"
+	"discord-skin-desc": "Modern version o MonoBook wi ae fresh luik n monie uisabeelitie impruivments",
+	"discord-action-addsection": "Eik topic",
+	"discord-action-delete": "Delyte",
+	"discord-action-move": "Muiv",
+	"discord-action-protect": "Fend",
+	"discord-action-undelete": "Ondelyte",
+	"discord-action-unprotect": "Chynge protection",
+	"discord-view-create": "Ceaut",
+	"discord-view-edit": "Eedit",
+	"discord-view-history": "See histerie",
+	"discord-view-view": "Read",
+	"discord-view-viewsource": "See Soorce",
+	"discord-more-actions": "Mair"
 }

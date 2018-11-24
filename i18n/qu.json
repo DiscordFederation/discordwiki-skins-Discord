@@ -4,16 +4,16 @@
 			"AlimanRuna"
 		]
 	},
-	"vector-action-addsection": "Allwiyta yapay",
-	"vector-action-delete": "Qulluy",
-	"vector-action-move": "Astay",
-	"vector-action-protect": "Amachay",
-	"vector-action-undelete": "Qullusqata paqarichiy",
-	"vector-action-unprotect": "Amachayta wakinchay",
-	"vector-view-create": "Kamariy",
-	"vector-view-edit": "Llamk'apuy",
-	"vector-view-history": "Wiñay kawsayta qhaway",
-	"vector-view-view": "Ñawiriy",
-	"vector-view-viewsource": "Pukyu qillqata qhaway",
-	"vector-more-actions": "Aswan"
+	"discord-action-addsection": "Allwiyta yapay",
+	"discord-action-delete": "Qulluy",
+	"discord-action-move": "Astay",
+	"discord-action-protect": "Amachay",
+	"discord-action-undelete": "Qullusqata paqarichiy",
+	"discord-action-unprotect": "Amachayta wakinchay",
+	"discord-view-create": "Kamariy",
+	"discord-view-edit": "Llamk'apuy",
+	"discord-view-history": "Wiñay kawsayta qhaway",
+	"discord-view-view": "Ñawiriy",
+	"discord-view-viewsource": "Pukyu qillqata qhaway",
+	"discord-more-actions": "Aswan"
 }

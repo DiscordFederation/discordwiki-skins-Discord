@@ -4,15 +4,15 @@
 			"Usingha"
 		]
 	},
-	"vector-action-addsection": "বিষয় তিলকর",
-	"vector-action-delete": "পুসে বেলা",
-	"vector-action-move": "থেইকর",
-	"vector-action-protect": "লুকর",
-	"vector-action-undelete": "নাপুসি",
-	"vector-action-unprotect": "লুকরানিহান সিলকর",
-	"vector-view-create": "হঙকরিক",
-	"vector-view-edit": "পতানি",
-	"vector-view-history": "ইতিহাস চেইক",
-	"vector-view-view": "পাকরিক",
-	"vector-view-viewsource": "সোর্স চেইক"
+	"discord-action-addsection": "বিষয় তিলকর",
+	"discord-action-delete": "পুসে বেলা",
+	"discord-action-move": "থেইকর",
+	"discord-action-protect": "লুকর",
+	"discord-action-undelete": "নাপুসি",
+	"discord-action-unprotect": "লুকরানিহান সিলকর",
+	"discord-view-create": "হঙকরিক",
+	"discord-view-edit": "পতানি",
+	"discord-view-history": "ইতিহাস চেইক",
+	"discord-view-view": "পাকরিক",
+	"discord-view-viewsource": "সোর্স চেইক"
 }

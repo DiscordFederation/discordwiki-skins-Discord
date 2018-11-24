@@ -5,16 +5,16 @@
 			"Ganbarzada"
 		]
 	},
-	"vector-action-addsection": "Мывзу зијод кардеј",
-	"vector-action-delete": "Рәдд кардеј",
-	"vector-action-move": "Номи дәгиш кардеј",
-	"vector-action-protect": "Мыдофијә кардеј",
-	"vector-action-undelete": "Бәрпо кардеј",
-	"vector-action-unprotect": "Мыдофијә дәгиш кардеј",
-	"vector-view-create": "Офәјеј",
-	"vector-view-edit": "Сәрост кардеј",
-	"vector-view-history": "Тарых",
-	"vector-view-view": "Һандемон",
-	"vector-view-viewsource": "Дијә кардеј",
-	"vector-more-actions": "həniyən"
+	"discord-action-addsection": "Мывзу зијод кардеј",
+	"discord-action-delete": "Рәдд кардеј",
+	"discord-action-move": "Номи дәгиш кардеј",
+	"discord-action-protect": "Мыдофијә кардеј",
+	"discord-action-undelete": "Бәрпо кардеј",
+	"discord-action-unprotect": "Мыдофијә дәгиш кардеј",
+	"discord-view-create": "Офәјеј",
+	"discord-view-edit": "Сәрост кардеј",
+	"discord-view-history": "Тарых",
+	"discord-view-view": "Һандемон",
+	"discord-view-viewsource": "Дијә кардеј",
+	"discord-more-actions": "həniyən"
 }

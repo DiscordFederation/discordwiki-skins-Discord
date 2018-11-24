@@ -10,17 +10,17 @@
 			"Kumkumuk"
 		]
 	},
-	"vector-skin-desc": "MonoBook Modern versiyonu ile taze bir görünüm ve iyi bir kullanım kolaylığı",
-	"vector-action-addsection": "Konu ekle",
-	"vector-action-delete": "Sil",
-	"vector-action-move": "Taşı",
-	"vector-action-protect": "Koru",
-	"vector-action-undelete": "Silinmeyi geri al",
-	"vector-action-unprotect": "Korumayı değiştir",
-	"vector-view-create": "Oluştur",
-	"vector-view-edit": "Düzenle",
-	"vector-view-history": "Geçmişi gör",
-	"vector-view-view": "Oku",
-	"vector-view-viewsource": "Kaynağı gör",
-	"vector-more-actions": "Diğer"
+	"discord-skin-desc": "MonoBook Modern versiyonu ile taze bir görünüm ve iyi bir kullanım kolaylığı",
+	"discord-action-addsection": "Konu ekle",
+	"discord-action-delete": "Sil",
+	"discord-action-move": "Taşı",
+	"discord-action-protect": "Koru",
+	"discord-action-undelete": "Silinmeyi geri al",
+	"discord-action-unprotect": "Korumayı değiştir",
+	"discord-view-create": "Oluştur",
+	"discord-view-edit": "Düzenle",
+	"discord-view-history": "Geçmişi gör",
+	"discord-view-view": "Oku",
+	"discord-view-viewsource": "Kaynağı gör",
+	"discord-more-actions": "Diğer"
 }

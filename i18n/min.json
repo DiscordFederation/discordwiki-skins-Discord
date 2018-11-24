@@ -7,17 +7,17 @@
 			"Naval Scene"
 		]
 	},
-	"skinname-vector": "Vektor",
-	"vector-action-addsection": "Bagian baru",
-	"vector-action-delete": "Hapuih",
-	"vector-action-move": "Pindahkan",
-	"vector-action-protect": "Linduangkan",
-	"vector-action-undelete": "Pambatalan pangapuihan",
-	"vector-action-unprotect": "Tuka palinduangan",
-	"vector-view-create": "Buek",
-	"vector-view-edit": "Suntiang",
-	"vector-view-history": "Riwayaik",
-	"vector-view-view": "Baco",
-	"vector-view-viewsource": "Caliak sumber",
-	"vector-more-actions": "Lainnyo"
+	"skinname-discord": "Vektor",
+	"discord-action-addsection": "Bagian baru",
+	"discord-action-delete": "Hapuih",
+	"discord-action-move": "Pindahkan",
+	"discord-action-protect": "Linduangkan",
+	"discord-action-undelete": "Pambatalan pangapuihan",
+	"discord-action-unprotect": "Tuka palinduangan",
+	"discord-view-create": "Buek",
+	"discord-view-edit": "Suntiang",
+	"discord-view-history": "Riwayaik",
+	"discord-view-view": "Baco",
+	"discord-view-viewsource": "Caliak sumber",
+	"discord-more-actions": "Lainnyo"
 }

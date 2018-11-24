@@ -6,13 +6,13 @@
 			"YesIn"
 		]
 	},
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⴽⴽⵙ",
-	"vector-action-move": "ⵙⵎⵓⵜⵜⵉ",
-	"vector-action-protect": "ⵢⴰⵔⴰⵢ",
-	"vector-view-create": "ⵙⵏⴼⵍⵓⵍ",
-	"vector-view-edit": "ⵙⵏⴼⵍ",
-	"vector-view-history": "ⵙⴽⵏ ⴰⵎⵣⵔⴰⵢ",
-	"vector-view-view": "ⵖⵔ",
-	"vector-more-actions": "ⵓⴳⴳⴰⵔ"
+	"discord-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"discord-action-delete": "ⴽⴽⵙ",
+	"discord-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"discord-action-protect": "ⵢⴰⵔⴰⵢ",
+	"discord-view-create": "ⵙⵏⴼⵍⵓⵍ",
+	"discord-view-edit": "ⵙⵏⴼⵍ",
+	"discord-view-history": "ⵙⴽⵏ ⴰⵎⵣⵔⴰⵢ",
+	"discord-view-view": "ⵖⵔ",
+	"discord-more-actions": "ⵓⴳⴳⴰⵔ"
 }

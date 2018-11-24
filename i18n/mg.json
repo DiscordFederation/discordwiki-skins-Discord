@@ -4,16 +4,16 @@
 			"Jagwar"
 		]
 	},
-	"vector-action-addsection": "Hanampy lohahevitra",
-	"vector-action-delete": "Fafana",
-	"vector-action-move": "Hanolo anarana",
-	"vector-action-protect": "Arovy",
-	"vector-action-undelete": "Avereno",
-	"vector-action-unprotect": "Hanala ny fiarovana",
-	"vector-view-create": "Foronona",
-	"vector-view-edit": "Hanova",
-	"vector-view-history": "Hijery ny tantara",
-	"vector-view-view": "Hamaky",
-	"vector-view-viewsource": "Hijery fango",
-	"vector-more-actions": "Be kokoa"
+	"discord-action-addsection": "Hanampy lohahevitra",
+	"discord-action-delete": "Fafana",
+	"discord-action-move": "Hanolo anarana",
+	"discord-action-protect": "Arovy",
+	"discord-action-undelete": "Avereno",
+	"discord-action-unprotect": "Hanala ny fiarovana",
+	"discord-view-create": "Foronona",
+	"discord-view-edit": "Hanova",
+	"discord-view-history": "Hijery ny tantara",
+	"discord-view-view": "Hamaky",
+	"discord-view-viewsource": "Hijery fango",
+	"discord-more-actions": "Be kokoa"
 }

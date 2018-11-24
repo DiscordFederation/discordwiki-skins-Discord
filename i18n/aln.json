@@ -4,17 +4,17 @@
 			"Bresta"
 		]
 	},
-	"vector.css": "/* CSSi i vednosun këtu ka me i prekë shfrytëzuesit e dukjes Vector */",
-	"vector.js": "/* Çdo JavaScript këtu ka me u ngarkue për shfrytëzuesit që përdorin dukjen Vector */",
-	"vector-action-addsection": "Shto temë",
-	"vector-action-delete": "Fshij",
-	"vector-action-move": "Zhvendos",
-	"vector-action-protect": "Mbroj",
-	"vector-action-undelete": "Kthe fshimjen mbrapsht",
-	"vector-action-unprotect": "Hiq mbrojtjen",
-	"vector-view-create": "Krijo",
-	"vector-view-edit": "Redakto",
-	"vector-view-history": "Shih historinë",
-	"vector-view-view": "Lexo",
-	"vector-view-viewsource": "Shih kodin"
+	"discord.css": "/* CSSi i vednosun këtu ka me i prekë shfrytëzuesit e dukjes Discord */",
+	"discord.js": "/* Çdo JavaScript këtu ka me u ngarkue për shfrytëzuesit që përdorin dukjen Discord */",
+	"discord-action-addsection": "Shto temë",
+	"discord-action-delete": "Fshij",
+	"discord-action-move": "Zhvendos",
+	"discord-action-protect": "Mbroj",
+	"discord-action-undelete": "Kthe fshimjen mbrapsht",
+	"discord-action-unprotect": "Hiq mbrojtjen",
+	"discord-view-create": "Krijo",
+	"discord-view-edit": "Redakto",
+	"discord-view-history": "Shih historinë",
+	"discord-view-view": "Lexo",
+	"discord-view-viewsource": "Shih kodin"
 }

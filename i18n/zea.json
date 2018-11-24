@@ -4,15 +4,15 @@
 			"Ooswesthoesbes"
 		]
 	},
-	"vector-action-addsection": "Voeg kopje toe",
-	"vector-action-delete": "Wissen",
-	"vector-action-move": "Verschuuf",
-	"vector-action-protect": "Bescherm",
-	"vector-action-undelete": "Plaets truhhe",
-	"vector-action-unprotect": "Beveiligienge anpass'n",
-	"vector-view-create": "Anmaeken",
-	"vector-view-edit": "Bewerk",
-	"vector-view-history": "Geschiedenisse bekiek'n",
-	"vector-view-view": "Lezen",
-	"vector-view-viewsource": "Brontekst bekieken"
+	"discord-action-addsection": "Voeg kopje toe",
+	"discord-action-delete": "Wissen",
+	"discord-action-move": "Verschuuf",
+	"discord-action-protect": "Bescherm",
+	"discord-action-undelete": "Plaets truhhe",
+	"discord-action-unprotect": "Beveiligienge anpass'n",
+	"discord-view-create": "Anmaeken",
+	"discord-view-edit": "Bewerk",
+	"discord-view-history": "Geschiedenisse bekiek'n",
+	"discord-view-view": "Lezen",
+	"discord-view-viewsource": "Brontekst bekieken"
 }

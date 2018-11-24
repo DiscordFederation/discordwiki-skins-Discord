@@ -6,17 +6,17 @@
 			"Монгуш Салим"
 		]
 	},
-	"skinname-vector": "Вектор",
-	"vector-action-addsection": "Тема немээр",
-	"vector-action-delete": "Ырадыры",
-	"vector-action-move": "Шимчээри",
-	"vector-action-protect": "Камгалаары",
-	"vector-action-undelete": "Эгидер",
-	"vector-action-unprotect": "Камгалалды өскертири",
-	"vector-view-create": "Кылыр",
-	"vector-view-edit": "Эдер",
-	"vector-view-history": "Төөгүнү көөр",
-	"vector-view-view": "Номчуур",
-	"vector-view-viewsource": "Дөзү бижиин көөрү",
-	"vector-more-actions": "Оон ыңай"
+	"skinname-discord": "Вектор",
+	"discord-action-addsection": "Тема немээр",
+	"discord-action-delete": "Ырадыры",
+	"discord-action-move": "Шимчээри",
+	"discord-action-protect": "Камгалаары",
+	"discord-action-undelete": "Эгидер",
+	"discord-action-unprotect": "Камгалалды өскертири",
+	"discord-view-create": "Кылыр",
+	"discord-view-edit": "Эдер",
+	"discord-view-history": "Төөгүнү көөр",
+	"discord-view-view": "Номчуур",
+	"discord-view-viewsource": "Дөзү бижиин көөрү",
+	"discord-more-actions": "Оон ыңай"
 }

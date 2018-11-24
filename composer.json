@@ -1,5 +1,5 @@
 {
-	"name": "mediawiki/vector-skin",
+	"name": "mediawiki/discord-skin",
 	"type": "mediawiki-skin",
 	"description": "Modern version of the MonoBook skin",
 	"keywords": [
@@ -7,7 +7,7 @@
 		"MediaWiki",
 		"skin"
 	],
-	"homepage": "https://www.mediawiki.org/wiki/Skin:Vector",
+	"homepage": "https://www.mediawiki.org/wiki/Skin:Discord",
 	"license": "GPL-2.0-or-later",
 	"authors": [
 		{
@@ -18,8 +18,8 @@
 		}
 	],
 	"support": {
-		"wiki": "https://www.mediawiki.org/wiki/Skin:Vector",
-		"forum": "https://www.mediawiki.org/wiki/Skin_talk:Vector",
+		"wiki": "https://www.mediawiki.org/wiki/Skin:Discord",
+		"forum": "https://www.mediawiki.org/wiki/Skin_talk:Discord",
 		"source": "https://phabricator.wikimedia.org/diffusion/SVEC/",
 		"irc": "irc://irc.freenode.org/mediawiki"
 	},
@@ -31,7 +31,7 @@
 		"branch-alias": {
 			"dev-master": "1.x-dev"
 		},
-		"installer-name": "Vector"
+		"installer-name": "Discord"
 	},
 	"require-dev": {
 		"jakub-onderka/php-parallel-lint": "1.0.0",

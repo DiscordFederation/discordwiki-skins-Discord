@@ -5,16 +5,16 @@
 			"Midnight Gambler"
 		]
 	},
-	"vector-action-addsection": "Abschnitt hinzufüche",
-	"vector-action-delete": "Lösche",
-	"vector-action-move": "Verschiebe",
-	"vector-action-protect": "Schütz",
-	"vector-action-undelete": "Wiederherstelle",
-	"vector-action-unprotect": "Seiteschutz ännre",
-	"vector-view-create": "Erstell",
-	"vector-view-edit": "Beoorbeite",
-	"vector-view-history": "Versionsgeschicht",
-	"vector-view-view": "Lese",
-	"vector-view-viewsource": "Quelltext oonzeiche",
-	"vector-more-actions": "Meahr"
+	"discord-action-addsection": "Abschnitt hinzufüche",
+	"discord-action-delete": "Lösche",
+	"discord-action-move": "Verschiebe",
+	"discord-action-protect": "Schütz",
+	"discord-action-undelete": "Wiederherstelle",
+	"discord-action-unprotect": "Seiteschutz ännre",
+	"discord-view-create": "Erstell",
+	"discord-view-edit": "Beoorbeite",
+	"discord-view-history": "Versionsgeschicht",
+	"discord-view-view": "Lese",
+	"discord-view-viewsource": "Quelltext oonzeiche",
+	"discord-more-actions": "Meahr"
 }

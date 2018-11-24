@@ -6,16 +6,16 @@
 			"KHMELNYTSKYIA"
 		]
 	},
-	"vector-action-addsection": "Придати тему",
-	"vector-action-delete": "Вымазати",
-	"vector-action-move": "Переменовати",
-	"vector-action-protect": "Всокотити",
-	"vector-action-undelete": "Обновити",
-	"vector-action-unprotect": "Змінити замок",
-	"vector-view-create": "Створити",
-	"vector-view-edit": "Едітовати",
-	"vector-view-history": "Видїти історію",
-	"vector-view-view": "Чітати",
-	"vector-view-viewsource": "Видїти код",
-	"vector-more-actions": "Веце"
+	"discord-action-addsection": "Придати тему",
+	"discord-action-delete": "Вымазати",
+	"discord-action-move": "Переменовати",
+	"discord-action-protect": "Всокотити",
+	"discord-action-undelete": "Обновити",
+	"discord-action-unprotect": "Змінити замок",
+	"discord-view-create": "Створити",
+	"discord-view-edit": "Едітовати",
+	"discord-view-history": "Видїти історію",
+	"discord-view-view": "Чітати",
+	"discord-view-viewsource": "Видїти код",
+	"discord-more-actions": "Веце"
 }

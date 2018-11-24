@@ -1,9 +1,9 @@
 {
 	"@metadata": [],
-	"vector-action-addsection": "Zonta una cjacarèda",
-	"vector-action-delete": "Scanzèla",
-	"vector-action-move": "Chèmbia nòm",
-	"vector-action-protect": "Metti-j una pruteziò",
-	"vector-action-undelete": "Armett a post",
-	"vector-action-unprotect": "Sbloca"
+	"discord-action-addsection": "Zonta una cjacarèda",
+	"discord-action-delete": "Scanzèla",
+	"discord-action-move": "Chèmbia nòm",
+	"discord-action-protect": "Metti-j una pruteziò",
+	"discord-action-undelete": "Armett a post",
+	"discord-action-unprotect": "Sbloca"
 }

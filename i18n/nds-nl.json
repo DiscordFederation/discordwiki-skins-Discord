@@ -4,16 +4,16 @@
 			"Servien"
 		]
 	},
-	"vector-action-addsection": "Niej onderwarp",
-	"vector-action-delete": "Vortdoon",
-	"vector-action-move": "Hernömen",
-	"vector-action-protect": "Beveiligen",
-	"vector-action-undelete": "Weerummeplaotsen",
-	"vector-action-unprotect": "Beveyliging wysigen",
-	"vector-view-create": "Anmaken",
-	"vector-view-edit": "Bewarken",
-	"vector-view-history": "Geskydenisse bekyken",
-	"vector-view-view": "Leasen",
-	"vector-view-viewsource": "Brontekste bekyken",
-	"vector-more-actions": "Meer"
+	"discord-action-addsection": "Niej onderwarp",
+	"discord-action-delete": "Vortdoon",
+	"discord-action-move": "Hernömen",
+	"discord-action-protect": "Beveiligen",
+	"discord-action-undelete": "Weerummeplaotsen",
+	"discord-action-unprotect": "Beveyliging wysigen",
+	"discord-view-create": "Anmaken",
+	"discord-view-edit": "Bewarken",
+	"discord-view-history": "Geskydenisse bekyken",
+	"discord-view-view": "Leasen",
+	"discord-view-viewsource": "Brontekste bekyken",
+	"discord-more-actions": "Meer"
 }

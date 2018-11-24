@@ -5,17 +5,17 @@
 			"Saluyot"
 		]
 	},
-	"vector-skin-desc": "Moderno a bersion ti MonoBook nga addaan iti baro a langa ken adu kadagiti naserbi a panagpasayaat",
-	"vector-action-addsection": "Agnayon iti topiko",
-	"vector-action-delete": "Ikkaten",
-	"vector-action-move": "Iyalis",
-	"vector-action-protect": "Salakniban",
-	"vector-action-undelete": "Isubli ti inikkat",
-	"vector-action-unprotect": "Baliwan ti salaknib",
-	"vector-view-create": "Agpartuat",
-	"vector-view-edit": "Urnosen",
-	"vector-view-history": "Kitaen ti pakasaritaan",
-	"vector-view-view": "Basaen",
-	"vector-view-viewsource": "Kitaen ti taudan",
-	"vector-more-actions": "Adu pay"
+	"discord-skin-desc": "Moderno a bersion ti MonoBook nga addaan iti baro a langa ken adu kadagiti naserbi a panagpasayaat",
+	"discord-action-addsection": "Agnayon iti topiko",
+	"discord-action-delete": "Ikkaten",
+	"discord-action-move": "Iyalis",
+	"discord-action-protect": "Salakniban",
+	"discord-action-undelete": "Isubli ti inikkat",
+	"discord-action-unprotect": "Baliwan ti salaknib",
+	"discord-view-create": "Agpartuat",
+	"discord-view-edit": "Urnosen",
+	"discord-view-history": "Kitaen ti pakasaritaan",
+	"discord-view-view": "Basaen",
+	"discord-view-viewsource": "Kitaen ti taudan",
+	"discord-more-actions": "Adu pay"
 }

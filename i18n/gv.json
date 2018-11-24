@@ -5,15 +5,15 @@
 			"Shimmin Beg"
 		]
 	},
-	"vector-action-addsection": "Cur cooish noa rish",
-	"vector-action-delete": "Scryss",
-	"vector-action-move": "Scugh",
-	"vector-action-protect": "Coadee",
-	"vector-action-undelete": "Jee-scryss",
-	"vector-action-unprotect": "Caghlaa coadey",
-	"vector-view-create": "Croo",
-	"vector-view-edit": "Reagh",
-	"vector-view-history": "Jeeagh er shennaghys",
-	"vector-view-view": "Lhaih",
-	"vector-view-viewsource": "Jeeagh er bun"
+	"discord-action-addsection": "Cur cooish noa rish",
+	"discord-action-delete": "Scryss",
+	"discord-action-move": "Scugh",
+	"discord-action-protect": "Coadee",
+	"discord-action-undelete": "Jee-scryss",
+	"discord-action-unprotect": "Caghlaa coadey",
+	"discord-view-create": "Croo",
+	"discord-view-edit": "Reagh",
+	"discord-view-history": "Jeeagh er shennaghys",
+	"discord-view-view": "Lhaih",
+	"discord-view-viewsource": "Jeeagh er bun"
 }

@@ -14,18 +14,18 @@
 			"Gambollar"
 		]
 	},
-	"skinname-vector": "Vektor",
-	"vector-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
-	"vector-action-addsection": "Mewzu vıraze",
-	"vector-action-delete": "Bestere",
-	"vector-action-move": "Bıkırışe",
-	"vector-action-protect": "Bısıtarne",
-	"vector-action-undelete": "Peyser biya",
-	"vector-action-unprotect": "Sıtarnayışi bıvurne",
-	"vector-view-create": "Vıraze",
-	"vector-view-edit": "Bıvırnê",
-	"vector-view-history": "Verênan bıvênê",
-	"vector-view-view": "Bıwanê",
-	"vector-view-viewsource": "Rêçi bıvin",
-	"vector-more-actions": "Tayêna"
+	"skinname-discord": "Vektor",
+	"discord-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
+	"discord-action-addsection": "Mewzu vıraze",
+	"discord-action-delete": "Bestere",
+	"discord-action-move": "Bıkırışe",
+	"discord-action-protect": "Bısıtarne",
+	"discord-action-undelete": "Peyser biya",
+	"discord-action-unprotect": "Sıtarnayışi bıvurne",
+	"discord-view-create": "Vıraze",
+	"discord-view-edit": "Bıvırnê",
+	"discord-view-history": "Verênan bıvênê",
+	"discord-view-view": "Bıwanê",
+	"discord-view-viewsource": "Rêçi bıvin",
+	"discord-more-actions": "Tayêna"
 }

@@ -7,15 +7,15 @@
 			"WBT009Anju"
 		]
 	},
-	"vector-action-addsection": "Bagian na imbaru",
-	"vector-action-delete": "Sesa",
-	"vector-action-move": "Pahusor",
-	"vector-action-protect": "Ramoti",
-	"vector-action-undelete": "unang sesa",
-	"vector-action-unprotect": "Uba parlindungan",
-	"vector-view-create": "Tompa",
-	"vector-view-edit": "Paubah",
-	"vector-view-history": "Patudu andorang na",
-	"vector-view-view": "Jaha",
-	"vector-view-viewsource": "Ida haroanna"
+	"discord-action-addsection": "Bagian na imbaru",
+	"discord-action-delete": "Sesa",
+	"discord-action-move": "Pahusor",
+	"discord-action-protect": "Ramoti",
+	"discord-action-undelete": "unang sesa",
+	"discord-action-unprotect": "Uba parlindungan",
+	"discord-view-create": "Tompa",
+	"discord-view-edit": "Paubah",
+	"discord-view-history": "Patudu andorang na",
+	"discord-view-view": "Jaha",
+	"discord-view-viewsource": "Ida haroanna"
 }

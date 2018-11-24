@@ -7,18 +7,18 @@
 			"Sagan"
 		]
 	},
-	"skinname-vector": "Векторлы",
-	"vector-skin-desc": "Хәҙерге заман  «Векторлы» күренеше, биҙәлеш яүыртылған һәм яңы мөмкинлектәр файҙаланылған",
-	"vector-action-addsection": "Тема өҫтәргә",
-	"vector-action-delete": "Юйырға",
-	"vector-action-move": "Исемен үҙгәртергә",
-	"vector-action-protect": "Һаҡларға",
-	"vector-action-undelete": "Тергеҙергә",
-	"vector-action-unprotect": "Һаҡлауҙы үҙгәртергә",
-	"vector-view-create": "Яһау",
-	"vector-view-edit": "Үҙгәртергә",
-	"vector-view-history": "Тарихты ҡарау",
-	"vector-view-view": "Уҡыу",
-	"vector-view-viewsource": "Сығанаҡты ҡарарға",
-	"vector-more-actions": "Тағы"
+	"skinname-discord": "Векторлы",
+	"discord-skin-desc": "Хәҙерге заман  «Векторлы» күренеше, биҙәлеш яүыртылған һәм яңы мөмкинлектәр файҙаланылған",
+	"discord-action-addsection": "Тема өҫтәргә",
+	"discord-action-delete": "Юйырға",
+	"discord-action-move": "Исемен үҙгәртергә",
+	"discord-action-protect": "Һаҡларға",
+	"discord-action-undelete": "Тергеҙергә",
+	"discord-action-unprotect": "Һаҡлауҙы үҙгәртергә",
+	"discord-view-create": "Яһау",
+	"discord-view-edit": "Үҙгәртергә",
+	"discord-view-history": "Тарихты ҡарау",
+	"discord-view-view": "Уҡыу",
+	"discord-view-viewsource": "Сығанаҡты ҡарарға",
+	"discord-more-actions": "Тағы"
 }

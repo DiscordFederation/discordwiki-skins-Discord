@@ -4,16 +4,16 @@
 			"Universal Life"
 		]
 	},
-	"vector-action-addsection": "Ajustar sujeto",
-	"vector-action-delete": "Efassar",
-	"vector-action-move": "Taşirear",
-	"vector-action-protect": "Guadrar",
-	"vector-action-undelete": "Traer atrás",
-	"vector-action-unprotect": "Trocar proteksyon",
-	"vector-view-create": "Criar",
-	"vector-view-edit": "Trocar",
-	"vector-view-history": "Ver la istoria",
-	"vector-view-view": "Meldar",
-	"vector-view-viewsource": "Ver su manadero",
-	"vector-more-actions": "Mas"
+	"discord-action-addsection": "Ajustar sujeto",
+	"discord-action-delete": "Efassar",
+	"discord-action-move": "Taşirear",
+	"discord-action-protect": "Guadrar",
+	"discord-action-undelete": "Traer atrás",
+	"discord-action-unprotect": "Trocar proteksyon",
+	"discord-view-create": "Criar",
+	"discord-view-edit": "Trocar",
+	"discord-view-history": "Ver la istoria",
+	"discord-view-view": "Meldar",
+	"discord-view-viewsource": "Ver su manadero",
+	"discord-more-actions": "Mas"
 }

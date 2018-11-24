@@ -5,16 +5,16 @@
 			"Leli Forte"
 		]
 	},
-	"vector-action-addsection": "Żid diskussjoni",
-	"vector-action-delete": "Ħassar",
-	"vector-action-move": "Mexxi",
-	"vector-action-protect": "Ipproteġi",
-	"vector-action-undelete": "Irkupra",
-	"vector-action-unprotect": "Biddel il-protezzjoni",
-	"vector-view-create": "Oħloq",
-	"vector-view-edit": "Immodifika",
-	"vector-view-history": "Ara l-kronoloġija",
-	"vector-view-view": "Aqra",
-	"vector-view-viewsource": "Ara s-sors",
-	"vector-more-actions": "Aktar"
+	"discord-action-addsection": "Żid diskussjoni",
+	"discord-action-delete": "Ħassar",
+	"discord-action-move": "Mexxi",
+	"discord-action-protect": "Ipproteġi",
+	"discord-action-undelete": "Irkupra",
+	"discord-action-unprotect": "Biddel il-protezzjoni",
+	"discord-view-create": "Oħloq",
+	"discord-view-edit": "Immodifika",
+	"discord-view-history": "Ara l-kronoloġija",
+	"discord-view-view": "Aqra",
+	"discord-view-viewsource": "Ara s-sors",
+	"discord-more-actions": "Aktar"
 }

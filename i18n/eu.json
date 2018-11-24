@@ -7,17 +7,17 @@
 			"Subi"
 		]
 	},
-	"vector-skin-desc": "MonoBook-en bertsio modernoa, itxura berriarekin eta erabilgarritasun hobekuntza askorekin",
-	"vector-action-addsection": "Gehitu atala",
-	"vector-action-delete": "Ezabatu",
-	"vector-action-move": "Mugitu",
-	"vector-action-protect": "Babestu",
-	"vector-action-undelete": "Berreskuratu",
-	"vector-action-unprotect": "Babesa aldatu",
-	"vector-view-create": "Sortu",
-	"vector-view-edit": "Aldatu",
-	"vector-view-history": "Ikusi historia",
-	"vector-view-view": "Irakurri",
-	"vector-view-viewsource": "Kodea ikusia",
-	"vector-more-actions": "Gehiago"
+	"discord-skin-desc": "MonoBook-en bertsio modernoa, itxura berriarekin eta erabilgarritasun hobekuntza askorekin",
+	"discord-action-addsection": "Gehitu atala",
+	"discord-action-delete": "Ezabatu",
+	"discord-action-move": "Mugitu",
+	"discord-action-protect": "Babestu",
+	"discord-action-undelete": "Berreskuratu",
+	"discord-action-unprotect": "Babesa aldatu",
+	"discord-view-create": "Sortu",
+	"discord-view-edit": "Aldatu",
+	"discord-view-history": "Ikusi historia",
+	"discord-view-view": "Irakurri",
+	"discord-view-viewsource": "Kodea ikusia",
+	"discord-more-actions": "Gehiago"
 }

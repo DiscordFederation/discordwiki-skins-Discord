@@ -4,12 +4,12 @@
 			"DonCamillo"
 		]
 	},
-	"vector-action-delete": "Soke",
-	"vector-action-move": "Gusarwa",
-	"vector-action-protect": "A kare",
-	"vector-view-create": "Ƙirƙira",
-	"vector-view-edit": "Gyara",
-	"vector-view-history": "Nuna tarihin",
-	"vector-view-view": "Karanta",
-	"vector-more-actions": "Mafi"
+	"discord-action-delete": "Soke",
+	"discord-action-move": "Gusarwa",
+	"discord-action-protect": "A kare",
+	"discord-view-create": "Ƙirƙira",
+	"discord-view-edit": "Gyara",
+	"discord-view-history": "Nuna tarihin",
+	"discord-view-view": "Karanta",
+	"discord-more-actions": "Mafi"
 }

@@ -5,17 +5,17 @@
 			"Gazimagomedov"
 		]
 	},
-	"vector-skin-desc": "MonoBook'алъул цӀияб версия цияб куцгун ва цӀиял юзабилитиялгун",
-	"vector-action-addsection": "Тема жубазе",
-	"vector-action-delete": "БацIцIине",
-	"vector-action-move": "ЦӀар хисизе",
-	"vector-action-protect": "Хиса-басияздасан цIунизе",
-	"vector-action-undelete": "БукӀараб гӀадин гьабизе",
-	"vector-action-unprotect": "ЦӀуни хисизе",
-	"vector-view-create": "Гьабизе",
-	"vector-view-edit": "Хисизабизе",
-	"vector-view-history": "Тарих балагьизе",
-	"vector-view-view": "ЦӀализе",
-	"vector-view-viewsource": "Вики-текст балагьизе",
-	"vector-more-actions": "Жеги"
+	"discord-skin-desc": "MonoBook'алъул цӀияб версия цияб куцгун ва цӀиял юзабилитиялгун",
+	"discord-action-addsection": "Тема жубазе",
+	"discord-action-delete": "БацIцIине",
+	"discord-action-move": "ЦӀар хисизе",
+	"discord-action-protect": "Хиса-басияздасан цIунизе",
+	"discord-action-undelete": "БукӀараб гӀадин гьабизе",
+	"discord-action-unprotect": "ЦӀуни хисизе",
+	"discord-view-create": "Гьабизе",
+	"discord-view-edit": "Хисизабизе",
+	"discord-view-history": "Тарих балагьизе",
+	"discord-view-view": "ЦӀализе",
+	"discord-view-viewsource": "Вики-текст балагьизе",
+	"discord-more-actions": "Жеги"
 }

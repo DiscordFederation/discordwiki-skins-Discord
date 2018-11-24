@@ -5,15 +5,15 @@
 			"FRANELYA"
 		]
 	},
-	"vector-action-addsection": "Ruhangai piboboroson",
-	"vector-action-delete": "Pugaso",
-	"vector-action-move": "Poundoliho",
-	"vector-action-protect": "Tingoligai",
-	"vector-action-undelete": "Kada pugaso",
-	"vector-action-unprotect": "Alanai tingolig",
-	"vector-view-create": "Pomonsoi",
-	"vector-view-edit": "Idito",
-	"vector-view-history": "Intaai susuyan",
-	"vector-view-view": "Basao",
-	"vector-view-viewsource": "Intaai wowonod"
+	"discord-action-addsection": "Ruhangai piboboroson",
+	"discord-action-delete": "Pugaso",
+	"discord-action-move": "Poundoliho",
+	"discord-action-protect": "Tingoligai",
+	"discord-action-undelete": "Kada pugaso",
+	"discord-action-unprotect": "Alanai tingolig",
+	"discord-view-create": "Pomonsoi",
+	"discord-view-edit": "Idito",
+	"discord-view-history": "Intaai susuyan",
+	"discord-view-view": "Basao",
+	"discord-view-viewsource": "Intaai wowonod"
 }

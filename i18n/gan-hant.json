@@ -4,15 +4,15 @@
 			"Symane"
 		]
 	},
-	"vector-action-addsection": "添主題",
-	"vector-action-delete": "刪吥",
-	"vector-action-move": "移吥",
-	"vector-action-protect": "護到",
-	"vector-action-undelete": "望下刪吥嗰頁面",
-	"vector-action-unprotect": "解除保護",
-	"vector-view-create": "創建",
-	"vector-view-edit": "編輯",
-	"vector-view-history": "望下歷史",
-	"vector-view-view": "讀",
-	"vector-view-viewsource": "望下原始碼"
+	"discord-action-addsection": "添主題",
+	"discord-action-delete": "刪吥",
+	"discord-action-move": "移吥",
+	"discord-action-protect": "護到",
+	"discord-action-undelete": "望下刪吥嗰頁面",
+	"discord-action-unprotect": "解除保護",
+	"discord-view-create": "創建",
+	"discord-view-edit": "編輯",
+	"discord-view-history": "望下歷史",
+	"discord-view-view": "讀",
+	"discord-view-viewsource": "望下原始碼"
 }

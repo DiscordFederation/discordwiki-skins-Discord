@@ -5,12 +5,12 @@
 			"Wantok"
 		]
 	},
-	"vector-action-delete": "Rausim",
-	"vector-action-move": "Surikim",
-	"vector-action-protect": "Tambuim",
-	"vector-view-create": "Kirapim",
-	"vector-view-edit": "Senisim",
-	"vector-view-history": "Ol senis",
-	"vector-view-view": "Rit",
-	"vector-view-viewsource": "Lukim as tok"
+	"discord-action-delete": "Rausim",
+	"discord-action-move": "Surikim",
+	"discord-action-protect": "Tambuim",
+	"discord-view-create": "Kirapim",
+	"discord-view-edit": "Senisim",
+	"discord-view-history": "Ol senis",
+	"discord-view-view": "Rit",
+	"discord-view-viewsource": "Lukim as tok"
 }

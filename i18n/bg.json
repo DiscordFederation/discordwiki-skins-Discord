@@ -7,17 +7,17 @@
 			"StanProg"
 		]
 	},
-	"vector-skin-desc": "Модерна версия на MonoBook с обновен дизайн и много подобрения на ползваемостта",
-	"vector-action-addsection": "Добавяне на тема",
-	"vector-action-delete": "Изтриване",
-	"vector-action-move": "Преместване",
-	"vector-action-protect": "Защита",
-	"vector-action-undelete": "Възстановяване",
-	"vector-action-unprotect": "Промяна на защитата",
-	"vector-view-create": "Създаване",
-	"vector-view-edit": "Редактиране",
-	"vector-view-history": "История",
-	"vector-view-view": "Преглед",
-	"vector-view-viewsource": "Преглед на кода",
-	"vector-more-actions": "Още"
+	"discord-skin-desc": "Модерна версия на MonoBook с обновен дизайн и много подобрения на ползваемостта",
+	"discord-action-addsection": "Добавяне на тема",
+	"discord-action-delete": "Изтриване",
+	"discord-action-move": "Преместване",
+	"discord-action-protect": "Защита",
+	"discord-action-undelete": "Възстановяване",
+	"discord-action-unprotect": "Промяна на защитата",
+	"discord-view-create": "Създаване",
+	"discord-view-edit": "Редактиране",
+	"discord-view-history": "История",
+	"discord-view-view": "Преглед",
+	"discord-view-viewsource": "Преглед на кода",
+	"discord-more-actions": "Още"
 }

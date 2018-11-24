@@ -4,8 +4,8 @@
 			"WikiEditor50"
 		]
 	},
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Revisa",
-	"vector-view-view": "Lee",
-	"vector-more-actions": "Mas"
+	"discord-view-create": "Crea",
+	"discord-view-edit": "Revisa",
+	"discord-view-view": "Lee",
+	"discord-more-actions": "Mas"
 }

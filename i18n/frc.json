@@ -5,12 +5,12 @@
 			"Hangmanwa7id"
 		]
 	},
-	"vector-action-delete": "Supprimer",
-	"vector-action-move": "Renommer",
-	"vector-action-protect": "Protéger",
-	"vector-view-create": "Créer",
-	"vector-view-edit": "Changer",
-	"vector-view-view": "Lire",
-	"vector-view-viewsource": "Regarder la source",
-	"vector-more-actions": "Plus"
+	"discord-action-delete": "Supprimer",
+	"discord-action-move": "Renommer",
+	"discord-action-protect": "Protéger",
+	"discord-view-create": "Créer",
+	"discord-view-edit": "Changer",
+	"discord-view-view": "Lire",
+	"discord-view-viewsource": "Regarder la source",
+	"discord-more-actions": "Plus"
 }

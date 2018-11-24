@@ -4,13 +4,13 @@
 			"Saraiki"
 		]
 	},
-	"vector-action-addsection": "نواں موضوع",
-	"vector-action-delete": "مٹاؤ",
-	"vector-action-move": "ٹورو",
-	"vector-action-protect": "بچاؤ",
-	"vector-view-create": "بݨاؤ",
-	"vector-view-edit": "لکھو",
-	"vector-view-history": "تاریخچہ",
-	"vector-view-view": "پڑھو",
-	"vector-more-actions": "ٻئے"
+	"discord-action-addsection": "نواں موضوع",
+	"discord-action-delete": "مٹاؤ",
+	"discord-action-move": "ٹورو",
+	"discord-action-protect": "بچاؤ",
+	"discord-view-create": "بݨاؤ",
+	"discord-view-edit": "لکھو",
+	"discord-view-history": "تاریخچہ",
+	"discord-view-view": "پڑھو",
+	"discord-more-actions": "ٻئے"
 }

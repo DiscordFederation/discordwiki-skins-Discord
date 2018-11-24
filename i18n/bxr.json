@@ -5,12 +5,12 @@
 			"Elvonudinium"
 		]
 	},
-	"vector-action-addsection": "Һэдэб нэмэхэ",
-	"vector-action-delete": "Усадхаха",
-	"vector-action-move": "Зөөхэ",
-	"vector-view-create": "Үүдхэхэ",
-	"vector-view-edit": "Заһабарилха",
-	"vector-view-history": "Түүхые хараха",
-	"vector-view-view": "Уншаха",
-	"vector-view-viewsource": "эшэ үндэһэндэнь хандаха"
+	"discord-action-addsection": "Һэдэб нэмэхэ",
+	"discord-action-delete": "Усадхаха",
+	"discord-action-move": "Зөөхэ",
+	"discord-view-create": "Үүдхэхэ",
+	"discord-view-edit": "Заһабарилха",
+	"discord-view-history": "Түүхые хараха",
+	"discord-view-view": "Уншаха",
+	"discord-view-viewsource": "эшэ үндэһэндэнь хандаха"
 }

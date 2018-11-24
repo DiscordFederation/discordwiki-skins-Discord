@@ -4,16 +4,16 @@
 			"Als-Holder"
 		]
 	},
-	"vector-action-addsection": "Abschnitt zuefiege",
-	"vector-action-delete": "Lesche",
-	"vector-action-move": "Verschiebe",
-	"vector-action-protect": "Schitze",
-	"vector-action-undelete": "Widerhärstelle",
-	"vector-action-unprotect": "Syteschutz ändere",
-	"vector-view-create": "Aalege",
-	"vector-view-edit": "Bearbeite",
-	"vector-view-history": "Versionsgschicht",
-	"vector-view-view": "Läse",
-	"vector-view-viewsource": "Quälltext aaluege",
-	"vector-more-actions": "Meh"
+	"discord-action-addsection": "Abschnitt zuefiege",
+	"discord-action-delete": "Lesche",
+	"discord-action-move": "Verschiebe",
+	"discord-action-protect": "Schitze",
+	"discord-action-undelete": "Widerhärstelle",
+	"discord-action-unprotect": "Syteschutz ändere",
+	"discord-view-create": "Aalege",
+	"discord-view-edit": "Bearbeite",
+	"discord-view-history": "Versionsgschicht",
+	"discord-view-view": "Läse",
+	"discord-view-viewsource": "Quälltext aaluege",
+	"discord-more-actions": "Meh"
 }

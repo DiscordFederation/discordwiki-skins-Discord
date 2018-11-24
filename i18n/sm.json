@@ -4,8 +4,8 @@
 			"Fanjiayi"
 		]
 	},
-	"vector-action-delete": "Tape",
-	"vector-action-move": "Si'itia",
-	"vector-action-protect": "Puipui",
-	"vector-view-edit": "Teuteu"
+	"discord-action-delete": "Tape",
+	"discord-action-move": "Si'itia",
+	"discord-action-protect": "Puipui",
+	"discord-view-edit": "Teuteu"
 }

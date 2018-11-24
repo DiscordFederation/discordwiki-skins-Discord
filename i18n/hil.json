@@ -5,16 +5,16 @@
 			"Redhotchili23"
 		]
 	},
-	"vector-action-addsection": "Magdugang sing topiko",
-	"vector-action-delete": "Panason",
-	"vector-action-move": "Saylohon",
-	"vector-action-protect": "Pangapinan",
-	"vector-action-undelete": "Dulaon ang pagpanas",
-	"vector-action-unprotect": "Ilisan ang pagpangapin",
-	"vector-view-create": "Himuon",
-	"vector-view-edit": "Liwaton",
-	"vector-view-history": "Lantawon ang nagkalatabo",
-	"vector-view-view": "Magbasa",
-	"vector-view-viewsource": "Lantawon ang ginhalinan",
-	"vector-more-actions": "Dugang Pa"
+	"discord-action-addsection": "Magdugang sing topiko",
+	"discord-action-delete": "Panason",
+	"discord-action-move": "Saylohon",
+	"discord-action-protect": "Pangapinan",
+	"discord-action-undelete": "Dulaon ang pagpanas",
+	"discord-action-unprotect": "Ilisan ang pagpangapin",
+	"discord-view-create": "Himuon",
+	"discord-view-edit": "Liwaton",
+	"discord-view-history": "Lantawon ang nagkalatabo",
+	"discord-view-view": "Magbasa",
+	"discord-view-viewsource": "Lantawon ang ginhalinan",
+	"discord-more-actions": "Dugang Pa"
 }

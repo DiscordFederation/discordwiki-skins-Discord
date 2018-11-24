@@ -1,44 +1,44 @@
 {
-	"name": "Vector",
+	"name": "Discord",
 	"author": [
 		"Trevor Parscal",
 		"Roan Kattouw",
 		"..."
 	],
-	"url": "https://www.mediawiki.org/wiki/Skin:Vector",
-	"descriptionmsg": "vector-skin-desc",
-	"namemsg": "skinname-vector",
+	"url": "https://www.mediawiki.org/wiki/Skin:Discord",
+	"descriptionmsg": "discord-skin-desc",
+	"namemsg": "skinname-discord",
 	"license-name": "GPL-2.0-or-later",
 	"type": "skin",
 	"requires": {
 		"MediaWiki": ">= 1.29.0"
 	},
 	"ConfigRegistry": {
-		"vector": "GlobalVarConfig::newInstance"
+		"discord": "GlobalVarConfig::newInstance"
 	},
 	"ValidSkinNames": {
-		"vector": "Vector"
+		"discord": "Discord"
 	},
 	"MessagesDirs": {
-		"Vector": [
+		"Discord": [
 			"i18n"
 		]
 	},
 	"AutoloadClasses": {
-		"Vector\\Hooks": "includes/Hooks.php",
-		"SkinVector": "includes/SkinVector.php",
-		"VectorTemplate": "includes/VectorTemplate.php",
-		"Vector\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php"
+		"Discord\\Hooks": "includes/Hooks.php",
+		"SkinDiscord": "includes/SkinDiscord.php",
+		"DiscordTemplate": "includes/DiscordTemplate.php",
+		"Discord\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php"
 	},
 	"Hooks": {
 		"BeforePageDisplayMobile": [
-			"Vector\\Hooks::onBeforePageDisplayMobile"
+			"Discord\\Hooks::onBeforePageDisplayMobile"
 		]
 	},
-	"@note": "When modifying skins.vector.styles definition, make sure the installer still works",
+	"@note": "When modifying skins.discord.styles definition, make sure the installer still works",
 	"ResourceModules": {
-		"skins.vector.styles": {
-			"class": "Vector\\ResourceLoaderLessModule",
+		"skins.discord.styles": {
+			"class": "Discord\\ResourceLoaderLessModule",
 			"targets": [ "desktop", "mobile" ],
 			"styles": {
 				"screen.less": {
@@ -51,16 +51,16 @@
 			}
 		},
 
-		"skins.vector.styles.responsive": {
+		"skins.discord.styles.responsive": {
 			"targets": [ "desktop", "mobile" ],
 			"styles": [
 				"responsive.less"
 			]
 		},
-		"skins.vector.js": {
+		"skins.discord.js": {
 			"scripts": [
 				"collapsibleTabs.js",
-				"vector.js"
+				"discord.js"
 			],
 			"dependencies": [
 				"jquery.throttle-debounce",
@@ -70,10 +70,10 @@
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
-		"remoteSkinPath": "Vector"
+		"remoteSkinPath": "Discord"
 	},
 	"ResourceModuleSkinStyles": {
-		"vector": {
+		"discord": {
 			"jquery.tipsy": "skinStyles/jquery.tipsy.less",
 			"jquery.ui.core": [
 				"skinStyles/jquery.ui/jquery.ui.core.css",
@@ -100,10 +100,10 @@
 		}
 	},
 	"config": {
-		"VectorUseSimpleSearch": true,
-		"VectorUseIconWatch": true,
-		"VectorResponsive": false,
-		"VectorPrintLogo": false
+		"DiscordUseSimpleSearch": true,
+		"DiscordUseIconWatch": true,
+		"DiscordResponsive": false,
+		"DiscordPrintLogo": false
 	},
 	"manifest_version": 1
 }

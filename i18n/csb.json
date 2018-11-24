@@ -6,16 +6,16 @@
 			"Kirsan"
 		]
 	},
-	"vector-action-addsection": "Dodôj témã",
-	"vector-action-delete": "Rëmôj",
-	"vector-action-move": "Przeniesë",
-	"vector-action-protect": "Zazychrëjë",
-	"vector-action-undelete": "Doprowadzë nazôd",
-	"vector-action-unprotect": "Zmieni zazychrowanié",
-	"vector-view-create": "Ùsadzë",
-	"vector-view-edit": "Edicëjô",
-	"vector-view-history": "Historëjô lopka",
-	"vector-view-view": "Czëtôj",
-	"vector-view-viewsource": "Zdrojowi tekst",
-	"vector-more-actions": "Wiãcy"
+	"discord-action-addsection": "Dodôj témã",
+	"discord-action-delete": "Rëmôj",
+	"discord-action-move": "Przeniesë",
+	"discord-action-protect": "Zazychrëjë",
+	"discord-action-undelete": "Doprowadzë nazôd",
+	"discord-action-unprotect": "Zmieni zazychrowanié",
+	"discord-view-create": "Ùsadzë",
+	"discord-view-edit": "Edicëjô",
+	"discord-view-history": "Historëjô lopka",
+	"discord-view-view": "Czëtôj",
+	"discord-view-viewsource": "Zdrojowi tekst",
+	"discord-more-actions": "Wiãcy"
 }

@@ -9,17 +9,17 @@
 			"Nataev"
 		]
 	},
-	"skinname-vector": "Vektor",
-	"vector-action-addsection": "Mavzu qoʻshish",
-	"vector-action-delete": "O‘chirish",
-	"vector-action-move": "Ko‘chirish",
-	"vector-action-protect": "Himoyalash",
-	"vector-action-undelete": "Tiklash",
-	"vector-action-unprotect": "Himoyani oʻzgartirish",
-	"vector-view-create": "Yaratish",
-	"vector-view-edit": "Tahrirlash",
-	"vector-view-history": "Tarix",
-	"vector-view-view": "Mutolaa",
-	"vector-view-viewsource": "Manbasini koʻrish",
-	"vector-more-actions": "Yana"
+	"skinname-discord": "Vektor",
+	"discord-action-addsection": "Mavzu qoʻshish",
+	"discord-action-delete": "O‘chirish",
+	"discord-action-move": "Ko‘chirish",
+	"discord-action-protect": "Himoyalash",
+	"discord-action-undelete": "Tiklash",
+	"discord-action-unprotect": "Himoyani oʻzgartirish",
+	"discord-view-create": "Yaratish",
+	"discord-view-edit": "Tahrirlash",
+	"discord-view-history": "Tarix",
+	"discord-view-view": "Mutolaa",
+	"discord-view-viewsource": "Manbasini koʻrish",
+	"discord-more-actions": "Yana"
 }

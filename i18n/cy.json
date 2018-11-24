@@ -4,16 +4,16 @@
 			"Lloffiwr"
 		]
 	},
-	"vector-action-addsection": "Ychwanegu adran",
-	"vector-action-delete": "Dileu",
-	"vector-action-move": "Symud",
-	"vector-action-protect": "Diogelu",
-	"vector-action-undelete": "Adfer",
-	"vector-action-unprotect": "Newid y diogelwch",
-	"vector-view-create": "Dechrau",
-	"vector-view-edit": "Golygu",
-	"vector-view-history": "Gweld yr hanes",
-	"vector-view-view": "Darllen",
-	"vector-view-viewsource": "Dangos côd y dudalen",
-	"vector-more-actions": "Rhagor"
+	"discord-action-addsection": "Ychwanegu adran",
+	"discord-action-delete": "Dileu",
+	"discord-action-move": "Symud",
+	"discord-action-protect": "Diogelu",
+	"discord-action-undelete": "Adfer",
+	"discord-action-unprotect": "Newid y diogelwch",
+	"discord-view-create": "Dechrau",
+	"discord-view-edit": "Golygu",
+	"discord-view-history": "Gweld yr hanes",
+	"discord-view-view": "Darllen",
+	"discord-view-viewsource": "Dangos côd y dudalen",
+	"discord-more-actions": "Rhagor"
 }

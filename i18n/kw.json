@@ -6,16 +6,16 @@
 			"Nrowe"
 		]
 	},
-	"vector-action-addsection": "Keworra testen",
-	"vector-action-delete": "Dilea",
-	"vector-action-move": "Gwaya",
-	"vector-action-protect": "Difres",
-	"vector-action-undelete": "Disdhilea",
-	"vector-action-unprotect": "Chanjya difresans",
-	"vector-view-create": "Gwruthyl",
-	"vector-view-edit": "Chanjya",
-	"vector-view-history": "Gweles an istori",
-	"vector-view-view": "Redya",
-	"vector-view-viewsource": "Gweles an bennfenten",
-	"vector-more-actions": "Moy"
+	"discord-action-addsection": "Keworra testen",
+	"discord-action-delete": "Dilea",
+	"discord-action-move": "Gwaya",
+	"discord-action-protect": "Difres",
+	"discord-action-undelete": "Disdhilea",
+	"discord-action-unprotect": "Chanjya difresans",
+	"discord-view-create": "Gwruthyl",
+	"discord-view-edit": "Chanjya",
+	"discord-view-history": "Gweles an istori",
+	"discord-view-view": "Redya",
+	"discord-view-viewsource": "Gweles an bennfenten",
+	"discord-more-actions": "Moy"
 }

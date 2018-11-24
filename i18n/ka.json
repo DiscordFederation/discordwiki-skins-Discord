@@ -6,18 +6,18 @@
 			"გიორგიმელა"
 		]
 	},
-	"skinname-vector": "ვექტორული",
-	"vector.css": "/* აქ ჩასმული CSS გამოყენებული იქნება ვექტორული გაფორმების თემაში */",
-	"vector-action-addsection": "თემის ჩამატება",
-	"vector-action-delete": "წაშლა",
-	"vector-action-move": "გადატანა",
-	"vector-action-protect": "დაცვა",
-	"vector-action-undelete": "აღდგენა",
-	"vector-action-unprotect": "დაცვის შეცვლა",
-	"vector-view-create": "შექმნა",
-	"vector-view-edit": "რედაქტირება",
-	"vector-view-history": "ისტორია",
-	"vector-view-view": "შემოწმებული სტატია",
-	"vector-view-viewsource": "წყაროს ხილვა",
-	"vector-more-actions": "მეტი"
+	"skinname-discord": "ვექტორული",
+	"discord.css": "/* აქ ჩასმული CSS გამოყენებული იქნება ვექტორული გაფორმების თემაში */",
+	"discord-action-addsection": "თემის ჩამატება",
+	"discord-action-delete": "წაშლა",
+	"discord-action-move": "გადატანა",
+	"discord-action-protect": "დაცვა",
+	"discord-action-undelete": "აღდგენა",
+	"discord-action-unprotect": "დაცვის შეცვლა",
+	"discord-view-create": "შექმნა",
+	"discord-view-edit": "რედაქტირება",
+	"discord-view-history": "ისტორია",
+	"discord-view-view": "შემოწმებული სტატია",
+	"discord-view-viewsource": "წყაროს ხილვა",
+	"discord-more-actions": "მეტი"
 }

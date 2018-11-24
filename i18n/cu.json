@@ -4,15 +4,15 @@
 			"ОйЛ"
 		]
 	},
-	"vector-action-addsection": "новꙑ бєсѣдꙑ чѧсти сътворѥниѥ",
-	"vector-action-delete": "поничьжєниѥ",
-	"vector-action-move": "прѣимєнованиѥ",
-	"vector-action-protect": "ꙁабранѥниѥ",
-	"vector-action-unprotect": "иꙁмѣни ꙁабранѥниꙗ обраꙁъ",
-	"vector-view-create": "сътворѥниѥ",
-	"vector-view-edit": "исправлѥниѥ",
-	"vector-view-history": "їсторїꙗ",
-	"vector-view-view": "чьтѥниѥ",
-	"vector-view-viewsource": "страницѧ источьнъ обраꙁъ",
-	"vector-more-actions": "вѧщє"
+	"discord-action-addsection": "новꙑ бєсѣдꙑ чѧсти сътворѥниѥ",
+	"discord-action-delete": "поничьжєниѥ",
+	"discord-action-move": "прѣимєнованиѥ",
+	"discord-action-protect": "ꙁабранѥниѥ",
+	"discord-action-unprotect": "иꙁмѣни ꙁабранѥниꙗ обраꙁъ",
+	"discord-view-create": "сътворѥниѥ",
+	"discord-view-edit": "исправлѥниѥ",
+	"discord-view-history": "їсторїꙗ",
+	"discord-view-view": "чьтѥниѥ",
+	"discord-view-viewsource": "страницѧ источьнъ обраꙁъ",
+	"discord-more-actions": "вѧщє"
 }

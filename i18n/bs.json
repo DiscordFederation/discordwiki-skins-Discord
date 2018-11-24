@@ -8,17 +8,17 @@
 			"Srdjan m"
 		]
 	},
-	"vector-skin-desc": "Moderna verzija MonoKnjige s novijim izgledom i mnogim poboljšanjima u pogledu upotrebljivosti",
-	"vector-action-addsection": "Dodaj temu",
-	"vector-action-delete": "Obriši",
-	"vector-action-move": "Premjesti",
-	"vector-action-protect": "Zaštiti",
-	"vector-action-undelete": "Vrati obrisano",
-	"vector-action-unprotect": "Promijeni zaštitu",
-	"vector-view-create": "Napravi",
-	"vector-view-edit": "Uredi",
-	"vector-view-history": "Historija",
-	"vector-view-view": "Čitaj",
-	"vector-view-viewsource": "Pogledaj izvor",
-	"vector-more-actions": "Više"
+	"discord-skin-desc": "Moderna verzija MonoKnjige s novijim izgledom i mnogim poboljšanjima u pogledu upotrebljivosti",
+	"discord-action-addsection": "Dodaj temu",
+	"discord-action-delete": "Obriši",
+	"discord-action-move": "Premjesti",
+	"discord-action-protect": "Zaštiti",
+	"discord-action-undelete": "Vrati obrisano",
+	"discord-action-unprotect": "Promijeni zaštitu",
+	"discord-view-create": "Napravi",
+	"discord-view-edit": "Uredi",
+	"discord-view-history": "Historija",
+	"discord-view-view": "Čitaj",
+	"discord-view-viewsource": "Pogledaj izvor",
+	"discord-more-actions": "Više"
 }

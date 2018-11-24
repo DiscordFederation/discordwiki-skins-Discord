@@ -8,17 +8,17 @@
 			"Tow"
 		]
 	},
-	"vector-skin-desc": "ਮੋਨੋਬੁੱਕ ਦੀ ਆਧੁਨਿਕ ਵਰਜਨ ਜਿਸ ਵਿਚ ਤਾਜ਼ਾ ਦਿੱਖ ਅਤੇ ਬਹੁਤ ਸਾਰੇ ਉਪਯੋਗਤਾ ਸੁਧਾਰ ਹਨ",
-	"vector-action-addsection": "ਵਿਸ਼ਾ ਜੋੜੋ",
-	"vector-action-delete": "ਹਟਾਓ",
-	"vector-action-move": "ਭੇਜੋ",
-	"vector-action-protect": "ਸੁਰੱਖਿਆ",
-	"vector-action-undelete": "ਹਟਾਉਣਾ-ਵਾਪਸ",
-	"vector-action-unprotect": "ਸੁਰੱਖਿਆ ਬਦਲੋ",
-	"vector-view-create": "ਬਣਾਓ",
-	"vector-view-edit": "ਸੋਧੋ",
-	"vector-view-history": "ਅਤੀਤ ਵੇਖੋ",
-	"vector-view-view": "ਪੜ੍ਹੋ",
-	"vector-view-viewsource": "ਸਰੋਤ ਵੇਖੋ",
-	"vector-more-actions": "ਹੋਰ"
+	"discord-skin-desc": "ਮੋਨੋਬੁੱਕ ਦੀ ਆਧੁਨਿਕ ਵਰਜਨ ਜਿਸ ਵਿਚ ਤਾਜ਼ਾ ਦਿੱਖ ਅਤੇ ਬਹੁਤ ਸਾਰੇ ਉਪਯੋਗਤਾ ਸੁਧਾਰ ਹਨ",
+	"discord-action-addsection": "ਵਿਸ਼ਾ ਜੋੜੋ",
+	"discord-action-delete": "ਹਟਾਓ",
+	"discord-action-move": "ਭੇਜੋ",
+	"discord-action-protect": "ਸੁਰੱਖਿਆ",
+	"discord-action-undelete": "ਹਟਾਉਣਾ-ਵਾਪਸ",
+	"discord-action-unprotect": "ਸੁਰੱਖਿਆ ਬਦਲੋ",
+	"discord-view-create": "ਬਣਾਓ",
+	"discord-view-edit": "ਸੋਧੋ",
+	"discord-view-history": "ਅਤੀਤ ਵੇਖੋ",
+	"discord-view-view": "ਪੜ੍ਹੋ",
+	"discord-view-viewsource": "ਸਰੋਤ ਵੇਖੋ",
+	"discord-more-actions": "ਹੋਰ"
 }

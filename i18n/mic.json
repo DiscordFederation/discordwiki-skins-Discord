@@ -4,7 +4,7 @@
 			"Amqui"
 		]
 	},
-	"vector-action-move": "Ejigliwsit",
-	"vector-view-create": "Etlitoq",
-	"vector-view-view": "Egiljet"
+	"discord-action-move": "Ejigliwsit",
+	"discord-view-create": "Etlitoq",
+	"discord-view-view": "Egiljet"
 }

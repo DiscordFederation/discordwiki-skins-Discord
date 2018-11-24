@@ -4,17 +4,17 @@
 			"HalanTul"
 		]
 	},
-	"vector-skin-desc": "Аныгы, саҥардыллыбыт, тупсарыллыбыт MonoBook",
-	"vector-action-addsection": "Тиэмэ эбии",
-	"vector-action-delete": "Сот",
-	"vector-action-move": "Аатын уларыт",
-	"vector-action-protect": "Уларыйбат гын",
-	"vector-action-undelete": "Төннөр",
-	"vector-action-unprotect": "Көмүскэлин уларыт",
-	"vector-view-create": "Ай",
-	"vector-view-edit": "Уларыт",
-	"vector-view-history": "Устуоруйатын көрүү",
-	"vector-view-view": "Ааҕыы",
-	"vector-view-viewsource": "Бэлиэлэрин көрүү",
-	"vector-more-actions": "Эбии"
+	"discord-skin-desc": "Аныгы, саҥардыллыбыт, тупсарыллыбыт MonoBook",
+	"discord-action-addsection": "Тиэмэ эбии",
+	"discord-action-delete": "Сот",
+	"discord-action-move": "Аатын уларыт",
+	"discord-action-protect": "Уларыйбат гын",
+	"discord-action-undelete": "Төннөр",
+	"discord-action-unprotect": "Көмүскэлин уларыт",
+	"discord-view-create": "Ай",
+	"discord-view-edit": "Уларыт",
+	"discord-view-history": "Устуоруйатын көрүү",
+	"discord-view-view": "Ааҕыы",
+	"discord-view-viewsource": "Бэлиэлэрин көрүү",
+	"discord-more-actions": "Эбии"
 }

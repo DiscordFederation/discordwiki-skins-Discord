@@ -7,16 +7,16 @@
 			"唐吉訶德的侍從"
 		]
 	},
-	"vector-action-addsection": "Kâ-ngi̍p fa-thì",
-	"vector-action-delete": "San-chhù",
-	"vector-action-move": "Yì-thûng",
-	"vector-action-protect": "Pó-fu",
-	"vector-action-undelete": "恢復",
-	"vector-action-unprotect": "更改保護",
-	"vector-view-create": "Kien-li̍p",
-	"vector-view-edit": "Phiên-siá",
-	"vector-view-history": "Khon li̍t-sṳ́",
-	"vector-view-view": "Thu̍k",
-	"vector-view-viewsource": "Khon ngièn-sṳ́-mâ",
-	"vector-more-actions": "Kiên-tô"
+	"discord-action-addsection": "Kâ-ngi̍p fa-thì",
+	"discord-action-delete": "San-chhù",
+	"discord-action-move": "Yì-thûng",
+	"discord-action-protect": "Pó-fu",
+	"discord-action-undelete": "恢復",
+	"discord-action-unprotect": "更改保護",
+	"discord-view-create": "Kien-li̍p",
+	"discord-view-edit": "Phiên-siá",
+	"discord-view-history": "Khon li̍t-sṳ́",
+	"discord-view-view": "Thu̍k",
+	"discord-view-viewsource": "Khon ngièn-sṳ́-mâ",
+	"discord-more-actions": "Kiên-tô"
 }

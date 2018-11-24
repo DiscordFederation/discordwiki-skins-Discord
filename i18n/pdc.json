@@ -4,11 +4,11 @@
 			"Xqt"
 		]
 	},
-	"vector-action-delete": "Verwische",
-	"vector-action-move": "Ziehe",
-	"vector-action-protect": "Schitze",
-	"vector-view-create": "Schtaerte",
-	"vector-view-edit": "Ennere",
-	"vector-view-history": "Gschicht zeige",
-	"vector-view-view": "Lese"
+	"discord-action-delete": "Verwische",
+	"discord-action-move": "Ziehe",
+	"discord-action-protect": "Schitze",
+	"discord-view-create": "Schtaerte",
+	"discord-view-edit": "Ennere",
+	"discord-view-history": "Gschicht zeige",
+	"discord-view-view": "Lese"
 }

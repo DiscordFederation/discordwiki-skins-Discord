@@ -5,16 +5,16 @@
 			"Bentong Isles"
 		]
 	},
-	"vector-action-addsection": "Pagdugang og topiko",
-	"vector-action-delete": "Papasa",
-	"vector-action-move": "Ibalhin",
-	"vector-action-protect": "Protektahi",
-	"vector-action-undelete": "Ayaw papasa",
-	"vector-action-unprotect": "Ayaw protektahi",
-	"vector-view-create": "Himoa",
-	"vector-view-edit": "Usba",
-	"vector-view-history": "Tan-awa ang kaagi",
-	"vector-view-view": "Basaha",
-	"vector-view-viewsource": "Tan-awa ang ginikanan",
-	"vector-more-actions": "Uban pa..."
+	"discord-action-addsection": "Pagdugang og topiko",
+	"discord-action-delete": "Papasa",
+	"discord-action-move": "Ibalhin",
+	"discord-action-protect": "Protektahi",
+	"discord-action-undelete": "Ayaw papasa",
+	"discord-action-unprotect": "Ayaw protektahi",
+	"discord-view-create": "Himoa",
+	"discord-view-edit": "Usba",
+	"discord-view-history": "Tan-awa ang kaagi",
+	"discord-view-view": "Basaha",
+	"discord-view-viewsource": "Tan-awa ang ginikanan",
+	"discord-more-actions": "Uban pa..."
 }

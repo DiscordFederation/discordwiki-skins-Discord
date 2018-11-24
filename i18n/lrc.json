@@ -5,16 +5,16 @@
 			"Beyronvan"
 		]
 	},
-	"vector-action-addsection": "داسون اضاف بكيد",
-	"vector-action-delete": "پاکسا کردن",
-	"vector-action-move": "جاوه جا بوئيت",
-	"vector-action-protect": "پر و پیم بكيد",
-	"vector-action-undelete": "حذف نبيئني",
-	"vector-action-unprotect": "حمايت آلشت بكيد",
-	"vector-view-create": "راس كردن",
-	"vector-view-edit": "ڤیرایشت",
-	"vector-view-history": "دیاٛن ڤیرگار",
-	"vector-view-view": "هنن",
-	"vector-view-viewsource": "سرچشمه نه بوينيت",
-	"vector-more-actions": "بیشتر"
+	"discord-action-addsection": "داسون اضاف بكيد",
+	"discord-action-delete": "پاکسا کردن",
+	"discord-action-move": "جاوه جا بوئيت",
+	"discord-action-protect": "پر و پیم بكيد",
+	"discord-action-undelete": "حذف نبيئني",
+	"discord-action-unprotect": "حمايت آلشت بكيد",
+	"discord-view-create": "راس كردن",
+	"discord-view-edit": "ڤیرایشت",
+	"discord-view-history": "دیاٛن ڤیرگار",
+	"discord-view-view": "هنن",
+	"discord-view-viewsource": "سرچشمه نه بوينيت",
+	"discord-more-actions": "بیشتر"
 }

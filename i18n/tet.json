@@ -4,9 +4,9 @@
 			"MF-Warburg"
 		]
 	},
-	"vector-action-protect": "Proteje",
-	"vector-view-create": "Kria",
-	"vector-view-edit": "Edita",
-	"vector-view-history": "Haree istória",
-	"vector-view-view": "Lee"
+	"discord-action-protect": "Proteje",
+	"discord-view-create": "Kria",
+	"discord-view-edit": "Edita",
+	"discord-view-history": "Haree istória",
+	"discord-view-view": "Lee"
 }

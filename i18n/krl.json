@@ -7,11 +7,11 @@
 			"Varvana"
 		]
 	},
-	"vector-action-addsection": "Lisyä teema",
-	"vector-action-move": "Šiirrä",
-	"vector-view-create": "Luaji",
-	"vector-view-edit": "Kohentele",
-	"vector-view-history": "Näytä istorija",
-	"vector-view-view": "Luve",
-	"vector-more-actions": "Vielä"
+	"discord-action-addsection": "Lisyä teema",
+	"discord-action-move": "Šiirrä",
+	"discord-view-create": "Luaji",
+	"discord-view-edit": "Kohentele",
+	"discord-view-history": "Näytä istorija",
+	"discord-view-view": "Luve",
+	"discord-more-actions": "Vielä"
 }

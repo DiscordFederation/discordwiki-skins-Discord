@@ -7,17 +7,17 @@
 			"Хомелка"
 		]
 	},
-	"vector-skin-desc": "Сучасная версія вокладкі Манабук, з абноўленым відам і шматлікімі зручнымі паляпшэннямі",
-	"vector-action-addsection": "Дадаць тэму",
-	"vector-action-delete": "Сцерці",
-	"vector-action-move": "Перанесці",
-	"vector-action-protect": "Ахова",
-	"vector-action-undelete": "Аднавіць",
-	"vector-action-unprotect": "Змяніць ахову",
-	"vector-view-create": "Стварыць",
-	"vector-view-edit": "Правіць",
-	"vector-view-history": "Паказаць гісторыю",
-	"vector-view-view": "Чытаць",
-	"vector-view-viewsource": "Паказаць зыходны тэкст",
-	"vector-more-actions": "Яшчэ"
+	"discord-skin-desc": "Сучасная версія вокладкі Манабук, з абноўленым відам і шматлікімі зручнымі паляпшэннямі",
+	"discord-action-addsection": "Дадаць тэму",
+	"discord-action-delete": "Сцерці",
+	"discord-action-move": "Перанесці",
+	"discord-action-protect": "Ахова",
+	"discord-action-undelete": "Аднавіць",
+	"discord-action-unprotect": "Змяніць ахову",
+	"discord-view-create": "Стварыць",
+	"discord-view-edit": "Правіць",
+	"discord-view-history": "Паказаць гісторыю",
+	"discord-view-view": "Чытаць",
+	"discord-view-viewsource": "Паказаць зыходны тэкст",
+	"discord-more-actions": "Яшчэ"
 }

@@ -5,11 +5,11 @@
 			"شیخ"
 		]
 	},
-	"vector-action-addsection": "تازه مؤضۊع",
-	"vector-action-move": "جابجا گۊدن",
-	"vector-view-create": "چاگۊدن",
-	"vector-view-edit": "دچينواچين",
-	"vector-view-history": "تاریخچهٰ دئن",
-	"vector-view-view": "خؤندن",
-	"vector-more-actions": "ويشتر"
+	"discord-action-addsection": "تازه مؤضۊع",
+	"discord-action-move": "جابجا گۊدن",
+	"discord-view-create": "چاگۊدن",
+	"discord-view-edit": "دچينواچين",
+	"discord-view-history": "تاریخچهٰ دئن",
+	"discord-view-view": "خؤندن",
+	"discord-more-actions": "ويشتر"
 }

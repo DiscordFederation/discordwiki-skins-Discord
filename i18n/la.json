@@ -5,16 +5,16 @@
 			"Laurentianus"
 		]
 	},
-	"vector-action-addsection": "Partem novam addere",
-	"vector-action-delete": "Delere",
-	"vector-action-move": "Movere",
-	"vector-action-protect": "Protegere",
-	"vector-action-undelete": "Restituere",
-	"vector-action-unprotect": "Protectionem mutare",
-	"vector-view-create": "Creare",
-	"vector-view-edit": "Recensere",
-	"vector-view-history": "Historiam inspicere",
-	"vector-view-view": "Legere",
-	"vector-view-viewsource": "Fontem inspicere",
-	"vector-more-actions": "Plura"
+	"discord-action-addsection": "Partem novam addere",
+	"discord-action-delete": "Delere",
+	"discord-action-move": "Movere",
+	"discord-action-protect": "Protegere",
+	"discord-action-undelete": "Restituere",
+	"discord-action-unprotect": "Protectionem mutare",
+	"discord-view-create": "Creare",
+	"discord-view-edit": "Recensere",
+	"discord-view-history": "Historiam inspicere",
+	"discord-view-view": "Legere",
+	"discord-view-viewsource": "Fontem inspicere",
+	"discord-more-actions": "Plura"
 }

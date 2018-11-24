@@ -4,16 +4,16 @@
 			"Silvicola"
 		]
 	},
-	"vector.css": "/* CSS hiir beâjflusd nôr dii Vector-schelfn. Wen'd ale uf ôômôôl beâjflusn wilsch, muâsch an MediaWiki:Common.css was ändârn. */",
-	"vector-action-addsection": "Ân najn abschnid ôôfangn",
-	"vector-action-delete": "Leschn",
-	"vector-action-move": "Umdaafn",
-	"vector-action-protect": "Schidsn",
-	"vector-action-undelete": "Leschn riggängich machn",
-	"vector-action-unprotect": "Schuds ufgeebn",
-	"vector-view-create": "Ôôleechn",
-	"vector-view-edit": "Bearbajdn",
-	"vector-view-history": "Wärsjoonsfolche",
-	"vector-view-view": "Leesn",
-	"vector-view-viewsource": "Gwäl-dhägsd ôôgugn"
+	"discord.css": "/* CSS hiir beâjflusd nôr dii Discord-schelfn. Wen'd ale uf ôômôôl beâjflusn wilsch, muâsch an MediaWiki:Common.css was ändârn. */",
+	"discord-action-addsection": "Ân najn abschnid ôôfangn",
+	"discord-action-delete": "Leschn",
+	"discord-action-move": "Umdaafn",
+	"discord-action-protect": "Schidsn",
+	"discord-action-undelete": "Leschn riggängich machn",
+	"discord-action-unprotect": "Schuds ufgeebn",
+	"discord-view-create": "Ôôleechn",
+	"discord-view-edit": "Bearbajdn",
+	"discord-view-history": "Wärsjoonsfolche",
+	"discord-view-view": "Leesn",
+	"discord-view-viewsource": "Gwäl-dhägsd ôôgugn"
 }

@@ -7,16 +7,16 @@
 			"Soul Train"
 		]
 	},
-	"vector-action-addsection": "Тема алава авун",
-	"vector-action-delete": "Алудун",
-	"vector-action-move": "ТӀвар эхцигун",
-	"vector-action-protect": "Хуьн",
-	"vector-action-undelete": "ТуькӀуьр хъувун",
-	"vector-action-unprotect": "Хуьн дегишарун",
-	"vector-view-create": "ТуькӀуьрун",
-	"vector-view-edit": "Дуьзарин",
-	"vector-view-history": "Тарихдиз килигун",
-	"vector-view-view": "КӀелун",
-	"vector-view-viewsource": "Чешме къалурун",
-	"vector-more-actions": "Мадни"
+	"discord-action-addsection": "Тема алава авун",
+	"discord-action-delete": "Алудун",
+	"discord-action-move": "ТӀвар эхцигун",
+	"discord-action-protect": "Хуьн",
+	"discord-action-undelete": "ТуькӀуьр хъувун",
+	"discord-action-unprotect": "Хуьн дегишарун",
+	"discord-view-create": "ТуькӀуьрун",
+	"discord-view-edit": "Дуьзарин",
+	"discord-view-history": "Тарихдиз килигун",
+	"discord-view-view": "КӀелун",
+	"discord-view-viewsource": "Чешме къалурун",
+	"discord-more-actions": "Мадни"
 }

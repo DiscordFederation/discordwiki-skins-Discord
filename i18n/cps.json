@@ -5,15 +5,15 @@
 			"Oxyzen"
 		]
 	},
-	"vector-action-addsection": "Magdugang sang topiko",
-	"vector-action-delete": "Panason",
-	"vector-action-move": "Isdogon",
-	"vector-action-protect": "Protektahan",
-	"vector-action-undelete": "Indi pag panason",
-	"vector-action-unprotect": "Islan ang proteksyon",
-	"vector-view-create": "Ubrahon",
-	"vector-view-edit": "Bag-uhon",
-	"vector-view-history": "Ipakita ang kasaysayan",
-	"vector-view-view": "Basahon",
-	"vector-view-viewsource": "Lantawon ang ginhalinan"
+	"discord-action-addsection": "Magdugang sang topiko",
+	"discord-action-delete": "Panason",
+	"discord-action-move": "Isdogon",
+	"discord-action-protect": "Protektahan",
+	"discord-action-undelete": "Indi pag panason",
+	"discord-action-unprotect": "Islan ang proteksyon",
+	"discord-view-create": "Ubrahon",
+	"discord-view-edit": "Bag-uhon",
+	"discord-view-history": "Ipakita ang kasaysayan",
+	"discord-view-view": "Basahon",
+	"discord-view-viewsource": "Lantawon ang ginhalinan"
 }

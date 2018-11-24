@@ -12,18 +12,18 @@
 			"Abella"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector-skin-desc": "Versió moderna del MonoBook amb un nou aspesctes i moltes millores en la usabilitat",
-	"vector-action-addsection": "Afegeix un tema",
-	"vector-action-delete": "Esborra",
-	"vector-action-move": "Reanomena",
-	"vector-action-protect": "Protegeix",
-	"vector-action-undelete": "Restaura",
-	"vector-action-unprotect": "Desprotegeix",
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Modifica",
-	"vector-view-history": "Mostra l’historial",
-	"vector-view-view": "Mostra",
-	"vector-view-viewsource": "Mostra el codi",
-	"vector-more-actions": "Més"
+	"skinname-discord": "Discord",
+	"discord-skin-desc": "Versió moderna del MonoBook amb un nou aspesctes i moltes millores en la usabilitat",
+	"discord-action-addsection": "Afegeix un tema",
+	"discord-action-delete": "Esborra",
+	"discord-action-move": "Reanomena",
+	"discord-action-protect": "Protegeix",
+	"discord-action-undelete": "Restaura",
+	"discord-action-unprotect": "Desprotegeix",
+	"discord-view-create": "Crea",
+	"discord-view-edit": "Modifica",
+	"discord-view-history": "Mostra l’historial",
+	"discord-view-view": "Mostra",
+	"discord-view-viewsource": "Mostra el codi",
+	"discord-more-actions": "Més"
 }

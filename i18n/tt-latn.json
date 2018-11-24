@@ -5,17 +5,17 @@
 			"Frhdkazan"
 		]
 	},
-	"skinname-vector": "Sızımlı",
-	"vector-action-addsection": "Yaña tema östäw",
-	"vector-action-delete": "Beterü",
-	"vector-action-move": "Küçerü",
-	"vector-action-protect": "Yaqlaw",
-	"vector-action-undelete": "Qaytaru",
-	"vector-action-unprotect": "Yaqlawnı beterü",
-	"vector-view-create": "Tözü",
-	"vector-view-edit": "Üzgärtü",
-	"vector-view-history": "Tarixın qaraw",
-	"vector-view-view": "Uqu",
-	"vector-view-viewsource": "Çığanağın qaraw",
-	"vector-more-actions": "Başqalar"
+	"skinname-discord": "Sızımlı",
+	"discord-action-addsection": "Yaña tema östäw",
+	"discord-action-delete": "Beterü",
+	"discord-action-move": "Küçerü",
+	"discord-action-protect": "Yaqlaw",
+	"discord-action-undelete": "Qaytaru",
+	"discord-action-unprotect": "Yaqlawnı beterü",
+	"discord-view-create": "Tözü",
+	"discord-view-edit": "Üzgärtü",
+	"discord-view-history": "Tarixın qaraw",
+	"discord-view-view": "Uqu",
+	"discord-view-viewsource": "Çığanağın qaraw",
+	"discord-more-actions": "Başqalar"
 }

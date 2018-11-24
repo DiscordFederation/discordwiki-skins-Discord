@@ -4,10 +4,10 @@
 			"R12ntech"
 		]
 	},
-	"vector-action-delete": "ᎧᎵ ᎠᏍᎪᎸᏛᎯ",
-	"vector-action-move": "ᎯᎲᎾ",
-	"vector-action-protect": "ᎠᏓᎦᏎᏍᏙᏗ",
-	"vector-view-create": "ᎪᏢᏗ",
-	"vector-view-edit": "ᎦᏁᏟᏴᏓ ᎰᏪᎸᎦ",
-	"vector-view-view": "ᎠᎪᎵᏰᏗᏊ"
+	"discord-action-delete": "ᎧᎵ ᎠᏍᎪᎸᏛᎯ",
+	"discord-action-move": "ᎯᎲᎾ",
+	"discord-action-protect": "ᎠᏓᎦᏎᏍᏙᏗ",
+	"discord-view-create": "ᎪᏢᏗ",
+	"discord-view-edit": "ᎦᏁᏟᏴᏓ ᎰᏪᎸᎦ",
+	"discord-view-view": "ᎠᎪᎵᏰᏗᏊ"
 }

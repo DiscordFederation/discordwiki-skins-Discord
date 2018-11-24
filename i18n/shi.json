@@ -5,16 +5,16 @@
 			"Amara-Amaziɣ"
 		]
 	},
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⴽⴽⵙ",
-	"vector-action-move": "ⵙⵎⵓⵜⵜⵉ",
-	"vector-action-protect": "Ḥbu",
-	"vector-action-undelete": "Rard may mayḥiydn",
-	"vector-action-unprotect": "Ḥiyd aḥbu",
-	"vector-view-create": "ⵙⵏⵓⵍⴼⵓ",
-	"vector-view-edit": "ⵙⵏⴼⵍ",
-	"vector-view-history": "ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ",
-	"vector-view-viewsource": "ⵥⵔ ⴰⵙⴰⴳⵎ",
-	"vector-more-actions": "ⵓⴳⴳⴰⵔ"
+	"discord-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"discord-action-delete": "ⴽⴽⵙ",
+	"discord-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"discord-action-protect": "Ḥbu",
+	"discord-action-undelete": "Rard may mayḥiydn",
+	"discord-action-unprotect": "Ḥiyd aḥbu",
+	"discord-view-create": "ⵙⵏⵓⵍⴼⵓ",
+	"discord-view-edit": "ⵙⵏⴼⵍ",
+	"discord-view-history": "ⴰⵎⵣⵔⵓⵢ",
+	"discord-view-view": "ⵖⵔ",
+	"discord-view-viewsource": "ⵥⵔ ⴰⵙⴰⴳⵎ",
+	"discord-more-actions": "ⵓⴳⴳⴰⵔ"
 }

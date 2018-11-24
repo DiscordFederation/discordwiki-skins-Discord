@@ -1,5 +1,5 @@
 /**
- * Vector-specific scripts
+ * Discord-specific scripts
  */
 jQuery( function ( $ ) {
 

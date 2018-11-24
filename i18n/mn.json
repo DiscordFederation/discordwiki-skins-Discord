@@ -7,16 +7,16 @@
 			"Sembuk"
 		]
 	},
-	"vector-action-addsection": "Сэдэв нэмэх",
-	"vector-action-delete": "Устгах",
-	"vector-action-move": "Зөөх",
-	"vector-action-protect": "Хамгаалах",
-	"vector-action-undelete": "Үл устгах",
-	"vector-action-unprotect": "Хамгаалалтаа солих",
-	"vector-view-create": "Үүсгэх",
-	"vector-view-edit": "Засварлах",
-	"vector-view-history": "Түүх",
-	"vector-view-view": "Унших",
-	"vector-view-viewsource": "Кодыг харах",
-	"vector-more-actions": "Дэлгэрэнгүй"
+	"discord-action-addsection": "Сэдэв нэмэх",
+	"discord-action-delete": "Устгах",
+	"discord-action-move": "Зөөх",
+	"discord-action-protect": "Хамгаалах",
+	"discord-action-undelete": "Үл устгах",
+	"discord-action-unprotect": "Хамгаалалтаа солих",
+	"discord-view-create": "Үүсгэх",
+	"discord-view-edit": "Засварлах",
+	"discord-view-history": "Түүх",
+	"discord-view-view": "Унших",
+	"discord-view-viewsource": "Кодыг харах",
+	"discord-more-actions": "Дэлгэрэнгүй"
 }

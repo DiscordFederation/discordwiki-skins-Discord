@@ -5,13 +5,13 @@
 			"ArslanX"
 		]
 	},
-	"vector-action-addsection": "Мавзу къошмакъ",
-	"vector-action-delete": "Тайдырмакъ",
-	"vector-action-move": "Атын алышдырмакъ",
-	"vector-action-protect": "Якъламакъ",
-	"vector-view-create": "Яратмакъ",
-	"vector-view-edit": "Тюзлемек",
-	"vector-view-history": "Тарихына къарамакъ",
-	"vector-view-view": "Охумакъ",
-	"vector-more-actions": "Дагъы"
+	"discord-action-addsection": "Мавзу къошмакъ",
+	"discord-action-delete": "Тайдырмакъ",
+	"discord-action-move": "Атын алышдырмакъ",
+	"discord-action-protect": "Якъламакъ",
+	"discord-view-create": "Яратмакъ",
+	"discord-view-edit": "Тюзлемек",
+	"discord-view-history": "Тарихына къарамакъ",
+	"discord-view-view": "Охумакъ",
+	"discord-more-actions": "Дагъы"
 }

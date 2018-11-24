@@ -6,17 +6,17 @@
 			"Tokoabibi"
 		]
 	},
-	"vector-skin-desc": "ayzaay a MonoBook, izaw baluhayay a nuhekalan atu yadah pisaungayay a sakapahay.",
-	"vector-action-addsection": "micunus sasakamuen",
-	"vector-action-delete": "misipu",
-	"vector-action-move": "milimad",
-	"vector-action-protect": "midiput",
-	"vector-action-undelete": "palawpes tu masipuay",
-	"vector-action-unprotect": "misumad tu midiputay",
-	"vector-view-create": "patizeng",
-	"vector-view-edit": "mikawaway-kalumyiti",
-	"vector-view-history": "ciwsace nazipa’an",
-	"vector-view-view": "miasip",
-	"vector-view-viewsource": "ciwsace yuensma-kodo",
-	"vector-more-actions": "yadah"
+	"discord-skin-desc": "ayzaay a MonoBook, izaw baluhayay a nuhekalan atu yadah pisaungayay a sakapahay.",
+	"discord-action-addsection": "micunus sasakamuen",
+	"discord-action-delete": "misipu",
+	"discord-action-move": "milimad",
+	"discord-action-protect": "midiput",
+	"discord-action-undelete": "palawpes tu masipuay",
+	"discord-action-unprotect": "misumad tu midiputay",
+	"discord-view-create": "patizeng",
+	"discord-view-edit": "mikawaway-kalumyiti",
+	"discord-view-history": "ciwsace nazipa’an",
+	"discord-view-view": "miasip",
+	"discord-view-viewsource": "ciwsace yuensma-kodo",
+	"discord-more-actions": "yadah"
 }

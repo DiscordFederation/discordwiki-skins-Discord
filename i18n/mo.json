@@ -5,12 +5,12 @@
 			"Cybernenea11"
 		]
 	},
-	"vector-action-delete": "Штерӂере",
-	"vector-action-move": "Реденумире",
-	"vector-action-protect": "Протежаре",
-	"vector-view-create": "Креаре",
-	"vector-view-edit": "Едитязэ",
-	"vector-view-history": "Историк",
-	"vector-view-view": "Лектурэ",
-	"vector-more-actions": "Май мулт"
+	"discord-action-delete": "Штерӂере",
+	"discord-action-move": "Реденумире",
+	"discord-action-protect": "Протежаре",
+	"discord-view-create": "Креаре",
+	"discord-view-edit": "Едитязэ",
+	"discord-view-history": "Историк",
+	"discord-view-view": "Лектурэ",
+	"discord-more-actions": "Май мулт"
 }

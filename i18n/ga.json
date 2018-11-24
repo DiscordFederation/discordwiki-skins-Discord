@@ -7,17 +7,17 @@
 			"Tem"
 		]
 	},
-	"skinname-vector": "Veicteoir",
-	"vector-action-addsection": "Cuir topaic leis",
-	"vector-action-delete": "Scrios",
-	"vector-action-move": "Athainmnigh",
-	"vector-action-protect": "Glasáil",
-	"vector-action-undelete": "Díscrios",
-	"vector-action-unprotect": "Díghlasáil",
-	"vector-view-create": "Cruthaigh",
-	"vector-view-edit": "Athraigh an lch seo",
-	"vector-view-history": "Féach ar stair",
-	"vector-view-view": "Léigh",
-	"vector-view-viewsource": "Féach ar fhoinse",
-	"vector-more-actions": "Tuilleadh"
+	"skinname-discord": "Veicteoir",
+	"discord-action-addsection": "Cuir topaic leis",
+	"discord-action-delete": "Scrios",
+	"discord-action-move": "Athainmnigh",
+	"discord-action-protect": "Glasáil",
+	"discord-action-undelete": "Díscrios",
+	"discord-action-unprotect": "Díghlasáil",
+	"discord-view-create": "Cruthaigh",
+	"discord-view-edit": "Athraigh an lch seo",
+	"discord-view-history": "Féach ar stair",
+	"discord-view-view": "Léigh",
+	"discord-view-viewsource": "Féach ar fhoinse",
+	"discord-more-actions": "Tuilleadh"
 }

@@ -6,13 +6,13 @@
 			"Chabi"
 		]
 	},
-	"vector-action-addsection": "Ajunta un tema",
-	"vector-action-delete": "Sutrae",
-	"vector-action-move": "Move",
-	"vector-action-protect": "Proteje",
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Edita",
-	"vector-view-history": "Mostra istoria",
-	"vector-view-view": "Leje",
-	"vector-more-actions": "Plu"
+	"discord-action-addsection": "Ajunta un tema",
+	"discord-action-delete": "Sutrae",
+	"discord-action-move": "Move",
+	"discord-action-protect": "Proteje",
+	"discord-view-create": "Crea",
+	"discord-view-edit": "Edita",
+	"discord-view-history": "Mostra istoria",
+	"discord-view-view": "Leje",
+	"discord-more-actions": "Plu"
 }

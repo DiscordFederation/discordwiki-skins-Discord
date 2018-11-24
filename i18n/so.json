@@ -4,15 +4,15 @@
 			"Maax"
 		]
 	},
-	"vector-action-addsection": "Hadal ku dar",
-	"vector-action-delete": "Tirtir",
-	"vector-action-move": "Wareeji",
-	"vector-action-protect": "Difaac",
-	"vector-action-undelete": "Ha tirtirin",
-	"vector-action-unprotect": "Bedel difaacida",
-	"vector-view-create": "Sameey",
-	"vector-view-edit": "Wax ka bedel",
-	"vector-view-history": "Itusi taariikhda",
-	"vector-view-view": "Akhri",
-	"vector-view-viewsource": "Itusi xogta"
+	"discord-action-addsection": "Hadal ku dar",
+	"discord-action-delete": "Tirtir",
+	"discord-action-move": "Wareeji",
+	"discord-action-protect": "Difaac",
+	"discord-action-undelete": "Ha tirtirin",
+	"discord-action-unprotect": "Bedel difaacida",
+	"discord-view-create": "Sameey",
+	"discord-view-edit": "Wax ka bedel",
+	"discord-view-history": "Itusi taariikhda",
+	"discord-view-view": "Akhri",
+	"discord-view-viewsource": "Itusi xogta"
 }

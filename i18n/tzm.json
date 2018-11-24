@@ -6,16 +6,16 @@
 			"ⵕⴰⵊⵉ"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⵓⴽⵓⵙ",
-	"vector-action-move": "ⵙⵎⵓⵜⵜⵉ",
-	"vector-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
-	"vector-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
-	"vector-view-create": "ⴰⵔⴰ",
-	"vector-view-edit": "ⴱⴷⴷⴻⵍ",
-	"vector-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ",
-	"vector-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ",
-	"vector-more-actions": "ⵓⴳⴳⴰⵔ"
+	"skinname-discord": "Discord",
+	"discord-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"discord-action-delete": "ⵓⴽⵓⵙ",
+	"discord-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"discord-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
+	"discord-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
+	"discord-view-create": "ⴰⵔⴰ",
+	"discord-view-edit": "ⴱⴷⴷⴻⵍ",
+	"discord-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
+	"discord-view-view": "ⵖⵔ",
+	"discord-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ",
+	"discord-more-actions": "ⵓⴳⴳⴰⵔ"
 }

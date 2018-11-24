@@ -4,16 +4,16 @@
 			"Võrok"
 		]
 	},
-	"vector-action-addsection": "Vahtsõ teema ülespandminõ",
-	"vector-action-delete": "Kistudaq ärq",
-	"vector-action-move": "Nõstaq ümbre",
-	"vector-action-protect": "Kaidsaq",
-	"vector-action-undelete": "Tiiq tagasi",
-	"vector-action-unprotect": "Muudaq kaidsõt",
-	"vector-view-create": "Luuq",
-	"vector-view-edit": "Toimõndaq",
-	"vector-view-history": "Näütäq aoluku",
-	"vector-view-view": "Loeq",
-	"vector-view-viewsource": "Kaeq lätteteksti",
-	"vector-more-actions": "Viil"
+	"discord-action-addsection": "Vahtsõ teema ülespandminõ",
+	"discord-action-delete": "Kistudaq ärq",
+	"discord-action-move": "Nõstaq ümbre",
+	"discord-action-protect": "Kaidsaq",
+	"discord-action-undelete": "Tiiq tagasi",
+	"discord-action-unprotect": "Muudaq kaidsõt",
+	"discord-view-create": "Luuq",
+	"discord-view-edit": "Toimõndaq",
+	"discord-view-history": "Näütäq aoluku",
+	"discord-view-view": "Loeq",
+	"discord-view-viewsource": "Kaeq lätteteksti",
+	"discord-more-actions": "Viil"
 }

@@ -5,14 +5,14 @@
 			"Saimawnkham"
 		]
 	},
-	"vector-action-addsection": "ထႅမ်သႂ်ႇ ႁူဝ်ၶေႃႈ",
-	"vector-action-delete": "မွတ်ႇပႅတ်ႈ",
-	"vector-action-move": "ၶၢႆႉ",
-	"vector-action-protect": "ႁေႉၵင်ႈ",
-	"vector-view-create": "သၢင်ႈ",
-	"vector-view-edit": "မူၼ်ႉမႄး",
-	"vector-view-history": "တူၺ်းပိုၼ်း",
-	"vector-view-view": "လူတူၺ်း",
-	"vector-view-viewsource": "တူၺ်း ငဝ်ႈငႃႇ",
-	"vector-more-actions": "ၼမ်လိူဝ်"
+	"discord-action-addsection": "ထႅမ်သႂ်ႇ ႁူဝ်ၶေႃႈ",
+	"discord-action-delete": "မွတ်ႇပႅတ်ႈ",
+	"discord-action-move": "ၶၢႆႉ",
+	"discord-action-protect": "ႁေႉၵင်ႈ",
+	"discord-view-create": "သၢင်ႈ",
+	"discord-view-edit": "မူၼ်ႉမႄး",
+	"discord-view-history": "တူၺ်းပိုၼ်း",
+	"discord-view-view": "လူတူၺ်း",
+	"discord-view-viewsource": "တူၺ်း ငဝ်ႈငႃႇ",
+	"discord-more-actions": "ၼမ်လိူဝ်"
 }

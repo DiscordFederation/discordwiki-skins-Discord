@@ -6,15 +6,15 @@
 			"Michaelovic"
 		]
 	},
-	"vector-action-addsection": "ܐܘܣܦ ܡܠܘܐܐ",
-	"vector-action-delete": "ܫܘܦ",
-	"vector-action-move": "ܫܢܝ",
-	"vector-action-protect": "ܛܪ",
-	"vector-action-undelete": "ܠܐ ܫܘܦ",
-	"vector-action-unprotect": "ܫܚܠܦ ܢܛܝܪܘܬܐ",
-	"vector-view-create": "ܒܪܝ",
-	"vector-view-edit": "ܫܚܠܦ",
-	"vector-view-history": "ܚܙܝ ܬܫܥܝܬܐ",
-	"vector-view-view": "ܩܪܝ",
-	"vector-view-viewsource": "ܚܙܝ ܡܒܘܥܐ"
+	"discord-action-addsection": "ܐܘܣܦ ܡܠܘܐܐ",
+	"discord-action-delete": "ܫܘܦ",
+	"discord-action-move": "ܫܢܝ",
+	"discord-action-protect": "ܛܪ",
+	"discord-action-undelete": "ܠܐ ܫܘܦ",
+	"discord-action-unprotect": "ܫܚܠܦ ܢܛܝܪܘܬܐ",
+	"discord-view-create": "ܒܪܝ",
+	"discord-view-edit": "ܫܚܠܦ",
+	"discord-view-history": "ܚܙܝ ܬܫܥܝܬܐ",
+	"discord-view-view": "ܩܪܝ",
+	"discord-view-viewsource": "ܚܙܝ ܡܒܘܥܐ"
 }

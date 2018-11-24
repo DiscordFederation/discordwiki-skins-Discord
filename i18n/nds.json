@@ -6,16 +6,16 @@
 			"Servien"
 		]
 	},
-	"vector-action-addsection": "Thema tofögen",
-	"vector-action-delete": "Wegdoon",
-	"vector-action-move": "Schuven",
-	"vector-action-protect": "Schulen",
-	"vector-action-undelete": "Wedderhalen",
-	"vector-action-unprotect": "Siedenschuul ännern",
-	"vector-view-create": "Opstellen",
-	"vector-view-edit": "Ännern",
-	"vector-view-history": "Historie bekieken",
-	"vector-view-view": "Lesen",
-	"vector-view-viewsource": "Borntext bekieken",
-	"vector-more-actions": "Mehr"
+	"discord-action-addsection": "Thema tofögen",
+	"discord-action-delete": "Wegdoon",
+	"discord-action-move": "Schuven",
+	"discord-action-protect": "Schulen",
+	"discord-action-undelete": "Wedderhalen",
+	"discord-action-unprotect": "Siedenschuul ännern",
+	"discord-view-create": "Opstellen",
+	"discord-view-edit": "Ännern",
+	"discord-view-history": "Historie bekieken",
+	"discord-view-view": "Lesen",
+	"discord-view-viewsource": "Borntext bekieken",
+	"discord-more-actions": "Mehr"
 }
