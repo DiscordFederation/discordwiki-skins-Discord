@@ -186,6 +186,13 @@ class DiscordTemplate extends BaseTemplate {
 			<?php
 			}
 			?>
+            <ul id="footer-affiliation">
+                <li>
+                    <a href="/">Discord Wiki </a>
+                    <?php $this->msg( 'discord-footer-affiliation' ); ?>
+                    <a href="https://discordapp.com"> Discord</a>
+                </li>
+            </ul>
 			<?php $footericons = $this->getFooterIcons( 'icononly' );
 			if ( count( $footericons ) > 0 ) {
 				?>
@@ -207,7 +214,8 @@ class DiscordTemplate extends BaseTemplate {
 			<?php
 			}
 			?>
-			<div style="clear: both;"></div>
+			<div style="clear: both;">
+            </div>
 		</div>
 		<?php $this->printTrail(); ?>
 
