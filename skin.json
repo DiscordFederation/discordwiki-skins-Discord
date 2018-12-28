@@ -96,7 +96,8 @@
 			"+mediawiki.notification": "skinStyles/mediawiki.notification.less",
 			"+oojs-ui-core.styles": "skinStyles/ooui.less",
 			"mediawiki.special": "skinStyles/mediawiki.special.less",
-			"+mediawiki.special.preferences.styles": "skinStyles/mediawiki.special.preferences.styles.less"
+			"+mediawiki.special.preferences.styles": "skinStyles/mediawiki.special.preferences.styles.less",
+			"+mediawiki.special.changeslist": "skinStyles/mediawiki.special.changeslist.less"
 		}
 	},
 	"config": {
