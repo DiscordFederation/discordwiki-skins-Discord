@@ -3,7 +3,7 @@
 	<defs>
 		<linearGradient id="a">
 			<stop offset="0" stop-color="#c2edff"/>
-			<stop offset=".5" stop-color="#68bdff"/>
+			<stop offset=".5" stop-color="#8b9ee0"/>
 			<stop offset="1" stop-color="#fff"/>
 		</linearGradient>
 		<linearGradient id="b" x1="13.47" x2="4.596" y1="14.363" y2="3.397" xlink:href="#a" gradientUnits="userSpaceOnUse"/>
