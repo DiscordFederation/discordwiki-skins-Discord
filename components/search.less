@@ -18,11 +18,10 @@
 }
 
 #simpleSearch {
-	background-color: #fff;
-	.background-image( 'images/search-fade.png' );
+	background-color: #4b4d53;
 	background-position: top left;
 	background-repeat: repeat-x;
-	color: #000;
+	color: #fff;
 	display: block;
 	width: 12.6em;
 	width: 20vw; /* responsive width */
@@ -33,18 +32,18 @@
 	margin-top: 0.65em;
 	position: relative;
 	min-height: 1px; /* Gotta trigger hasLayout for IE7 */
-	border: 1px solid @colorGray10;
-	border-radius: @borderRadius;
+	border: 1px solid #4b4d53;
+	border-radius: 3px;
 	.transition( border-color 250ms );
 
 	&:hover {
-		border-color: @colorGray7;
+		border-color: #4b4d53;  /* #5b5d62 for highlight on hover*/
 	}
 
 	// Styles for both the search input and the button
 	input {
-		background-color: transparent;
-		color: #000;
+		background-color: #4b4d53;
+		color: #fff;
 		margin: 0;
 		padding: 0;
 		border: 0;
