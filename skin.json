@@ -103,7 +103,8 @@
 			"+mediawiki.special.changeslist": "skinStyles/mediawiki.special.changeslist.less",
 			"+mediawiki.action.history.styles": "skinStyles/mediawiki.action.history.styles.css",
 			"+mediawiki.skinning.interface": "skinStyles/mediawiki.skinning.interface.css",
-			"+ext.echo.styles.badge": "skinStyles/echo/mw.echo.badge.less"
+			"+ext.echo.styles.badge": "skinStyles/echo/mw.echo.badge.less",
+			"+ext.echo.special": "skinStyles/echo/mw.echo.ui.less"
 		}
 	},
 	"config": {
