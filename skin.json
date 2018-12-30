@@ -33,6 +33,9 @@
 	"Hooks": {
 		"BeforePageDisplayMobile": [
 			"Discord\\Hooks::onBeforePageDisplayMobile"
+		],
+		"BeforeCreateEchoEvent": [
+			"Discord\\Hooks::onBeforeCreateEchoEvent"
 		]
 	},
 	"@note": "When modifying skins.discord.styles definition, make sure the installer still works",
