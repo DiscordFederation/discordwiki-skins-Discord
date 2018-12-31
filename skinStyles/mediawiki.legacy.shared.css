@@ -1,0 +1,17 @@
+table.wikitable {
+    background-color: #2d2f34;
+    color: #fff;
+    border: 1px solid #36393f;
+}
+
+table.wikitable > tr > th,
+table.wikitable > tr > td,
+table.wikitable > * > tr > th,
+table.wikitable > * > tr > td {
+    border: 2px solid #36393f;
+}
+
+table.wikitable > tr > th,
+table.wikitable > * > tr > th {
+    background-color: #202225;
+}
