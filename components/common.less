@@ -219,3 +219,20 @@ h6 {
 .mw-number-text {
 	color: #c2c5c6;
 }
+
+/* Catch all Input CSS */
+
+input {
+	background-color: #4b4d53;
+	color: #fff;
+	border-radius: 3px;
+
+	&[type="text"], &[type="password"], &[type="email"] {
+		border-radius: 3px;
+		text-indent: 5px;
+	}
+
+	&[type="submit"], &[type="button"], &[type="reset"]{
+		background-color: #202225;
+	}
+}
