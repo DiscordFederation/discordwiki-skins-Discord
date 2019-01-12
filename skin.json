@@ -28,7 +28,8 @@
 		"Discord\\Hooks": "includes/Hooks.php",
 		"SkinDiscord": "includes/SkinDiscord.php",
 		"DiscordTemplate": "includes/DiscordTemplate.php",
-		"Discord\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php"
+		"Discord\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php",
+		"OOUI\\DiscordTheme": "includes/ooui/DiscordTheme.php"
 	},
 	"Hooks": {
 		"BeforePageDisplayMobile": [
@@ -74,6 +75,19 @@
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
 		"remoteSkinPath": "Discord"
+	},
+	"SkinOOUIThemes": {
+		"discord": "Discord"
+	},
+	"OOUIThemePaths": {
+		"Discord": {
+			"scripts": "resources/ooui/oojs-ui-discord.js",
+			"styles": [
+				"resources/ooui/oojs-ui-{module}-discord.css",
+				"resources/ooui/oojs-ui-{module}-discord.rtl.css"
+			],
+			"images": "resources/ooui/{module}.json"
+		}
 	},
 	"ResourceModuleSkinStyles": {
 		"discord": {

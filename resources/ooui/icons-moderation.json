@@ -1,0 +1,85 @@
+{
+	"selectorWithoutVariant": ".oo-ui-icon-{name}",
+	"selectorWithVariant": ".oo-ui-image-{variant}.oo-ui-icon-{name}",
+	"intro": "@import '../../../../src/styles/common';",
+	"defaultColor": "#fff",
+	"variants": {
+		"invert": {
+			"color": "#000",
+			"global": true
+		},
+		"progressive": {
+			"color": "#7289da",
+			"global": true
+		},
+		"destructive": {
+			"color": "#f04747"
+		},
+		"warning": {
+			"color": "#e67e22"
+		}
+	},
+	"images": {
+		"bookmarkOutline": {
+			"file": "images/icons/bookmarkOutline.svg"
+		},
+		"bookmark": {
+			"file": "images/icons/bookmark.svg"
+		},
+		"block": {
+			"file": "images/icons/block.svg",
+			"variants": [ "destructive" ]
+		},
+		"unBlock": {
+			"file": "images/icons/unBlock.svg"
+		},
+		"flag": {
+			"file": {
+				"ltr": "images/icons/flag-ltr.svg",
+				"rtl": "images/icons/flag-rtl.svg"
+			}
+		},
+		"unFlag": {
+			"file": {
+				"ltr": "images/icons/unFlag-ltr.svg",
+				"rtl": "images/icons/unFlag-rtl.svg"
+			}
+		},
+		"lock": {
+			"file": "images/icons/lock.svg",
+			"variants": [ "destructive" ]
+		},
+		"unLock": {
+			"file": "images/icons/unLock.svg",
+			"variants": [ "destructive" ]
+		},
+		"star": {
+			"file": "images/icons/star.svg"
+		},
+		"halfStar": {
+			"file": {
+				"ltr": "images/icons/halfStar-ltr.svg",
+				"rtl": "images/icons/halfStar-rtl.svg"
+			}
+		},
+		"unStar": {
+			"file": "images/icons/unStar.svg"
+		},
+		"trash": {
+			"file": "images/icons/trash.svg",
+			"variants": [ "destructive" ]
+		},
+		"unTrash": {
+			"file": "images/icons/unTrash.svg"
+		},
+		"pushPin": {
+			"file": "images/icons/pushPin.svg"
+		},
+		"ongoingConversation": {
+			"file": {
+				"ltr": "images/icons/ongoingConversation-ltr.svg",
+				"rtl": "images/icons/ongoingConversation-rtl.svg"
+			}
+		}
+	}
+}

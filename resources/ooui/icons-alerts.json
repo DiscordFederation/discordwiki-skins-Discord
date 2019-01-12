@@ -1,0 +1,58 @@
+{
+	"selectorWithoutVariant": ".oo-ui-icon-{name}",
+	"selectorWithVariant": ".oo-ui-image-{variant}.oo-ui-icon-{name}",
+	"intro": "@import '../../../../src/styles/common';",
+	"defaultColor": "#fff",
+	"variants": {
+		"invert": {
+			"color": "#000",
+			"global": true
+		},
+		"progressive": {
+			"color": "#7289da",
+			"global": true
+		},
+		"destructive": {
+			"color": "#f04747"
+		},
+		"warning": {
+			"color": "#e67e22"
+		}
+	},
+	"images": {
+		"alert": {
+			"file": "images/icons/alert.svg",
+			"variants": [ "warning" ]
+		},
+		"bell": {
+			"file": "images/icons/bell.svg"
+		},
+		"message": {
+			"file": "images/icons/message.svg"
+		},
+		"notice": {
+			"file": "images/icons/notice.svg"
+		},
+		"speechBubble": {
+			"file": {
+				"ltr": "images/icons/speechBubble-ltr.svg",
+				"rtl": "images/icons/speechBubble-rtl.svg"
+			}
+		},
+		"speechBubbleAdd": {
+			"file": {
+				"ltr": "images/icons/speechBubbleAdd-ltr.svg",
+				"rtl": "images/icons/speechBubbleAdd-rtl.svg"
+			}
+		},
+		"speechBubbles": {
+			"file": {
+				"ltr": "images/icons/speechBubbles-ltr.svg",
+				"rtl": "images/icons/speechBubbles-rtl.svg"
+			}
+		},
+		"tray": {
+			"file": "images/icons/tray.svg"
+		}
+	}
+}

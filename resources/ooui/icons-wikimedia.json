@@ -1,0 +1,35 @@
+{
+	"selectorWithoutVariant": ".oo-ui-icon-{name}",
+	"selectorWithVariant": ".oo-ui-image-{variant}.oo-ui-icon-{name}",
+	"intro": "@import '../../../../src/styles/common';",
+	"defaultColor": "#fff",
+	"variants": {
+		"invert": {
+			"color": "#000",
+			"global": true
+		},
+		"progressive": {
+			"color": "#7289da"
+		},
+		"destructive": {
+			"color": "#f04747"
+		},
+		"warning": {
+			"color": "#e67e22"
+		}
+	},
+	"images": {
+		"logoCC": {
+			"file": "images/icons/logo-CC.svg"
+		},
+		"logoWikimediaCommons": {
+			"file": "images/icons/logo-Wikimedia-Commons.svg"
+		},
+		"logoWikimediaDiscovery": {
+			"file": "images/icons/logo-Wikimedia-Discovery.svg"
+		},
+		"logoWikipedia": {
+			"file": "images/icons/logo-Wikipedia.svg"
+		}
+	}
+}
