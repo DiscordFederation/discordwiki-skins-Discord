@@ -30,5 +30,6 @@
 	"discord-view-viewsource": "Tab label in the Discord skin.\n{{Identical|View source}}",
 	"discord-jumptonavigation": "Accessibility link for jumping to the navigation links. Visually hidden by default.\n\nSee also\n* {{msg-mw|Navigation}}",
 	"discord-jumptosearch": "Accessibility link for jumping to the site search. Visually hidden by default.\n\nSee also\n* {{msg-mw|Search}}",
-	"discord-more-actions": "Label in the Discord skin's menu for the less-important or rarer actions which are not shown as tabs (like moving the page, or for sysops deleting or protecting the page), as well as (for users with a narrow viewing window in their browser) the less-important tab actions which the user's browser is unable to fit in. {{Identical|More}}"
+	"discord-more-actions": "Label in the Discord skin's menu for the less-important or rarer actions which are not shown as tabs (like moving the page, or for sysops deleting or protecting the page), as well as (for users with a narrow viewing window in their browser) the less-important tab actions which the user's browser is unable to fit in. {{Identical|More}}",
+	"discord-footer-affiliation": "Text in footer exclaiming non-affiliation with Discord."
 }
