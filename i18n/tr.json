@@ -22,5 +22,7 @@
 	"discord-view-history": "Geçmişi gör",
 	"discord-view-view": "Oku",
 	"discord-view-viewsource": "Kaynağı gör",
-	"discord-more-actions": "Diğer"
+	"discord-jumptonavigation": "Gezinti kısmına atla",
+	"discord-jumptosearch": "Arama kısmına atla",
+	"discord-more-actions": "Daha fazla"
 }

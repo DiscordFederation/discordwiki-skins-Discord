@@ -4,14 +4,17 @@
 			"Bombola",
 			"Ceas08",
 			"Erdemaslancan",
-			"Velg"
+			"Velg",
+			"Cem Rize"
 		]
 	},
+	"discord-action-addsection": "Konu ekle",
 	"discord-action-delete": "Jili",
 	"discord-action-move": "Tori",
 	"discord-action-protect": "İçvi",
 	"discord-view-create": "dokʼidi",
 	"discord-view-edit": "Doktiri",
 	"discord-view-history": "Dosyaşi tarixi",
-	"discord-view-view": "İǩitxi"
+	"discord-view-view": "İǩitxi",
+	"discord-more-actions": "Daha fazla"
 }

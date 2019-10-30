@@ -11,21 +11,24 @@
 			"Velg",
 			"1917 Ekim Devrimi",
 			"Dılmıc",
-			"Gambollar"
+			"Gambollar",
+			"Orbot707"
 		]
 	},
 	"skinname-discord": "Vektor",
 	"discord-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
-	"discord-action-addsection": "Mewzu vıraze",
+	"discord-action-addsection": "Mewzu dek",
 	"discord-action-delete": "Bestere",
 	"discord-action-move": "Bıkırışe",
-	"discord-action-protect": "Bısıtarne",
-	"discord-action-undelete": "Peyser biya",
+	"discord-action-protect": "Bışevekne",
+	"discord-action-undelete": "Meestere",
 	"discord-action-unprotect": "Sıtarnayışi bıvurne",
-	"discord-view-create": "Vıraze",
-	"discord-view-edit": "Bıvırnê",
-	"discord-view-history": "Verênan bıvênê",
-	"discord-view-view": "Bıwanê",
+	"discord-view-create": "Vıraz",
+	"discord-view-edit": "Bıvurne",
+	"discord-view-history": "Verêni bıvêne",
+	"discord-view-view": "Bıwane",
 	"discord-view-viewsource": "Rêçi bıvin",
-	"discord-more-actions": "Tayêna"
+	"discord-jumptonavigation": "Xıl de be pusula",
+	"discord-jumptosearch": "Xıl de cıgeyrayışi",
+	"discord-more-actions": "Zêde"
 }

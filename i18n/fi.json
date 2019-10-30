@@ -5,12 +5,15 @@
 			"Nedergard",
 			"Nike",
 			"Pxos",
-			"SuperPete"
+			"SuperPete",
+			"01miki10",
+			"Pyscowicz"
 		]
 	},
+	"skinname-discord": "Vektori",
 	"discord-skin-desc": "Uudistettu versio MonoBookista raikkaalla ulkoasulla ja useilla käytettävyysparannuksilla",
-	"discord.css": "/* Tämä sivu sisältää Discord-ulkoasua muuttavia tyylejä. */",
-	"discord.js": "/* Tämän sivun JavaScript-koodi liitetään Discord-tyyliin */",
+	"discord.css": "/* Tämä sivu sisältää Vektori-ulkoasua muuttavia tyylejä. */",
+	"discord.js": "/* Tämän sivun JavaScript-koodi liitetään Vektori-tyyliin */",
 	"discord-action-addsection": "Lisää aihe",
 	"discord-action-delete": "Poista",
 	"discord-action-move": "Siirrä",
@@ -22,5 +25,7 @@
 	"discord-view-history": "Näytä historia",
 	"discord-view-view": "Lue",
 	"discord-view-viewsource": "Näytä lähdekoodi",
+	"discord-jumptonavigation": "Siirry navigaatioon",
+	"discord-jumptosearch": "Siirry hakuun",
 	"discord-more-actions": "Muut"
 }

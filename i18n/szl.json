@@ -5,18 +5,19 @@
 			"Gaj777",
 			"Przemub",
 			"Krol111",
-			"Przem(1)s"
+			"Przem(1)s",
+			"Uostofchuodnego"
 		]
 	},
-	"discord-action-addsection": "Nowo tajla",
-	"discord-action-delete": "Wyćepej",
-	"discord-action-move": "Przećep",
+	"discord-action-addsection": "Przidej tymat",
+	"discord-action-delete": "Skasuj",
+	"discord-action-move": "Przeniyś",
 	"discord-action-protect": "Zawrzij",
 	"discord-action-undelete": "Wćep",
 	"discord-action-unprotect": "Uodymkńij",
-	"discord-view-create": "Stwůrz",
-	"discord-view-edit": "Sprowjej",
-	"discord-view-history": "Uobocz gyszichta",
+	"discord-view-create": "Stwōrz",
+	"discord-view-edit": "Edytuj",
+	"discord-view-history": "Pokŏż historyjõ",
 	"discord-view-view": "Czytej",
 	"discord-view-viewsource": "Zdrzůdłowy tekst",
 	"discord-more-actions": "Wiyncyj"

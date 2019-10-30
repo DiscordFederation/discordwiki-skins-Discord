@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Mostafadaneshvar",
-			"RigiMahnoor"
+			"RigiMahnoor",
+			"Sultanselim baloch"
 		]
 	},
 	"discord-action-addsection": "هور کتن عنوان",
@@ -12,9 +13,9 @@
 	"discord-action-undelete": "ترینگ",
 	"discord-action-unprotect": "پروتکشنء ٹگل بدئ",
 	"discord-view-create": "شرکتن",
-	"discord-view-edit": "اصلاح",
-	"discord-view-history": "چارتن تاریح",
-	"discord-view-view": "وانتن",
+	"discord-view-edit": "ٹگلݔنگ",
+	"discord-view-history": "رمسءِ چارگ",
+	"discord-view-view": "وانگ",
 	"discord-view-viewsource": "پیشدارگ بن جاه",
-	"discord-more-actions": "گیشتر"
+	"discord-more-actions": "گݔشتِر"
 }

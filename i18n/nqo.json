@@ -1,11 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Youssoufkadialy"
+			"Youssoufkadialy",
+			"Lanciné.kounfantoh.fofana",
+			"Lancine.kounfantoh.fofana",
+			"Babamamadidiane"
 		]
 	},
-	"discord-view-edit": "ߊ߬ ߡߊߝߊ߬ߟߋ߲߬",
-	"discord-view-history": "ߕߊ߬ߡߌ߲߬ߣߍ߲ ߠߎ߫ ߦߌ߬ߘߊ߬",
-	"discord-view-view": "ߊ߬ ߞߊ߬ߙߊ߲߬",
-	"discord-more-actions": "ߜߘߍ߫ ߟߎ߬"
+	"discord-action-addsection": "ߥߟߊ߬ߘߊ߫ ߝߙߊ߬",
+	"discord-action-delete": "ߊ߬ ߖߏ߬ߛߌ߬",
+	"discord-action-move": "ߊ߬ ߛߋ߲߬ߓߐ߫",
+	"discord-action-protect": "ߊ߬ ߟߊߞߊ߲ߘߊ߫",
+	"discord-view-create": "ߊ߬ ߟߊߘߊ߲߫",
+	"discord-view-edit": "ߊ߬ ߡߊߦߟߍ߬ߡߊ߲߫",
+	"discord-view-history": "ߞߊ߬ߞߘߐ ߡߊߝߟߍ",
+	"discord-view-view": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲",
+	"discord-more-actions": "ߡߞߊ߬ߝߏ߬ ߜߘߍ߫ ߟߎ߫"
 }

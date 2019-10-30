@@ -5,7 +5,8 @@
 			"Rudko",
 			"Sudo77(new)",
 			"KuboF",
-			"Mikulas1"
+			"Mikulas1",
+			"Robert Važan"
 		]
 	},
 	"skinname-discord": "Discord",
@@ -22,6 +23,6 @@
 	"discord-view-edit": "Upraviť",
 	"discord-view-history": "Zobraziť históriu",
 	"discord-view-view": "Čítať",
-	"discord-view-viewsource": "Zobraziť zdroj",
+	"discord-view-viewsource": "Zobraziť kód",
 	"discord-more-actions": "Viac"
 }

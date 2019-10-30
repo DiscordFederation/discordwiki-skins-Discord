@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Bua333",
-			"Mucalexx"
+			"Mucalexx",
+			"Joe Watzmo"
 		]
 	},
 	"discord-action-addsection": "An Obschnitt dazua doa",
@@ -15,5 +16,6 @@
 	"discord-view-edit": "Werkln",
 	"discord-view-history": "Gschicht oschaugn",
 	"discord-view-view": "Lesn",
-	"discord-view-viewsource": "Quejtext ozoagn"
+	"discord-view-viewsource": "Quejtext ozoagn",
+	"discord-more-actions": "Meara"
 }

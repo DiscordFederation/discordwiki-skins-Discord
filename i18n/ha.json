@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"DonCamillo"
+			"DonCamillo",
+			"Ammarpad"
 		]
 	},
+	"discord-action-addsection": "Sabon sashe",
 	"discord-action-delete": "Soke",
 	"discord-action-move": "Gusarwa",
 	"discord-action-protect": "A kare",

@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Htawmonzel"
+		]
+	},
+	"discord-action-addsection": "စုတ် ပရူပရာ",
+	"discord-action-delete": "ပလီု",
+	"discord-action-move": "ပြံင်ပဆုဲ",
+	"discord-action-protect": "စဵုဒၞာ",
+	"discord-view-create": "ခၞံကၠောန်",
+	"discord-view-edit": "ပလေဝ်ဒါန်",
+	"discord-view-history": "ထ္ၜး လၟေင်အပြံင်အလှာဲ",
+	"discord-view-view": "ဗှ်",
+	"discord-more-actions": "ဆက်ဗှ်"
+}

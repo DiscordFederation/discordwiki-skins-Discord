@@ -2,13 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Mahali syarifuddin",
-			"Jawadywn"
+			"Jawadywn",
+			"Masjawad99"
 		]
 	},
-	"discord-action-addsection": "Tambahke topik",
-	"discord-view-create": "Biat",
-	"discord-view-edit": "Anyari",
-	"discord-view-history": "Jingok yang lamo",
+	"discord-action-addsection": "Imboke topik",
+	"discord-action-move": "Pindahke",
+	"discord-view-create": "Ngawék",
+	"discord-view-edit": "Robah",
+	"discord-view-history": "Selék riwayat",
 	"discord-view-view": "Baco",
 	"discord-view-viewsource": "Jingok sumber",
 	"discord-more-actions": "Laénnyo"

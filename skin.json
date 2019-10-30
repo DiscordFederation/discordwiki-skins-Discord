@@ -49,7 +49,7 @@
 					"media": "screen"
 				},
 				"screen-hd.less": {
-					"media": "screen and (min-width: 982px)"
+					"media": "screen and ( min-width: 982px )"
 				},
 				"print.less": {}
 			}
@@ -67,7 +67,7 @@
 				"discord.js"
 			],
 			"dependencies": [
-				"jquery.throttle-debounce",
+				"mediawiki.util",
 				"jquery.tabIndex"
 			]
 		}
@@ -103,9 +103,8 @@
 			"jquery.ui.resizable": "skinStyles/jquery.ui/jquery.ui.resizable.css",
 			"jquery.ui.selectable": "skinStyles/jquery.ui/jquery.ui.selectable.css",
 			"jquery.ui.slider": "skinStyles/jquery.ui/jquery.ui.slider.css",
-			"jquery.ui.spinner": "skinStyles/jquery.ui/jquery.ui.spinner.css",
 			"jquery.ui.tabs": "skinStyles/jquery.ui/jquery.ui.tabs.css",
-			"jquery.ui.tooltips": "skinStyles/jquery.ui/jquery.ui.tooltips.css",
+			"jquery.ui.tooltip": "skinStyles/jquery.ui/jquery.ui.tooltip.css",
 			"+mediawiki.action.view.redirectPage": "skinStyles/mediawiki.action.view.redirectPage.less",
 			"+mediawiki.notification": "skinStyles/mediawiki.notification.less",
 			"+oojs-ui-core.styles": "skinStyles/ooui.less",
@@ -117,6 +116,7 @@
 			"+ext.echo.styles.badge": "skinStyles/echo/mw.echo.badge.less",
 			"+ext.echo.special": "skinStyles/echo/mw.echo.ui.less",
 			"+mediawiki.legacy.shared": "skinStyles/mediawiki.legacy.shared.css"
+			"+ext.relatedArticles.readMore": "skinStyles/ext.relatedArticles.readMore.less"
 		}
 	},
 	"config": {

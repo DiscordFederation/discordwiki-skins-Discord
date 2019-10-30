@@ -3,7 +3,8 @@
 		"authors": [
 			"OC Ripper",
 			"Conquistador",
-			"Srdjan m"
+			"Srdjan m",
+			"BadDog"
 		]
 	},
 	"discord-action-addsection": "Dodaj temu",
@@ -14,7 +15,7 @@
 	"discord-action-unprotect": "Promijeni zaštitu",
 	"discord-view-create": "Napravi",
 	"discord-view-edit": "Uredi",
-	"discord-view-history": "Vidi historiju",
+	"discord-view-history": "Historija/Историја",
 	"discord-view-view": "Čitaj",
 	"discord-view-viewsource": "Vidi izvor (source)",
 	"discord-more-actions": "Više"

@@ -17,6 +17,7 @@
 	"discord-view-history": "View history",
 	"discord-view-view": "Read",
 	"discord-view-viewsource": "View source",
-	"discord-more-actions": "More",
-	"discord-footer-affiliation": "is not affiliated with"
+	"discord-jumptonavigation": "Jump to navigation",
+	"discord-jumptosearch": "Jump to search",
+	"discord-more-actions": "More"
 }

@@ -9,7 +9,8 @@
 			"Vriullop",
 			"Toniher",
 			"Fitoschido",
-			"Abella"
+			"Abella",
+			"Townie"
 		]
 	},
 	"skinname-discord": "Discord",
@@ -22,8 +23,10 @@
 	"discord-action-unprotect": "Desprotegeix",
 	"discord-view-create": "Crea",
 	"discord-view-edit": "Modifica",
-	"discord-view-history": "Mostra l’historial",
+	"discord-view-history": "Mostra l'historial",
 	"discord-view-view": "Mostra",
 	"discord-view-viewsource": "Mostra el codi",
+	"discord-jumptonavigation": "Salta a la navegació",
+	"discord-jumptosearch": "Salta a la cerca",
 	"discord-more-actions": "Més"
 }

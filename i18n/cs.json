@@ -1,13 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mormegil"
+			"Mormegil",
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
 	"skinname-discord": "Vektor",
-	"discord-skin-desc": "Moderní verze MonoBooku s novějším vzhledem a vylepšenou použitelností",
-	"discord.css": "/* Zde uvedené CSS bude ovlivňovat pouze styl „Vektor“ */",
-	"discord.js": "/* JavaScript pro uživatele používající vzhled „Vektor“ */",
+	"discord-skin-desc": "Moderní verze vzhledu Kniha s novějším vzhledem a vylepšenou použitelností",
+	"discord.css": "/* Zde uvedené CSS bude ovlivňovat pouze vzhled „Vektor“ */",
+	"discord.js": "/* Zde uvedený JavaScript bude použit pouze pro uživatele vzhledu „Vektor“ */",
 	"discord-action-addsection": "Přidat téma",
 	"discord-action-delete": "Smazat",
 	"discord-action-move": "Přesunout",
@@ -19,5 +21,7 @@
 	"discord-view-history": "Zobrazit historii",
 	"discord-view-view": "Číst",
 	"discord-view-viewsource": "Zobrazit zdrojový kód",
+	"discord-jumptonavigation": "Skočit na navigaci",
+	"discord-jumptosearch": "Skočit na vyhledávání",
 	"discord-more-actions": "Další"
 }

@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"LeGuyanaisPure"
+			"LeGuyanaisPure",
+			"Léon973"
 		]
 	},
 	"discord-action-addsection": "Ajouté roun sijè",
-	"discord-action-delete": "Souprimé",
+	"discord-action-delete": "Siprimen",
 	"discord-action-move": "Rounonmen",
 	"discord-action-protect": "Protéjé",
 	"discord-view-create": "Kréyé",

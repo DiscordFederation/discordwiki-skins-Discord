@@ -6,7 +6,8 @@
 			"SPQRobin",
 			"Siebrand",
 			"Troefkaart",
-			"Sjoerddebruin"
+			"Sjoerddebruin",
+			"Mainframe98"
 		]
 	},
 	"skinname-discord": "Discord",
@@ -24,5 +25,7 @@
 	"discord-view-history": "Geschiedenis weergeven",
 	"discord-view-view": "Lezen",
 	"discord-view-viewsource": "Brontekst bekijken",
+	"discord-jumptonavigation": "Naar navigatie springen",
+	"discord-jumptosearch": "Naar zoeken springen",
 	"discord-more-actions": "Meer"
 }

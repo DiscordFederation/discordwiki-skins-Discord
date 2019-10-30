@@ -2,13 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Azniv Stepanian",
-			"ArmenBakkalian"
+			"ArmenBakkalian",
+			"Rajemian",
+			"Դավիթ Սարոյան"
 		]
 	},
 	"discord-action-addsection": "Աւելցնել քննարկում",
+	"discord-action-delete": "Ջնջել",
+	"discord-action-move": "Տեղափոխել այս էջը",
+	"discord-action-protect": "Պահել",
 	"discord-view-create": "Ստեղծել",
 	"discord-view-edit": "Խմբագրել",
-	"discord-view-history": "Դիտել պատմութիւնը",
+	"discord-view-history": "Տեսնել պատմութիւնը",
 	"discord-view-view": "Կարդալ",
 	"discord-more-actions": "Աւելին"
 }

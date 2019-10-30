@@ -7,7 +7,8 @@
 			"Gomoko",
 			"Jean-Frédéric",
 			"Od1n",
-			"DePlusJean"
+			"DePlusJean",
+			"Niridya"
 		]
 	},
 	"skinname-discord": "Discord",
@@ -22,8 +23,10 @@
 	"discord-action-unprotect": "Changer la protection",
 	"discord-view-create": "Créer",
 	"discord-view-edit": "Modifier",
-	"discord-view-history": "Afficher l’historique",
+	"discord-view-history": "Voir l’historique",
 	"discord-view-view": "Lire",
 	"discord-view-viewsource": "Voir la source",
+	"discord-jumptonavigation": "Sauter à la navigation",
+	"discord-jumptosearch": "Sauter à la recherche",
 	"discord-more-actions": "Plus"
 }

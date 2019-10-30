@@ -1,14 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mogoeilor"
+			"Mogoeilor",
+			"Isevand"
 		]
 	},
-	"discord-action-addsection": "داسون اضاف کونین",
+	"discord-action-addsection": "داسۊن اْزاف کونین",
+	"discord-action-delete": "پاکسا کردن",
 	"discord-action-move": "جابجا کردن",
+	"discord-action-protect": "هناڌاری ۉ پٱلڌاری",
 	"discord-view-create": "راس كردن",
-	"discord-view-edit": "ڤیرایئشت کاری",
-	"discord-view-history": "ديئن ڤیرگار",
+	"discord-view-edit": "آلشدکاری کردن",
+	"discord-view-history": "ديڌن ڤیرگار",
 	"discord-view-view": "خوندن",
 	"discord-more-actions": "بیشتر"
 }

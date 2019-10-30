@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jyllanj"
+			"Jyllanj",
+			"Ghiutun"
 		]
 	},
 	"discord-action-addsection": "Ny emn",
 	"discord-action-move": "Flytt",
+	"discord-action-protect": "Beskøtt",
 	"discord-view-create": "Oprett",
 	"discord-view-edit": "Redigiir",
 	"discord-view-history": "Sie historik",

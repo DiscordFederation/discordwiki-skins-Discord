@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wikimistusik"
+			"Wikimistusik",
+			"Axel xadolik"
 		]
 	},
 	"discord-action-addsection": "Loplekura va detce",
@@ -12,5 +13,6 @@
 	"discord-view-edit": "Betara",
 	"discord-view-history": "Wira va izvot",
 	"discord-view-view": "Belira",
-	"discord-view-viewsource": "klitawira"
+	"discord-view-viewsource": "klitawira",
+	"discord-more-actions": "Loon"
 }

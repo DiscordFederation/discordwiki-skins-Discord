@@ -2,19 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Mogoeilor",
-			"Beyronvan"
+			"Beyronvan",
+			"Lorestani"
 		]
 	},
-	"discord-action-addsection": "داسون اضاف بكيد",
+	"discord-action-addsection": "سالفٱ اْزاف بٱکؽت",
 	"discord-action-delete": "پاکسا کردن",
-	"discord-action-move": "جاوه جا بوئيت",
-	"discord-action-protect": "پر و پیم بكيد",
+	"discord-action-move": "جا ڤ جا بۊئیت",
+	"discord-action-protect": "پر ۉ پیم بٱکؽت",
 	"discord-action-undelete": "حذف نبيئني",
 	"discord-action-unprotect": "حمايت آلشت بكيد",
-	"discord-view-create": "راس كردن",
-	"discord-view-edit": "ڤیرایشت",
-	"discord-view-history": "دیاٛن ڤیرگار",
-	"discord-view-view": "هنن",
+	"discord-view-create": "دۏرس كردن",
+	"discord-view-edit": "ڤیرایش",
+	"discord-view-history": "دیئن ڤیرگار",
+	"discord-view-view": "ڤٱناْ",
 	"discord-view-viewsource": "سرچشمه نه بوينيت",
-	"discord-more-actions": "بیشتر"
+	"discord-more-actions": "بؽشتر"
 }

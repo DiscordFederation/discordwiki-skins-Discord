@@ -3,7 +3,8 @@
 		"authors": [
 			"Ktchankt",
 			"Waihorace",
-			"Yueman"
+			"Yueman",
+			"Roy17"
 		]
 	},
 	"skinname-discord": "Discord",
@@ -18,7 +19,7 @@
 	"discord-action-unprotect": "改保護",
 	"discord-view-create": "開",
 	"discord-view-edit": "改",
-	"discord-view-history": "睇吓歷史",
+	"discord-view-history": "修改紀錄",
 	"discord-view-view": "閱",
 	"discord-view-viewsource": "睇吓原始碼",
 	"discord-more-actions": "更多"

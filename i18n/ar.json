@@ -9,14 +9,15 @@
 			"أحمد",
 			"زكريا",
 			"Khaled",
-			"علاء"
+			"علاء",
+			"ديفيد"
 		]
 	},
 	"skinname-discord": "فكتور",
-	"discord-skin-desc": "نسة حديثة من مونوبوك بمظهر جديد وسهولة الاستخدام",
+	"discord-skin-desc": "نسخة حديثة من مونوبوك بمظهر جديد وتحسينات لسهولة الاستخدام",
 	"discord.css": "/* الأنماط المتراصة CSS المعروضة هنا ستؤثر على مستخدمي واجهة فكتور */",
 	"discord.js": "/* أي جافاسكريبت هنا سيتم تحميلها للمستخدمين الذين يستعملون واجهة فكتور */",
-	"discord-action-addsection": "أضف موضوعاً",
+	"discord-action-addsection": "أضف موضوعا",
 	"discord-action-delete": "احذف",
 	"discord-action-move": "انقل",
 	"discord-action-protect": "احم",
@@ -24,8 +25,10 @@
 	"discord-action-unprotect": "غير الحماية",
 	"discord-view-create": "أنشئ",
 	"discord-view-edit": "عدل",
-	"discord-view-history": "التاريخ",
+	"discord-view-history": "تاريخ",
 	"discord-view-view": "اقرأ",
-	"discord-view-viewsource": "اعرض المصدر",
+	"discord-view-viewsource": "عرض المصدر",
+	"discord-jumptonavigation": "اذهب إلى التنقل",
+	"discord-jumptosearch": "اذهب إلى البحث",
 	"discord-more-actions": "المزيد"
 }

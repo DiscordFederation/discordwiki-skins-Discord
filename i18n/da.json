@@ -3,7 +3,8 @@
 		"authors": [
 			"Byrial",
 			"Christian List",
-			"Peter Alberti"
+			"Peter Alberti",
+			"Saederup92"
 		]
 	},
 	"discord-skin-desc": "Moderne version af MonoBook med frisk udseende og mange forbedringer af brugervenligheden",
@@ -18,5 +19,7 @@
 	"discord-view-history": "Se historik",
 	"discord-view-view": "Læs",
 	"discord-view-viewsource": "Se kilden",
+	"discord-jumptonavigation": "Spring til navigation",
+	"discord-jumptosearch": "Spring til søgning",
 	"discord-more-actions": "Mere"
 }

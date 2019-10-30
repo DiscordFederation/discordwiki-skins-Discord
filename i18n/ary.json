@@ -2,18 +2,22 @@
 	"@metadata": {
 		"authors": [
 			"Enzoreg",
-			"Zanatos"
+			"Zanatos",
+			"Abdeaitali",
+			"Reda Benkhadra",
+			"SADIQUI"
 		]
 	},
-	"discord-action-addsection": "Zid topic",
+	"discord-action-addsection": "زيد شي موضوع",
 	"discord-action-delete": "Suprimi",
 	"discord-action-move": "Neqel",
 	"discord-action-protect": "Ḫami",
 	"discord-action-undelete": "rja lhadf",
 	"discord-action-unprotect": "Ḫiyed l-ḫimaya",
-	"discord-view-create": "Ĥṫareĝ",
-	"discord-view-edit": "Ĝedel",
-	"discord-view-history": "Ṫariĥ l-fiċyé",
-	"discord-view-view": "Qra",
-	"discord-view-viewsource": "Ċof l-masdar"
+	"discord-view-create": "صاوب",
+	"discord-view-edit": "عدل",
+	"discord-view-history": "تاريخ",
+	"discord-view-view": "قرا",
+	"discord-view-viewsource": "Ċof l-masdar",
+	"discord-more-actions": "زيد"
 }

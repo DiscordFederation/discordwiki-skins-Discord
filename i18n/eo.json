@@ -3,10 +3,12 @@
 		"authors": [
 			"KuboF",
 			"Objectivesea",
-			"Yekrats"
+			"Yekrats",
+			"Mirin"
 		]
 	},
 	"skinname-discord": "Vektoro",
+	"discord-skin-desc": "Moderna versio de MonoBook kun freŝa aspekto kaj plibonigo de uzebleco",
 	"discord.css": "/* La jena CSS influos la paĝaspekton por uzantoj de la Vektora temo. */",
 	"discord.js": "/* La jena Ĝavaskripto ŝargiĝos por uzantoj de la Vektora temo. */",
 	"discord-action-addsection": "Aldoni temon",
@@ -20,5 +22,7 @@
 	"discord-view-history": "Vidi historion",
 	"discord-view-view": "Legi",
 	"discord-view-viewsource": "Vidi fonton",
+	"discord-jumptonavigation": "Salti al navigilo",
+	"discord-jumptosearch": "Salti al serĉilo",
 	"discord-more-actions": "Pli"
 }

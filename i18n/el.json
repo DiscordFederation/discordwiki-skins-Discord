@@ -7,7 +7,8 @@
 			"Omnipaedista",
 			"Protnet",
 			"ZaDiak",
-			"Geraki"
+			"Geraki",
+			"Nikosgranturismogt"
 		]
 	},
 	"discord-skin-desc": "Σύγχρονη έκδοση του MonoBook με φρέσκια ματιά και πολλές βελτιώσεις χρηστικότητας",
@@ -24,5 +25,7 @@
 	"discord-view-history": "Προβολή ιστορικού",
 	"discord-view-view": "Ανάγνωση",
 	"discord-view-viewsource": "Προβολή κώδικα",
+	"discord-jumptonavigation": "Πήδηση στην πλοήγηση",
+	"discord-jumptosearch": "Πήδηση στην αναζήτηση",
 	"discord-more-actions": "Περισσότερα"
 }

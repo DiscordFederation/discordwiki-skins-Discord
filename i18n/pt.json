@@ -8,7 +8,8 @@
 			"Vitorvicentevalente",
 			"Waldir",
 			"MokaAkashiyaPT",
-			"Athena in Wonderland"
+			"Athena in Wonderland",
+			"Waldyrious"
 		]
 	},
 	"skinname-discord": "Discord",
@@ -26,5 +27,7 @@
 	"discord-view-history": "Ver histórico",
 	"discord-view-view": "Ler",
 	"discord-view-viewsource": "Ver fonte",
+	"discord-jumptonavigation": "Saltar para a navegação",
+	"discord-jumptosearch": "Saltar para a pesquisa",
 	"discord-more-actions": "Mais"
 }

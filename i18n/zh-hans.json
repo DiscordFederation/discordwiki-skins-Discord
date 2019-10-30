@@ -23,5 +23,7 @@
 	"discord-view-history": "查看历史",
 	"discord-view-view": "阅读",
 	"discord-view-viewsource": "查看源代码",
+	"discord-jumptonavigation": "跳到导航",
+	"discord-jumptosearch": "跳到搜索",
 	"discord-more-actions": "更多"
 }

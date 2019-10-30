@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang"
+		]
+	},
+	"discord-action-delete": "Buralen",
+	"discord-action-move": "Iyales",
+	"discord-action-protect": "Iyagel",
+	"discord-view-create": "Palsaen",
+	"discord-view-edit": "Dumaen",
+	"discord-view-history": "Nengnengen so awaran",
+	"discord-view-view": "Basaen",
+	"discord-more-actions": "Lalo"
+}

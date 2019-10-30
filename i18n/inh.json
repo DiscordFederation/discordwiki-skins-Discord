@@ -8,14 +8,15 @@
 			"ElizaMag"
 		]
 	},
+	"skinname-discord": "Вéктора",
 	"discord-action-addsection": "Тема тӀатоха",
-	"discord-action-delete": "ДӀадаккха",
+	"discord-action-delete": "ДӀаяккха",
 	"discord-action-move": "ЦӀи хувца",
-	"discord-action-protect": "Лораде",
+	"discord-action-protect": "Лорае",
 	"discord-action-undelete": "Хьаметтаоттаде",
 	"discord-action-unprotect": "Лорадар (гIо) хувца",
 	"discord-view-create": "Хьакхолла",
-	"discord-view-edit": "Нийсде",
+	"discord-view-edit": "Тоае",
 	"discord-view-history": "ОагӀон хувцамаш",
 	"discord-view-view": "Де́ша",
 	"discord-view-viewsource": "Хьалххе бӀаргтохара разметкага хьажар",

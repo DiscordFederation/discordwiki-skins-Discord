@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bellatrix10"
+		]
+	},
+	"discord-action-addsection": "Dodaj temu",
+	"discord-action-delete": "Izbriši",
+	"discord-action-move": "Premjesti",
+	"discord-action-protect": "Zaštiti",
+	"discord-view-edit": "Uredi",
+	"discord-view-history": "Pregledaj istoriju",
+	"discord-view-view": "Čitaj",
+	"discord-more-actions": "Više"
+}

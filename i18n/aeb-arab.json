@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"علاء",
-			"Csisc"
+			"Csisc",
+			"Meno25"
 		]
 	},
-	"discord-action-addsection": "أضف موضوعاً",
+	"discord-action-addsection": "أضف موضوعا",
 	"discord-action-delete": "احذف",
 	"discord-action-move": "حوّل",
 	"discord-action-protect": "احم",
@@ -15,6 +16,6 @@
 	"discord-view-edit": "بدّل",
 	"discord-view-history": "ورّي الپاج",
 	"discord-view-view": "أقرا",
-	"discord-view-viewsource": "اعرض المصدر",
+	"discord-view-viewsource": "عرض المصدر",
 	"discord-more-actions": "زادة"
 }

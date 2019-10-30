@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Simartampua",
+			"Apundung"
+		]
+	},
+	"discord-action-addsection": "Baen tema",
+	"discord-action-delete": "Apus",
+	"discord-action-move": "Pindah",
+	"discord-action-protect": "Jagoon",
+	"discord-view-create": "Baen",
+	"discord-view-edit": "Pature",
+	"discord-view-history": "Sise sejarah",
+	"discord-view-view": "Baca",
+	"discord-more-actions": "Lainna"
+}

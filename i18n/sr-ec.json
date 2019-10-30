@@ -6,15 +6,16 @@
 			"Жељко Тодоровић",
 			"Михајло Анђелковић",
 			"Obsuser",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"skinname-discord": "Векторска",
+	"skinname-discord": "Векторско",
 	"discord-skin-desc": "Модерна верзија Монобука са свежим изгледом и много корисних побољшања",
 	"discord.css": "/* CSS постављен овде ће утицати на све кориснике векторске теме */",
-	"discord.js": "/* Јаваскрипт постављен овде ће се учитати за све оне који користе векторску тему */",
+	"discord.js": "/* JavaScript постављен овде ће се учитати за све оне који користе векторску тему */",
 	"discord-action-addsection": "Додај тему",
-	"discord-action-delete": "Обриши",
+	"discord-action-delete": "Избриши",
 	"discord-action-move": "Премести",
 	"discord-action-protect": "Заштити",
 	"discord-action-undelete": "Врати",
@@ -23,6 +24,8 @@
 	"discord-view-edit": "Уреди",
 	"discord-view-history": "Историја",
 	"discord-view-view": "Читај",
-	"discord-view-viewsource": "Изворни код",
+	"discord-view-viewsource": "Извор",
+	"discord-jumptonavigation": "Иди на навигацију",
+	"discord-jumptosearch": "Иди на претрагу",
 	"discord-more-actions": "Више"
 }

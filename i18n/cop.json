@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"ⲁϩⲙⲉⲧ"
+			"ⲁϩⲙⲉⲧ",
+			"Bloomaround"
 		]
 	},
+	"discord-action-addsection": "ⲧⲟⲩϩⲟ ⲟⲩⲑⲉⲙⲁ",
 	"discord-view-create": "ⲑⲁⲙⲓⲟ",
 	"discord-view-edit": "ϫⲓⲛⲫⲱⲛϩ",
 	"discord-view-history": "ⲁⲛⲁⲩ ⲉϯϩⲓⲥⲧⲟⲣⲓⲁ",

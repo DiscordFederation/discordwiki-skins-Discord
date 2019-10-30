@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Universal Life"
+			"Universal Life",
+			"Chabi1"
 		]
 	},
 	"discord-action-addsection": "Ajustar sujeto",
@@ -9,8 +10,8 @@
 	"discord-action-move": "Taşirear",
 	"discord-action-protect": "Guadrar",
 	"discord-action-undelete": "Traer atrás",
-	"discord-action-unprotect": "Trocar proteksyon",
-	"discord-view-create": "Criar",
+	"discord-action-unprotect": "Trokar proteksyon",
+	"discord-view-create": "Kriar",
 	"discord-view-edit": "Trocar",
 	"discord-view-history": "Ver la istoria",
 	"discord-view-view": "Meldar",

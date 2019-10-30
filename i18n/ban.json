@@ -2,16 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Adi Mayndra",
-			"BASAbali"
+			"BASAbali",
+			"Carma citrawati",
+			"Joseagush",
+			"NoiX180"
 		]
 	},
-	"discord-action-addsection": "imbuhin indik wacana",
-	"discord-action-delete": "ngapus",
-	"discord-action-move": "kisidang",
-	"discord-action-protect": "nyaga",
-	"discord-view-create": "ngawe",
-	"discord-view-edit": "mecikang",
-	"discord-view-history": "indik sane lintang",
-	"discord-view-view": "Waca",
-	"discord-view-viewsource": "cingak witnyane"
+	"discord-action-addsection": "Tambeh topik",
+	"discord-action-delete": "Usap",
+	"discord-action-move": "Gingsirang",
+	"discord-action-protect": "Saib",
+	"discord-view-create": "Kardi",
+	"discord-view-edit": "Uah",
+	"discord-view-history": "Cingak babad",
+	"discord-view-view": "Wacén",
+	"discord-view-viewsource": "Cingak wit",
+	"discord-more-actions": "Lianan"
 }

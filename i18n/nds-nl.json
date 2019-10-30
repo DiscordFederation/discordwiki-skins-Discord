@@ -4,16 +4,19 @@
 			"Servien"
 		]
 	},
-	"discord-action-addsection": "Niej onderwarp",
-	"discord-action-delete": "Vortdoon",
+	"discord-skin-desc": "Moderne versy van MonoBook mid een fris uterlik en verbeateringen up et gebeed van gebruuksvrendelikheid",
+	"discord-action-addsection": "Ny underwarp",
+	"discord-action-delete": "Vordsmyten",
 	"discord-action-move": "Hernömen",
 	"discord-action-protect": "Beveiligen",
-	"discord-action-undelete": "Weerummeplaotsen",
-	"discord-action-unprotect": "Beveyliging wysigen",
-	"discord-view-create": "Anmaken",
+	"discord-action-undelete": "Weaderümmeplaatsen",
+	"discord-action-unprotect": "Beveiliging wysigen",
+	"discord-view-create": "Upstellen",
 	"discord-view-edit": "Bewarken",
 	"discord-view-history": "Geskydenisse bekyken",
 	"discord-view-view": "Leasen",
 	"discord-view-viewsource": "Brontekste bekyken",
-	"discord-more-actions": "Meer"
+	"discord-jumptonavigation": "Nå navigaty springen",
+	"discord-jumptosearch": "Nå söken springen",
+	"discord-more-actions": "Meyr"
 }

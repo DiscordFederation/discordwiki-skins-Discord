@@ -5,7 +5,8 @@
 			"Najami",
 			"Skalman",
 			"WikiPhoenix",
-			"Lokal Profil"
+			"Lokal Profil",
+			"Sturban"
 		]
 	},
 	"skinname-discord": "Discord",
@@ -21,7 +22,9 @@
 	"discord-view-create": "Skapa",
 	"discord-view-edit": "Redigera",
 	"discord-view-history": "Visa historik",
-	"discord-view-view": "Visa",
+	"discord-view-view": "Läs",
 	"discord-view-viewsource": "Visa källa",
+	"discord-jumptonavigation": "Hoppa till navigering",
+	"discord-jumptosearch": "Hoppa till sök",
 	"discord-more-actions": "Mer"
 }

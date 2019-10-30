@@ -4,5 +4,13 @@
 			"Vikoula5"
 		]
 	},
-	"discord-view-edit": "Glef"
+	"discord-action-addsection": "Rnud ameggay",
+	"discord-action-delete": "Mḥu",
+	"discord-action-move": "Snifel isem",
+	"discord-action-protect": "Ḥrez",
+	"discord-view-create": "Rnu",
+	"discord-view-edit": "Glef",
+	"discord-view-history": "Wali amazray",
+	"discord-view-view": "Ɣer",
+	"discord-more-actions": "Ugar"
 }

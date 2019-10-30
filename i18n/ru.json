@@ -6,7 +6,9 @@
 			"Kaganer",
 			"Nemo bis",
 			"Okras",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"Ole Yves",
+			"Stjn"
 		]
 	},
 	"skinname-discord": "Векторное",
@@ -24,5 +26,7 @@
 	"discord-view-history": "История",
 	"discord-view-view": "Читать",
 	"discord-view-viewsource": "Просмотр кода",
+	"discord-jumptonavigation": "Перейти к навигации",
+	"discord-jumptosearch": "Перейти к поиску",
 	"discord-more-actions": "Ещё"
 }

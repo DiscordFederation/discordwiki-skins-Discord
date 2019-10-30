@@ -9,7 +9,8 @@
 			"He7d3r",
 			"!Silent",
 			"Felipe L. Ewald",
-			"Opraco"
+			"Opraco",
+			"Eduardo Addad de Oliveira"
 		]
 	},
 	"skinname-discord": "Discord",
@@ -27,5 +28,7 @@
 	"discord-view-history": "Ver histórico",
 	"discord-view-view": "Ler",
 	"discord-view-viewsource": "Ver código-fonte",
+	"discord-jumptonavigation": "Ir para navegação",
+	"discord-jumptosearch": "Ir para pesquisar",
 	"discord-more-actions": "Mais"
 }

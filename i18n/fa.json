@@ -6,11 +6,12 @@
 			"Huji",
 			"Reza1615",
 			"Zack90",
-			"DEXi"
+			"DEXi",
+			"Alireza Ivaz"
 		]
 	},
-	"skinname-discord": "برداری",
-	"discord-skin-desc": "نسخهٔ مدرن مونوبوک با نمای جدید و بهینه‌سازی‌های کاربردی",
+	"skinname-discord": "وکتور",
+	"discord-skin-desc": "نگارش مدرن مونوبوک با نمای تازه و بهینه‌سازی‌های کاربردی",
 	"discord.css": "/* دستورات این بخش کاربرانی را که از پوستهٔ وکتور استفاده کنند تحت تاثیر قرار می‌دهند. */",
 	"discord.js": "/ * کدهای جاوااسکریپتی که در اینجا قرار می‌گیرند برای کاربران پوستهٔ وکتور  بارگیری می‌شود * /",
 	"discord-action-addsection": "افزودن بخش",
@@ -24,5 +25,7 @@
 	"discord-view-history": "نمایش تاریخچه",
 	"discord-view-view": "خواندن",
 	"discord-view-viewsource": "نمایش مبدأ",
+	"discord-jumptonavigation": "پرش به ناوبری",
+	"discord-jumptosearch": "پرش به جستجو",
 	"discord-more-actions": "بیشتر"
 }

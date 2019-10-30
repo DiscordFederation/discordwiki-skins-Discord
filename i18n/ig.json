@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ukabia"
+			"Ukabia",
+			"Uzoma Ozurumba"
 		]
 	},
 	"discord-action-addsection": "Tinyé Okwu",
 	"discord-action-delete": "Kàcha",
-	"discord-action-move": "Páfụ",
+	"discord-action-move": "Papụ̀",
 	"discord-action-protect": "Cẹdolu",
 	"discord-action-undelete": "Á gbàkashikwà",
 	"discord-action-unprotect": "Nchẹdo mgbanwe",
-	"discord-view-create": "Ké",
+	"discord-view-create": "Kèe",
 	"discord-view-edit": "Mèzi",
-	"discord-view-history": "Zí ịta",
-	"discord-view-view": "Gụ́",
-	"discord-view-viewsource": "Zi mkpurụ"
+	"discord-view-history": "Lèe ị̀ta",
+	"discord-view-view": "Gụ̀ọ",
+	"discord-view-viewsource": "Zi mkpurụ",
+	"discord-more-actions": "Ọzọ kwa"
 }

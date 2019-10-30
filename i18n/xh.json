@@ -1,4 +1,13 @@
 {
-	"@metadata": [],
-	"discord-view-edit": "Tshintsha"
+	"@metadata": {
+		"authors": [
+			"Nomden"
+		]
+	},
+	"discord-action-addsection": "Faka isihloko",
+	"discord-action-move": "Susa",
+	"discord-view-edit": "Tshintsha",
+	"discord-view-history": "Khawujonge imbali yeli phepha",
+	"discord-view-view": "Funda",
+	"discord-more-actions": "Veza ezinye iinkcukacha"
 }

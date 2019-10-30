@@ -4,7 +4,8 @@
 			"Horus",
 			"Octahedron80",
 			"Woraponboonkerd",
-			"Ans"
+			"Ans",
+			"Geonuch"
 		]
 	},
 	"skinname-discord": "เวกเตอร์",
@@ -14,13 +15,15 @@
 	"discord-action-addsection": "เพิ่มหัวข้อ",
 	"discord-action-delete": "ลบ",
 	"discord-action-move": "เปลี่ยนชื่อ",
-	"discord-action-protect": "ล็อก",
+	"discord-action-protect": "ป้องกัน",
 	"discord-action-undelete": "กู้คืน",
-	"discord-action-unprotect": "เปลี่ยนการล็อก",
+	"discord-action-unprotect": "เปลี่ยนการป้องกัน",
 	"discord-view-create": "สร้าง",
 	"discord-view-edit": "แก้ไข",
 	"discord-view-history": "ดูประวัติ",
 	"discord-view-view": "อ่าน",
-	"discord-view-viewsource": "ดูโค้ด",
+	"discord-view-viewsource": "ดูต้นฉบับ",
+	"discord-jumptonavigation": "ไปยังการนำทาง",
+	"discord-jumptosearch": "ไปยังการค้นหา",
 	"discord-more-actions": "เพิ่มเติม"
 }

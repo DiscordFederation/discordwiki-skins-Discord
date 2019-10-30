@@ -9,10 +9,14 @@
 	"discord-action-delete": "Kadd",
 	"discord-action-move": "Zago bodol",
 	"discord-action-protect": "Rakh",
+	"discord-action-undelete": "Portun hadd",
+	"discord-action-unprotect": "Surokxechem sthor bodol",
 	"discord-view-create": "Roch",
 	"discord-view-edit": "Bodol",
 	"discord-view-history": "Itihas polloi",
 	"discord-view-view": "Vach",
 	"discord-view-viewsource": "Mull polloi",
+	"discord-jumptonavigation": "Dixa bodlunk uddki mar",
+	"discord-jumptosearch": "Soda khatir uddki mar",
 	"discord-more-actions": "Anik"
 }

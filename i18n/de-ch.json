@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Marcell0"
+			"Marcell0",
+			"L*E*D"
 		]
 	},
+	"discord-view-edit": "Bearbeiten",
+	"discord-view-history": "Versionsgeschichte anzeigen",
+	"discord-view-view": "Lesen",
 	"discord-more-actions": "Mehr"
 }

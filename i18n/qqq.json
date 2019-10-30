@@ -8,7 +8,9 @@
 			"Umherirrender",
 			"Matma Rex",
 			"Liuxinyu970226",
-			"Raymond"
+			"Raymond",
+			"Metalhead64",
+			"Tacsipacsi"
 		]
 	},
 	"skinname-discord": "{{name}}",
@@ -16,16 +18,17 @@
 	"discord.css": "{{optional}}",
 	"discord.js": "{{optional}}",
 	"discord-action-addsection": "Used in the Discord skin. See for example {{canonicalurl:Talk:Main_Page|useskin=discord}}\n{{Identical|Add topic}}",
-	"discord-action-delete": "Used in the Discord skin, as the name of a tab at the top of the page. See for example {{canonicalurl:Main_Page|useskin=discord}}\n\n{{Identical|Delete}}",
+	"discord-action-delete": "Used in the Discord skin, as the name of a tab at the top of the page. See for example {{canonicalurl:Translating:MediaWiki|useskin=discord}}\n\n{{Identical|Delete}}",
 	"discord-action-move": "Used in the Discord skin, on the tabs at the top of the page. See for example {{canonicalurl:Talk:Main_Page|useskin=discord}}\n\n{{Identical|Move}}",
 	"discord-action-protect": "Tab at top of page, in discord skin\n\n{{Identical|Protect}}",
 	"discord-action-undelete": "Tab at top of page, in discord skin.\n{{Identical|Undelete}}",
 	"discord-action-unprotect": "Tab at top of page, in discord skin.\n{{Identical|Change protection}}",
 	"discord-view-create": "Tab label in the Discord skin. See for example {{canonicalurl:Foo|useskin=discord}}\n{{Identical|Create}}",
-	"discord-view-edit": "Tab label in the Discord skin. See for example {{canonicalurl:Main_Page|useskin=discord}}\n{{Identical|Edit}}",
-	"discord-view-history": "Tab label in the Discord skin. See for example {{canonicalurl:Main_Page|useskin=discord}}\n{{Identical|View history}}",
-	"discord-view-view": "Tab label in the Discord skin (verb). See for example {{canonicalurl:Main_Page|useskin=discord}}.\n{{Identical|Read}}",
+	"discord-view-edit": "Tab label in the Discord skin. See for example {{canonicalurl:Translating:MediaWiki|useskin=discord}}\n{{Identical|Edit}}",
+	"discord-view-history": "Tab label in the Discord skin. See for example {{canonicalurl:Translating:MediaWiki|useskin=discord}}\n{{Identical|View history}}",
+	"discord-view-view": "Tab label in the Discord skin (verb). See for example {{canonicalurl:Translating:MediaWiki|useskin=discord}}.\n{{Identical|Read}}",
 	"discord-view-viewsource": "Tab label in the Discord skin.\n{{Identical|View source}}",
-	"discord-more-actions": "Label in the Discord skin's menu for the less-important or rarer actions which are not shown as tabs (like moving the page, or for sysops deleting or protecting the page), as well as (for users with a narrow viewing window in their browser) the less-important tab actions which the user's browser is unable to fit in. {{Identical|More}}",
-	"discord-footer-affiliation": "Text in footer exclaiming non-affiliation with Discord."
+	"discord-jumptonavigation": "Accessibility link for jumping to the navigation links. Visually hidden by default.\n\nSee also\n* {{msg-mw|Navigation}}",
+	"discord-jumptosearch": "Accessibility link for jumping to the site search. Visually hidden by default.\n\nSee also\n* {{msg-mw|Search}}",
+	"discord-more-actions": "Label in the Discord skin's menu for the less-important or rarer actions which are not shown as tabs (like moving the page, or for sysops deleting or protecting the page), as well as (for users with a narrow viewing window in their browser) the less-important tab actions which the user's browser is unable to fit in. {{Identical|More}}"
 }

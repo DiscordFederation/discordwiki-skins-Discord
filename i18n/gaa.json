@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Flixtey",
+			"Mybluberet",
+			"Gkbediako",
+			"Amire80"
+		]
+	},
+	"discord-action-addsection": "Kɛ mlijaa yitso afata he",
+	"discord-action-delete": "Jiemɔ",
+	"discord-action-move": "Tsi",
+	"discord-action-protect": "Yibaamɔ",
+	"discord-view-create": "Bɔɔ",
+	"discord-view-edit": "Tsakemɔ",
+	"discord-view-history": "Kwɛmɔ nibii ni eho",
+	"discord-view-view": "Kanemɔ",
+	"discord-more-actions": "Pii"
+}

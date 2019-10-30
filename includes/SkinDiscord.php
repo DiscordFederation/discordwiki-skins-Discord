@@ -37,6 +37,7 @@ class SkinDiscord extends SkinTemplate {
 	private $responsiveMode = false;
 
 	public function __construct() {
+		parent::__construct( ...func_get_args() );
 		$this->discordConfig = \MediaWiki\MediaWikiServices::getInstance()->getConfigFactory()
 			->makeConfig( 'discord' );
 	}
@@ -77,7 +78,7 @@ class SkinDiscord extends SkinTemplate {
 	 * Loads skin and user CSS files.
 	 * @param OutputPage $out
 	 */
-	function setupSkinUserCss( OutputPage $out ) {
+	public function setupSkinUserCss( OutputPage $out ) {
 		parent::setupSkinUserCss( $out );
 
 		$out->addModuleStyles( [

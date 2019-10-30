@@ -4,7 +4,9 @@
 			"ITurtle",
 			"Kwj2772",
 			"아라",
-			"Revi"
+			"Revi",
+			"Ykhwong",
+			"Jay94ks"
 		]
 	},
 	"skinname-discord": "벡터",
@@ -22,5 +24,7 @@
 	"discord-view-history": "역사 보기",
 	"discord-view-view": "읽기",
 	"discord-view-viewsource": "원본 보기",
+	"discord-jumptonavigation": "둘러보기로 가기",
+	"discord-jumptosearch": "검색하러 가기",
 	"discord-more-actions": "더 보기"
 }

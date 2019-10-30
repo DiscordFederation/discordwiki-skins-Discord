@@ -2,18 +2,19 @@
 	"@metadata": {
 		"authors": [
 			"Гусейн",
-			"Ganbarzada"
+			"Ganbarzada",
+			"Patriot Kur"
 		]
 	},
 	"discord-action-addsection": "Мывзу зијод кардеј",
 	"discord-action-delete": "Рәдд кардеј",
 	"discord-action-move": "Номи дәгиш кардеј",
-	"discord-action-protect": "Мыдофијә кардеј",
+	"discord-action-protect": "Mıdofiə karde",
 	"discord-action-undelete": "Бәрпо кардеј",
 	"discord-action-unprotect": "Мыдофијә дәгиш кардеј",
 	"discord-view-create": "Офәјеј",
 	"discord-view-edit": "Сәрост кардеј",
-	"discord-view-history": "Тарых",
+	"discord-view-history": "Тarix",
 	"discord-view-view": "Һандемон",
 	"discord-view-viewsource": "Дијә кардеј",
 	"discord-more-actions": "həniyən"

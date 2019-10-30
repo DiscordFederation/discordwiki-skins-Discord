@@ -5,7 +5,8 @@
 			"Bennylin",
 			"Farras",
 			"Iwan Novirion",
-			"Rex"
+			"Rex",
+			"William Surya Permana"
 		]
 	},
 	"skinname-discord": "Vektor",
@@ -23,5 +24,7 @@
 	"discord-view-history": "Versi terdahulu",
 	"discord-view-view": "Baca",
 	"discord-view-viewsource": "Lihat sumber",
+	"discord-jumptonavigation": "Loncat ke navigasi",
+	"discord-jumptosearch": "Loncat ke pencarian",
 	"discord-more-actions": "Lainnya"
 }

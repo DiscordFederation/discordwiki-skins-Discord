@@ -3,7 +3,8 @@
 		"authors": [
 			"Sindhu",
 			"Aursani",
-			"Mehtab ahmed"
+			"Mehtab ahmed",
+			"Tweety"
 		]
 	},
 	"discord-action-addsection": "عنوان ڏيو",
@@ -17,5 +18,6 @@
 	"discord-view-history": "سوانح ڏسو",
 	"discord-view-view": "پڙھو",
 	"discord-view-viewsource": "ڪوڊ ڏسو",
+	"discord-jumptosearch": "ڳولا ڏانهن هلو",
 	"discord-more-actions": "وڌيڪ"
 }

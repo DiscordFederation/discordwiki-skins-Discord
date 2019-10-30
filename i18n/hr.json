@@ -3,7 +3,9 @@
 		"authors": [
 			"Ex13",
 			"Tivek",
-			"Bugoslav"
+			"Bugoslav",
+			"BadDog",
+			"MaGa"
 		]
 	},
 	"discord-skin-desc": "Osuvremenjena inačica MonoBooka s obnovljenim dizajnom i mnogim poboljšanjima u upotrebljivosti",
@@ -11,12 +13,14 @@
 	"discord-action-delete": "Izbriši",
 	"discord-action-move": "Premjesti",
 	"discord-action-protect": "Zaštiti",
-	"discord-action-undelete": "Vrati",
+	"discord-action-undelete": "Vrati izbrisano",
 	"discord-action-unprotect": "Promijeni zaštitu",
-	"discord-view-create": "Započni",
+	"discord-view-create": "Stvori",
 	"discord-view-edit": "Uredi",
 	"discord-view-history": "Vidi povijest",
 	"discord-view-view": "Čitaj",
 	"discord-view-viewsource": "Vidi izvor",
+	"discord-jumptonavigation": "Prijeđi na navigaciju",
+	"discord-jumptosearch": "Prijeđi na pretraživanje",
 	"discord-more-actions": "Više"
 }

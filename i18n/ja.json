@@ -7,7 +7,8 @@
 			"Shirayuki",
 			"Whym",
 			"青子守歌",
-			"Takot"
+			"Takot",
+			"Otokoume"
 		]
 	},
 	"skinname-discord": "ベクター",
@@ -25,5 +26,7 @@
 	"discord-view-history": "履歴表示",
 	"discord-view-view": "閲覧",
 	"discord-view-viewsource": "ソースを閲覧",
+	"discord-jumptonavigation": "ナビゲーションに移動",
+	"discord-jumptosearch": "検索に移動",
 	"discord-more-actions": "その他"
 }

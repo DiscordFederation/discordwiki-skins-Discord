@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Mirzali",
-			"Kumkumuk"
+			"Kumkumuk",
+			"1917 Ekim Devrimi"
 		]
 	},
 	"discord-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
@@ -17,5 +18,7 @@
 	"discord-view-history": "Tarixi bıvêne",
 	"discord-view-view": "Bıwane",
 	"discord-view-viewsource": "Çımey bıvêne",
+	"discord-jumptonavigation": "Xıl de be pusula",
+	"discord-jumptosearch": "Xıl de cıgeyrayışi",
 	"discord-more-actions": "Zêde"
 }

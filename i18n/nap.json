@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Chelin",
-			"C.R."
+			"C.R.",
+			"Ruthven",
+			"Sannita"
 		]
 	},
 	"discord-skin-desc": "Verziona muderna 'e MonoBook cu n'aspetto nuovo nuovo e tante migliuramente d'uso",
@@ -13,9 +15,9 @@
 	"discord-action-undelete": "Arrepiglia",
 	"discord-action-unprotect": "Càgna prutezzione",
 	"discord-view-create": "Crèa",
-	"discord-view-edit": "Càgna",
-	"discord-view-history": "Vire cronologgia",
+	"discord-view-edit": "Cagna",
+	"discord-view-history": "Vide 'a cronologgia",
 	"discord-view-view": "Liegge",
-	"discord-view-viewsource": "Vere sorgente",
+	"discord-view-viewsource": "Vire sorgente",
 	"discord-more-actions": "Cchiù"
 }

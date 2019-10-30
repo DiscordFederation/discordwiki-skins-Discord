@@ -4,10 +4,12 @@
 			"Kening Aldgilles",
 			"SK-luuut",
 			"Robin0van0der0vliet",
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"PiefPafPier"
 		]
 	},
-	"discord-action-addsection": "Kopke tafoegje",
+	"skinname-discord": "Vektor",
+	"discord-action-addsection": "Nij mêd",
 	"discord-action-delete": "Fuortsmite",
 	"discord-action-move": "Omneame",
 	"discord-action-protect": "Beskermje",
@@ -16,7 +18,7 @@
 	"discord-view-create": "Oanmeitsje",
 	"discord-view-edit": "Bewurkje",
 	"discord-view-history": "Skiednis sjen litte",
-	"discord-view-view": "Lês",
+	"discord-view-view": "Lêze",
 	"discord-view-viewsource": "Besjoch de boarne",
 	"discord-more-actions": "Mear"
 }

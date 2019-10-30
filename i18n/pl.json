@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Matma Rex",
-			"Sp5uhe"
+			"Sp5uhe",
+			"Chrumps"
 		]
 	},
 	"skinname-discord": "Wektor",
@@ -20,5 +21,7 @@
 	"discord-view-history": "Wyświetl historię",
 	"discord-view-view": "Czytaj",
 	"discord-view-viewsource": "Tekst źródłowy",
+	"discord-jumptonavigation": "Przejdź do nawigacji",
+	"discord-jumptosearch": "Przejdź do wyszukiwania",
 	"discord-more-actions": "Więcej"
 }
