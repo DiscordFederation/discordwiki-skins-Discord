@@ -82,10 +82,7 @@
 	"OOUIThemePaths": {
 		"Discord": {
 			"scripts": "resources/ooui/oojs-ui-discord.js",
-			"styles": [
-				"resources/ooui/oojs-ui-{module}-discord.css",
-				"resources/ooui/oojs-ui-{module}-discord.rtl.css"
-			],
+			"styles": "resources/ooui/oojs-ui-{module}-discord.css",
 			"images": "resources/ooui/{module}.json"
 		}
 	},
