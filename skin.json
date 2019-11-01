@@ -113,6 +113,8 @@
 			"+mediawiki.special.changeslist": "skinStyles/mediawiki.special.changeslist.less",
 			"+mediawiki.action.history.styles": "skinStyles/mediawiki.action.history.styles.css",
 			"+mediawiki.skinning.interface": "skinStyles/mediawiki.skinning.interface.css",
+            "+mediawiki.widgets.DateInputWidget": "skinStyles/mediawiki.widgets.DateInputWidget.less",
+			"+mediawiki.widgets.DateInputWidget.styles": "skinStyles/mediawiki.widgets.DateInputWidget.styles.less",
 			"+ext.echo.styles.badge": "skinStyles/echo/mw.echo.badge.less",
 			"+ext.echo.special": "skinStyles/echo/mw.echo.ui.less",
 			"+mediawiki.legacy.shared": "skinStyles/mediawiki.legacy.shared.css",

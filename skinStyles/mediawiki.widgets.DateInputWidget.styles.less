@@ -1,0 +1,19 @@
+@background-color-base: #000;
+@color-base--emphasized: #fff;
+
+@border-color-base--focus: #7b93ed;
+
+.mw-widget-dateInputWidget {
+  &-handle {
+    background-color: transparent;
+    color: @color-base--emphasized;
+  }
+
+  &.oo-ui-widget-enabled {
+    .mw-widget-dateInputWidget-handle {
+      &:focus {
+        border-color: @border-color-base--focus;
+      }
+    }
+  }
+}

@@ -71,8 +71,6 @@
 	&:focus,
 	#simpleSearch:hover &:focus {
 		outline: 0;
-		border-color: @colorProgressive;
-		.box-shadow( @boxShadowProgressiveFocus );
 	}
 
 	.mixin-placeholder( {
@@ -122,4 +120,16 @@
 
 #mw-searchButton {
 	z-index: 1;
+}
+
+.search-types {
+	.current {
+		a {
+			color: #fff;
+		}
+	}
+}
+
+.mw-search-profile-tabs {
+	background-color: #2e3136;
 }
