@@ -1,0 +1,122 @@
+@import 'mediawiki.mixins';
+
+/**
+ * CSS for WikiEditor Toolbar jQuery plugin
+ */
+
+.wikiEditor-ui-toolbar {
+  position: relative;
+  display: block;
+  .vertical-gradient(#2d2f34, #2d2f34, 0, 32px);
+
+  .sections {
+    .section {
+      background-color: #2d2f34;
+    }
+  }
+
+  .tabs {
+    span.tab {
+      a,
+      a:visited {
+        color: #7b93ed;
+      }
+
+      a.current,
+      a.current:visited {
+        color: #a2a9b1;
+      }
+    }
+  }
+
+  /* Groups */
+  .group {
+    .tool-select {
+      background-color: #2d2f34;
+
+      .label {
+        color: #eaecf0;
+      }
+
+      .options {
+        background-color: #2d2f34;
+        .option {
+          color: #eaecf0;
+
+          &:hover {
+            background-color: #7b93ed;
+          }
+        }
+      }
+    }
+  }
+
+  /* Booklet */
+  .booklet {
+    .index {
+      div {
+        color: #7b93ed;
+      }
+      .current {
+        background-color: #eaecf0;
+        color: #222;
+      }
+    }
+
+    .pages {
+      background-color: #2d2f34;
+    }
+  }
+
+  /* Help Pages */
+  .page-table {
+    th {
+      color: #fff;
+    }
+
+    td {
+      color: #eaecf0;
+    }
+  }
+
+  /* Characters Pages */
+  .page-characters {
+    padding-bottom: 5px;
+
+    div {
+      span {
+        color: #fff;
+      }
+    }
+  }
+}
+
+.wikiEditor-toolbar-dialog {
+  .ui-widget-header {
+    color: #eaecf0;
+    background-color: #202225;
+  }
+
+  .ui-dialog-content {
+    color: #eaecf0;
+    background-color: #202225;
+  }
+
+  .ui-dialog-buttonpane {
+    background-color: #202225;
+  }
+}
+
+body {
+  .wikiEditor-toolbar-dialog {
+    .ui-widget-header {
+      color: #eaecf0;
+      background: #202225 !important;
+    }
+  }
+}
+
+.ui-button .ui-button-text {
+  color: #7b93ed;
+  background-color: #33353a;
+}

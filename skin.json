@@ -120,7 +120,9 @@
 			"+ext.echo.styles.badge": "skinStyles/echo/mw.echo.badge.less",
 			"+ext.echo.special": "skinStyles/echo/mw.echo.ui.less",
 			"+mediawiki.legacy.shared": "skinStyles/mediawiki.legacy.shared.css",
-			"+ext.relatedArticles.readMore": "skinStyles/ext.relatedArticles.readMore.less"
+			"+ext.relatedArticles.readMore": "skinStyles/ext.relatedArticles.readMore.less",
+			"+ext.wikiEditor": "skinStyles/WikiEditor/jquery.wikiEditor.less",
+			"+ext.wikiEditor.styles": "skinStyles/WikiEditor/ext.wikiEditor.styles.less"
 		}
 	},
 	"config": {
