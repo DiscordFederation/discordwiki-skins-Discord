@@ -116,6 +116,7 @@
             "+mediawiki.widgets.DateInputWidget": "skinStyles/mediawiki.widgets.DateInputWidget.less",
 			"+mediawiki.widgets.DateInputWidget.styles": "skinStyles/mediawiki.widgets.DateInputWidget.styles.less",
 			"+mediawiki.rcfilters.filters.ui": "skinStyles/mediawiki.rcfilters.filters.ui.less",
+			"+mediawiki.helplink": "skinStyles/mediawiki.helplink.less",
 			"+ext.echo.styles.badge": "skinStyles/echo/mw.echo.badge.less",
 			"+ext.echo.special": "skinStyles/echo/mw.echo.ui.less",
 			"+mediawiki.legacy.shared": "skinStyles/mediawiki.legacy.shared.css",
