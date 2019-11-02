@@ -1,10 +1,33 @@
 {
-	"prefix": "oo-ui-icon",
-	"intro": "@import '../../../../src/styles/common';",
+	"selectorWithoutVariant": ".oo-ui-icon-{name}",
+	"selectorWithVariant": ".oo-ui-image-{variant}.oo-ui-icon-{name}",
+	"intro": "@import '../../../../src/styles/common.less';",
 	"defaultColor": "#fff",
+	"variants": {
+		"invert": {
+			"color": "#000",
+			"global": true
+		},
+		"progressive": {
+			"color": "#7289da",
+			"global": true
+		},
+		"destructive": {
+			"color": "#f04747"
+		},
+		"error": {
+			"color": "#f04747"
+		},
+		"warning": {
+			"color": "#e67e22"
+		},
+		"success": {
+			"color": "#3da576"
+		}
+	},
 	"images": {
 		"book": {
-			"file":  {
+			"file": {
 				"ltr": "images/icons/book-ltr.svg",
 				"rtl": "images/icons/book-rtl.svg"
 			}
@@ -20,9 +43,6 @@
 				"ltr": "images/icons/newspaper-ltr.svg",
 				"rtl": "images/icons/newspaper-rtl.svg"
 			}
-		},
-		"web": {
-			"file": "images/icons/web.svg"
 		},
 		"reference": {
 			"file": "images/icons/reference.svg"

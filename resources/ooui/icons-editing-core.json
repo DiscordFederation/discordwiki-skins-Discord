@@ -1,7 +1,7 @@
 {
 	"selectorWithoutVariant": ".oo-ui-icon-{name}",
 	"selectorWithVariant": ".oo-ui-image-{variant}.oo-ui-icon-{name}",
-	"intro": "@import '../../../../src/styles/common';",
+	"intro": "@import '../../../../src/styles/common.less';",
 	"defaultColor": "#fff",
 	"variants": {
 		"invert": {
@@ -15,8 +15,14 @@
 		"destructive": {
 			"color": "#f04747"
 		},
+		"error": {
+			"color": "#f04747"
+		},
 		"warning": {
 			"color": "#e67e22"
+		},
+		"success": {
+			"color": "#3da576"
 		}
 	},
 	"images": {
@@ -35,10 +41,14 @@
 		"link": {
 			"file": "images/icons/link.svg"
 		},
+		"unLink": {
+			"file": "images/icons/unLink.svg",
+			"variants": [ "destructive" ]
+		},
 		"linkExternal": {
 			"file": {
 				"ltr": "images/icons/linkExternal-ltr.svg",
-				"rtl":  "images/icons/linkExternal-rtl.svg"
+				"rtl": "images/icons/linkExternal-rtl.svg"
 			}
 		},
 		"linkSecure": {
