@@ -1,0 +1,21 @@
+.diff-addedline {
+    border-color: #769ccd;
+}
+
+.diff-deletedline {
+    border-color: #cdb175;
+}
+
+.diff-context {
+    background: #202225;
+    border-color: #2f3136;
+    color: #ddd;
+}
+
+.diff-addedline .diffchange {
+    background: #769ccd;
+}
+
+.diff-deletedline .diffchange {
+    background: #cdb175;
+}

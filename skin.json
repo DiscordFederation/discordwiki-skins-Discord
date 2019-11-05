@@ -131,7 +131,8 @@
 			"+ext.uls.displaysettings": "skinStyles/uls/ext.uls.displaysettings.less",
 			"+ext.uls.inputsettings": "skinStyles/uls/ext.uls.inputsettings.less",
 			"+ext.uls.pt": "skinStyles/uls/ext.uls.pt.less",
-			"+jquery.uls": "skinStyles/uls/jquery.uls.css"
+			"+jquery.uls": "skinStyles/uls/jquery.uls.css",
+			"+mediawiki.diff.styles": "skinStyles/mediawiki.diff.styles.css"
 		}
 	},
 	"config": {
