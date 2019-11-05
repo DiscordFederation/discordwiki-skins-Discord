@@ -1,0 +1,43 @@
+@import 'mediawiki.mixins.less';
+@import 'mediawiki.ui/variables.less';
+
+.mw-ui-checkbox:not( #noop ) {
+  [ type='checkbox' ] {
+    &:enabled {
+      cursor: pointer;
+
+      // `:focus` has to come first, otherwise a specificity race with `:hover:focus` etc is necessary
+      &:focus + label:before {
+        border-color: #7289da;
+      }
+
+      &:hover + label:before {
+        border-color: #7289da;
+      }
+
+      &:active + label:before {
+        background-color: #6879b5;
+
+      }
+
+      &:checked {
+        & + label:before {
+          background-color: #7289da;
+        }
+
+        &:focus + label:before {
+          background-color: #7289da;
+        }
+
+        &:hover + label:before {
+          background-color: #7e93dd;
+          border-color: #7e93dd;
+        }
+
+        &:active + label:before {
+          background-color: #7289da;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+@import 'mediawiki.mixins';
+
+#uls-settings-block {
+  background-color: #36393f;
+  border-top: 1px solid #2f3136;
+
+  > button {
+    color: #ecf0f1;
+
+    &:hover {
+      color: #d7dbdc;
+    }
+
+    &.display-settings-block {
+      .background-image-svg( '../../images/ext/uls/display.svg', '../../images/ext/uls/display.png' );
+    }
+
+    &.input-settings-block {
+      .background-image-svg( '../../images/ext/uls/input.svg', '../../images/ext/uls/input.png' );
+    }
+  }
+}
