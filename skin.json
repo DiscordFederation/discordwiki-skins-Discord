@@ -133,7 +133,8 @@
 			"+ext.uls.pt": "skinStyles/uls/ext.uls.pt.less",
 			"+jquery.uls": "skinStyles/uls/jquery.uls.css",
 			"+mediawiki.diff.styles": "skinStyles/mediawiki.diff.styles.css",
-			"+mediawiki.htmlform.ooui.styles": "skinStyles/mediawiki.htmlform.ooui.styles.less"
+			"+mediawiki.htmlform.ooui.styles": "skinStyles/mediawiki.htmlform.ooui.styles.less",
+			"+mediawiki.skinning.content": "skinStyles/mediawiki.skinning.content.css"
 		}
 	},
 	"config": {
