@@ -3,6 +3,42 @@
 @import 'mediawiki.ui/variables.less';
 
 .mw-ui-button {
+  background-color: #202225;
+  color: #d7dbdc;
+
+  &:visited {
+    color: #d7dbdc;
+  }
+
+  &:hover {
+    background-color: #343638;
+    color: #d7dbdc;
+  }
+
+  &:focus {
+    background-color: #343638;
+    // Make sure that `color` isn't inheriting from user-agent styles
+    color: #d7dbdc;
+  }
+
+  &.mw-ui-quiet,
+  &.mw-ui-quiet.mw-ui-progressive,
+  &.mw-ui-quiet.mw-ui-destructive {
+    color: #ddd;
+
+    &:hover {
+      color: #fff;
+    }
+
+    &:active {
+      color: #fff;
+    }
+
+    &:focus {
+      color: #ddd;
+    }
+  }
+
   &.mw-ui-progressive {
     .mw-ui-button-colors-primary( #7289da, #7e93dd, #6879b5 );
   }

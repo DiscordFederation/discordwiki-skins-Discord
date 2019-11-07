@@ -6,7 +6,7 @@
  * Released under the MIT license
  * http://oojs.mit-license.org
  *
- * Date: 2019-11-02T07:39:05Z
+ * Date: 2019-11-07T07:53:17Z
  */
 .oo-ui-element-hidden {
   display: none !important;
@@ -886,7 +886,7 @@ body:not( :-moz-handler-blocked ) .oo-ui-fieldsetLayout {
 }
 .oo-ui-labelWidget.oo-ui-inline-help {
   display: block;
-  color: #54595d;
+  color: #c2c5c6;
   font-size: 0.92857143em;
 }
 

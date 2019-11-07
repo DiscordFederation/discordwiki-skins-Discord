@@ -135,7 +135,18 @@
 			"+mediawiki.diff.styles": "skinStyles/mediawiki.diff.styles.css",
 			"+mediawiki.htmlform.ooui.styles": "skinStyles/mediawiki.htmlform.ooui.styles.less",
 			"+mediawiki.skinning.content": "skinStyles/mediawiki.skinning.content.css",
-			"+mediawiki.action.view.filepage": "skinStyles/mediawiki.action.view.filepage.css"
+			"+mediawiki.action.view.filepage": "skinStyles/mediawiki.action.view.filepage.css",
+			"+mmv.bootstrap": "skinStyles/mmv/mmv.bootstrap.less",
+			"+mmv": [
+				"skinStyles/mmv/mmv.lightboxinterface.less",
+				"skinStyles/mmv/mmv.ui.metadataPanel.less",
+				"skinStyles/mmv/mmv.ui.dialog.less",
+				"skinStyles/mmv/mmv.ui.download.dialog.less",
+				"skinStyles/mmv/mmv.ui.viewingOptions.less",
+				"skinStyles/mmv/mmv.ui.canvas.less"
+			],
+			"+mmv.ui.download.pane": "skinStyles/mmv/mmv.ui.download.pane.less",
+			"+mmv.ui.reuse.shareembed": "skinStyles/mmv/mmv.ui.reuse.shareembed.less"
 		}
 	},
 	"config": {
