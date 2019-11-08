@@ -11,3 +11,16 @@
 div.thumbinner {
     background-color: #36393f;
 }
+
+code {
+    color: #b9bbbe;
+    background-color: #2f3136;
+    border: 1px solid #202225;
+}
+
+pre,
+.mw-code {
+    color: #b9bbbe;
+    background-color: #2f3136;
+    border: 1px solid #202225;
+}

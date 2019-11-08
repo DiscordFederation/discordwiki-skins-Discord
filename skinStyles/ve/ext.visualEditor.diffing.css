@@ -1,0 +1,19 @@
+[ data-diff-action='insert' ],
+table[ data-diff-action='insert' ] > caption,
+figure[ data-diff-action='insert' ] > figcaption {
+    background-color: #59af9c !important;
+    box-shadow: 0 0 0 1px #62af9e;
+}
+
+[ data-diff-action='remove' ],
+table[ data-diff-action='remove' ] > caption,
+figure[ data-diff-action='remove' ] > figcaption {
+    background-color: #c06964 !important;
+    box-shadow: 0 0 0 1px #c06f6a;
+}
+
+[ data-diff-action='change' ],
+[ data-diff-action='change-insert' ] {
+    background-color: #91acd3 !important;
+    box-shadow: 0 0 0 1px #94acd3;
+}

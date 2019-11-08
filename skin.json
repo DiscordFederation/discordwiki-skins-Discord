@@ -147,7 +147,9 @@
 				"skinStyles/mmv/mmv.ui.canvas.less"
 			],
 			"+mmv.ui.download.pane": "skinStyles/mmv/mmv.ui.download.pane.less",
-			"+mmv.ui.reuse.shareembed": "skinStyles/mmv/mmv.ui.reuse.shareembed.less"
+			"+mmv.ui.reuse.shareembed": "skinStyles/mmv/mmv.ui.reuse.shareembed.less",
+			"+ext.visualEditor.mwsave": "skinStyles/ve/ext.visualEditor.mwsave.css",
+			"+ext.visualEditor.diffing": "skinStyles/ve/ext.visualEditor.diffing.css"
 		}
 	},
 	"config": {
