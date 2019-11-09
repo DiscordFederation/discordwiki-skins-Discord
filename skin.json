@@ -149,7 +149,14 @@
 			"+mmv.ui.download.pane": "skinStyles/mmv/mmv.ui.download.pane.less",
 			"+mmv.ui.reuse.shareembed": "skinStyles/mmv/mmv.ui.reuse.shareembed.less",
 			"+ext.visualEditor.mwsave": "skinStyles/ve/ext.visualEditor.mwsave.css",
-			"+ext.visualEditor.diffing": "skinStyles/ve/ext.visualEditor.diffing.css"
+			"+ext.visualEditor.diffing": "skinStyles/ve/ext.visualEditor.diffing.css",
+			"+ext.translate.groupselector": "skinStyles/Translate/ext.translate.groupselector.less",
+			"+ext.translate.statsbar": "skinStyles/Translate/ext.translate.statsbar.css",
+			"+ext.translate.special.translate.styles": "skinStyles/Translate/ext.translate.special.translate.styles.css",
+			"+ext.translate.messagetable": "skinStyles/Translate/ext.translate.messagetable.less",
+			"+ext.translate.editor": "skinStyles/Translate/ext.translate.editor.less",
+			"+ext.translate.tag.languages": "skinStyles/Translate/ext.translate.tag.languages.css",
+			"+ext.translate.statstable": "skinStyles/Translate/ext.translate.statstable.less"
 		}
 	},
 	"config": {

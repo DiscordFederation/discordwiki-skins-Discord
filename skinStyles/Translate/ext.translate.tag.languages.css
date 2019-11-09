@@ -1,0 +1,28 @@
+.mw-pt-languages {
+    background-color: #2f3136;
+    border: 1px solid #2d2f34;
+}
+
+.mw-pt-languages-label {
+    background-color: #202225;
+}
+
+.mw-pt-progress--stub {
+    background-image: url( ../../images/ext/translate/prog-1.png );
+}
+
+.mw-pt-progress--low {
+    background-image: url( ../../images/ext/translate/prog-2.png );
+}
+
+.mw-pt-progress--med {
+    background-image: url( ../../images/ext/translate/prog-3.png );
+}
+
+.mw-pt-progress--high {
+    background-image: url( ../../images/ext/translate/prog-4.png );
+}
+
+.mw-pt-progress--complete {
+    background-image: url( ../../images/ext/translate/prog-5.png );
+}

@@ -1,0 +1,15 @@
+.tux-statsbar .tux-proofread {
+    background-color: #00af89;
+}
+
+.tux-statsbar .tux-translated {
+    background-color: #7289DA;
+}
+
+.tux-statsbar .tux-fuzzy {
+    background-color: #fc3;
+}
+
+.tux-statsbar-info {
+    color: #ddd;
+}

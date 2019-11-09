@@ -1,0 +1,52 @@
+.tux-breadcrumb {
+    color: #ddd;
+}
+
+.tux-breadcrumb__item--aggregate {
+    cursor: pointer;
+    color: #7289DA;
+}
+
+.ext-translate-language-selector-label {
+    color: #ddd;
+}
+
+.ext-translate-language-selector .uls:after {
+    border-top: 4px solid #7289DA;}
+
+
+.ext-translate-language-selector .uls {
+    color: #7289DA;
+}
+
+
+.tux-message-selector li.selected a {
+    color: #7289DA;
+}
+
+.tux-message-selector li a {
+    color: #ddd;
+}
+
+.tux-editor-header {
+    color: #ecf0f1;
+}
+
+
+.group-warning {
+    background: #c8ae17;
+}
+
+@media screen and ( min-height: 600px ) {
+    .tux-messagetable-header.floating {
+        background: #36393f;
+        position: fixed;
+        padding-top: 5px;
+        top: 0;
+        z-index: 200;
+    }
+
+    .tux-messagetable-header.floating + .tux-messagelist {
+        margin-top: 50px;
+    }
+}
