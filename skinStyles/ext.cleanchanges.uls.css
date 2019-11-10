@@ -1,0 +1,7 @@
+.ext-cc-language-selector__trigger {
+    color: #7289DA;
+}
+
+ext-cc-language-selector__trigger:after {
+    border-top: 4px solid #7289DA;
+}
