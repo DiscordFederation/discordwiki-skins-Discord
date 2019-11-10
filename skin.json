@@ -157,7 +157,8 @@
 			"+ext.translate.editor": "skinStyles/Translate/ext.translate.editor.less",
 			"+ext.translate.tag.languages": "skinStyles/Translate/ext.translate.tag.languages.css",
 			"+ext.translate.statstable": "skinStyles/Translate/ext.translate.statstable.less",
-			"+ext.cleanchanges.uls": "skinStyles/ext.cleanchanges.uls.css"
+			"+ext.cleanchanges.uls": "skinStyles/ext.cleanchanges.uls.css",
+			"+ext.babel": "skinStyles/ext.babel.css"
 		}
 	},
 	"config": {
