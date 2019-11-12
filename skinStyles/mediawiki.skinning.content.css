@@ -1,3 +1,11 @@
+/* Table of Contents */
+.toc,
+.mw-warning,
+.toccolours {
+    border: 1px solid #2d2f34;
+    background-color: #2f3136;
+}
+
 div.thumbinner {
     background-color: #36393f;
 }
