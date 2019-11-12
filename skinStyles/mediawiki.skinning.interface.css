@@ -40,3 +40,31 @@ pre,
     border: 1px solid #2d2f34;
     background-color: #2f3136;
 }
+
+
+/* Interwiki Styling */
+.mw-parser-output a.extiw,
+.mw-parser-output a.extiw:active {
+    color: #7289da;
+}
+
+.mw-parser-output a.extiw:visited {
+    color: #9b59b6;
+}
+
+.mw-parser-output a.extiw:active {
+    color: #e67e22;
+}
+
+/* External links */
+.mw-parser-output a.external {
+    color: #7289da;
+}
+
+.mw-parser-output a.external:visited {
+    color: #9b59b6; /* T5112 */
+}
+
+.mw-parser-output a.external:active {
+    color: #e67e22;
+}
