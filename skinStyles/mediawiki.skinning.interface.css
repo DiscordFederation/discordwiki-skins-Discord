@@ -8,6 +8,14 @@
     color: #eaecf0;
 }
 
+.toc,
+.mw-warning,
+.toccolours {
+    border: 1px solid #a2a9b1;
+    background-color: #2f3136;
+}
+
+
 div.thumbinner {
     background-color: #36393f;
 }
