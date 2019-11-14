@@ -159,7 +159,8 @@
 			"+ext.translate.statstable": "skinStyles/Translate/ext.translate.statstable.less",
 			"+ext.cleanchanges.uls": "skinStyles/ext.cleanchanges.uls.css",
 			"+ext.babel": "skinStyles/ext.babel.css",
-			"+mediawiki.ui.input": "skinStyles/mediawiki.ui.input.less"
+			"+mediawiki.ui.input": "skinStyles/mediawiki.ui.input.less",
+			"+ext.citeThisPage": "skinStyles/ext.citeThisPage.css"
 		}
 	},
 	"config": {
