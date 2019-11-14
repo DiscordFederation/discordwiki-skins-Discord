@@ -160,7 +160,8 @@
 			"+ext.cleanchanges.uls": "skinStyles/ext.cleanchanges.uls.css",
 			"+ext.babel": "skinStyles/ext.babel.css",
 			"+mediawiki.ui.input": "skinStyles/mediawiki.ui.input.less",
-			"+ext.citeThisPage": "skinStyles/ext.citeThisPage.css"
+			"+ext.citeThisPage": "skinStyles/ext.citeThisPage.css",
+			"+mediawiki.skinning.content.parsoid": "skinStyles/mediawiki.skinning.content.parsoid.less"
 		}
 	},
 	"config": {
