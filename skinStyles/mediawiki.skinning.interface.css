@@ -24,6 +24,11 @@ div.thumbinner {
     border: 1px solid #2d2f34;
 }
 
+html .thumbimage {
+    background-color: #2f3136;
+    border: 1px solid  #2d2f34;
+}
+
 code {
     color: #b9bbbe;
     background-color: #2f3136;
