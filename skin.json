@@ -161,7 +161,9 @@
 			"+ext.babel": "skinStyles/ext.babel.css",
 			"+mediawiki.ui.input": "skinStyles/mediawiki.ui.input.less",
 			"+ext.citeThisPage": "skinStyles/ext.citeThisPage.css",
-			"+mediawiki.skinning.content.parsoid": "skinStyles/mediawiki.skinning.content.parsoid.less"
+			"+mediawiki.skinning.content.parsoid": "skinStyles/mediawiki.skinning.content.parsoid.less",
+			"+ext.flaggedRevs.review.styles": "skinStyles/flaggedrevs/ext.flaggedRevs.review.styles.css",
+			"+ext.flaggedRevs.basic": "skinStyles/flaggedrevs/ext.flaggedRevs.basic.css"
 		}
 	},
 	"config": {
