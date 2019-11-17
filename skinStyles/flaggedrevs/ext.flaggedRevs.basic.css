@@ -7,6 +7,28 @@ span.fr-under-review {
     background-color: #c0922e;
 }
 
+/* Both User Interfaces */
+.flaggedrevs-color-0 {
+    background-color: #2b332f;
+}
+
+.flaggedrevs-color-1 {
+    background-color: #2f3136;
+}
+
+.flaggedrevs-color-2 {
+    background-color: #2d2f34;
+}
+
+.flaggedrevs-color-3 {
+    background-color: #2e3136;
+}
+
+.flaggedrevs-pending {
+    background-color: #EFE3CA;
+}
+
+
 .flaggedrevs-unreviewed {
     background-color: #2f3136;
 }
